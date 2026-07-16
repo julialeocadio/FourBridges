@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Poppins } from "next/font/google";
 import "./globals.css";
+import WhatsAppButton from "@/components/floating/WhatsAppButton";
 
 
 const inter = Inter({
@@ -29,6 +30,8 @@ export default function RootLayout({
       lang="en">
       <body className={`${inter.variable} ${poppins.variable}`}>
         {children}
+
+        <WhatsAppButton />
       </body>
     </html>
   );
