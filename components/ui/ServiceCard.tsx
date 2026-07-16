@@ -22,9 +22,11 @@ export default function ServiceCard({
         rounded-3xl
         border
         p-8
+        shadow-sm
         transition-all
         duration-300
         hover:-translate-y-2
+        hover: shadow-lg
       "
       style={{
         background: "var(--card-bg)",

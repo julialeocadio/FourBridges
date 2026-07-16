@@ -35,10 +35,8 @@ const variants = {
     "hover:text-[var(--button-secondary-hover-text)]"
   ),
 
-  ghost: clsx(
-    "background: transparent",
-    "color: var(--color-primary"
-  )
+  ghost:
+  "border border-white/20 bg-white/10 text-white hover:bg-white hover:text-[var(--color-primary)]"
 };
 
 export default function Button({
