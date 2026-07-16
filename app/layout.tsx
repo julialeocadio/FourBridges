@@ -16,6 +16,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
+  icons: {
+    icon:"/favicon.ico",
+  },
   title: "Four Bridges",
   description: "Immigration Consultancy",
 };
