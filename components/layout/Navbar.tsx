@@ -1,12 +1,15 @@
 import Link from "next/link";
+import { useTranslations } from "next-intl";
 
 import Button from "../ui/Button";
 import Container from "../ui/Container";
 import Image from "next/image";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 import { navigation } from "@/data/navigation";
 
 export default function Navbar() {
+  const t = useTranslations();
   return (
     <header 
       className="
@@ -46,12 +49,16 @@ export default function Navbar() {
             ))}
           </nav>
 
-          <Button
-            href="/contact"
-            size="md"
-          >
-            Book a Consultation
-          </Button>
+          <div className="flex items-center gap-4">
+            <LanguageSwitcher />
+
+            <Button
+              href="/contact"
+              size="md">
+              
+              {t("navbar.consultation")}
+            </Button>
+          </div>
         </div>
       </Container>
     </header>

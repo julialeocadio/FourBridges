@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "countries": "Países",
+    "contact": "Contacto",
+    "consultation": "Reservar Consulta"
+  }
+}
