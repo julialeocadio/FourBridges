@@ -1,26 +1,169 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /*Brand*/
+  --color-primary: #363f4f;
+  --color-secondary: #636d7d;
+
+  /*Accent*/
+  --color-accent: #c77ef7;
+  --color-accent-hover: #b76dea;
+  --color-accent-light: #dcc5f5;
+  --color-accent-soft: #f6effc;
+
+  /*Neutral*/
+  --color-background: #fafafb;
+  --color-surface: #ffffff;
+  --section-alt-bg: #f3f5f8;
+  --card-bg: #ffffff;
+
+  --color-text: #2f3744;
+  --color-text-muted: #707a8b;
+  --color-border: #ececf3;
+
+  /*Effects*/
+  --font-sans: var(--font-inter);
+  --font-heading: var(--font-poppins);
+
+    /* Border Radius */
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 28px;
+
+  --transition: .3s ease;
+
+  --shadow-sm: 0 4px 12px rgba(54, 63, 79, .06);
+  --shadow-md: 0 8px 30px rgba(54, 63, 79, 0.10);
+
+  /* Transition */
+  --transition: all 0.3s ease;
+
+  /*Buttons*/
+  --button-primary-bg: var(--color-accent);
+  --button-primary-hover: var(--color-accent-hover);
+  --button-primary-text: #fff;
+
+  --button-secondary-bg: transparent;
+  --button-secondary-border: var(--color-border);
+  --button-secondary-text: var(--color-primary);
+  --button-secondary-hover: var(--color-primary);
+  --button-secondary-hover-text: #ffffff;
+
+  /*Cards*/
+  --card-bg: var(--card-bg);
+  --card-border: var(--color-border);
+  --card-border-hover: var(--color-accent);
+  --card-shadow: var(--shadow-sm);
+  --card-shadow-hover: var(--shadow-md);
+
+  /*Badges*/
+  --badge-bg: var(--color-accent-soft);
+  --badge-text: var(--color-primary);
+  --badge-border: transparent;
+  --badge-solid-bg: var(--color-accent);
+  --badge-solid-text: #ffffff;
+
+  /*Navbar*/
+  --navbar-bg: rgba(255,255,255,.8);
+  --navbar-border: var(--color-border);
+  --navbar-link: var(--color-primary);
+  --navbar-link-hover: var(--color-accent);
+  --navbar-logo: var(--color-primary);
+
+  /*Footer*/
+  --footer-bg: var(--color-surface);
+  --footer-border: var(--color-border);
+  --footer-title: var(--color-primary);
+  --footer-text: var(--text-secondary);
+  --footer-link: var(--color-primary);
+  --footer-link-hover: var(--color-accent);
+
+  /*Hero*/
+  --hero-highlight: var(--color-accent);
+  --hero-image-bg: linear-gradient(
+    135deg,
+    var(--color-accent-light),
+    var(--color-accent-soft)
+  );
+  --hero-image-text: var(--color-primary);
+  --hero-feature: var(--text-secondary);
+  --hero-bg: 
+  radial-gradient(
+    circle at the top right,
+    rgba(199,126,247,.18),
+    transparent 45%
+  ),
+  linear-gradient(
+    180deg,
+    #fafafb 0%,
+    #f5f7fb 100%
+  );
+
+  /*Highlight*/
+  --highlight-color: var(--color-accent);
+
+  /*Illustrations*/
+  --illustration-bg: linear-gradient(
+    135deg,
+    var(--color-accent-light),
+    var(--color-accent-soft)
+  );
+  --illustration-text: var(--color-primary);
+
+  /*Features*/
+  --feature-text: var(--text-secondary);
+
+  /*Headingd*/
+  --heading-color: var(--color-primary);
+
+  /*Body text*/
+  --paragraph-color: var(--color-text-muted);
+
+  /*Links*/
+  --link-color: var(--color-accent);
+  --link-hover: var(--color-accent-hover);
+
+  /*Icon*/
+  --icon-bg: var(--color-accent);
+  --icon-color: #ffffff;
+
+  /*Typography*/
+  --text-primary: var(--color-text);
+  --text-secondary: var(--color-text-muted);
+  --text-inverse: #ffffff;
+  --heading-color: var(--color-primary);
+
+  /*Layout*/
+  --container-width: 1280px;
+  --container-padding: 1.5rem;
+  --container-padding-lg: 2rem;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: var(--font-sans);
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+}
+
+
+
