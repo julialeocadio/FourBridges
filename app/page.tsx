@@ -7,13 +7,13 @@ import Countries from "@/components/sections/Countries";
 
 export default function Home() {
   return (
-    <>
+    <main>
       <Navbar />
       <Hero />
       <Services />
       <WhyChooseUs />
       <Countries />
       <Footer />
-    </>
+    </main>
   );
 }
