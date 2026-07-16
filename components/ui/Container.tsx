@@ -21,7 +21,8 @@ export default function Container({
   return (
     <div
       className={clsx(
-        "mx-auto w-full",
+        "mx-auto",
+        "w-full",
         sizes[size],
         "px-[var(--container-padding)]",
         "lg:px-[var(--container-padding-lg)]",

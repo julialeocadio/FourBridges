@@ -3,8 +3,11 @@ import clsx from "clsx";
 import Heading from "./Heading";
 import Text from "./Text";
 
+import { ReactNode } from "react";
+
+
 interface SectionTitleProps {
-  title: string;
+  title: ReactNode;
   subtitle?: string;
   align?: "left" | "center";
   className?: string;
