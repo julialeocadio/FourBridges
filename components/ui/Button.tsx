@@ -1,13 +1,15 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { ReactNode } from "react";
 import clsx from "clsx";
 
 interface ButtonProps {
   children: ReactNode;
   href?: string;
-  variant?: "primary" | "secondary" | "ghost";
+  variant?: "primary" | "secondary" | "ghost" | "whatsapp";
   size?: "sm" | "md" | "lg";
   className?: string;
+  target?: string;
+  rel?: string;
 }
 
 const base =
@@ -36,7 +38,13 @@ const variants = {
   ),
 
   ghost:
-  "border border-white/20 bg-white/10 text-white hover:bg-white hover:text-[var(--color-primary)]"
+  "border border-white/20 bg-white/10 text-white hover:bg-white hover:text-[var(--color-primary)]",
+
+  whatsapp: clsx(
+    "bg-[#25D366]",
+    "hover:bg-[#1EBE5D]",
+    "text-[var(--button-primary-text)]",
+  ) 
 };
 
 export default function Button({
@@ -45,6 +53,8 @@ export default function Button({
   variant = "primary",
   size = "md",
   className,
+  target,
+  rel,
 }: ButtonProps) {
   const classes = clsx(
     base,
@@ -54,14 +64,29 @@ export default function Button({
   );
 
   if (href) {
+    const isExternal = 
+    href.startsWith("http") ||
+    href.startsWith("mailto:") ||
+    href.startsWith("tel:");
+
+    if (isExternal) {
+      return (
+        <a
+          href={href}
+          target={target}
+          rel={rel}
+          className={classes}>
+            {children}
+        </a>
+      );
+    }
     return (
       <Link href={href} className={classes}>
         {children}
       </Link>
     );
   }
-
-  return (
+  return(
     <button className={classes}>
       {children}
     </button>
