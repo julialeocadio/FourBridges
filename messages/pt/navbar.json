@@ -1,10 +1,8 @@
 {
-  "navbar": {
     "home": "Início",
     "about": "Sobre",
     "services": "Serviços",
     "countries": "Países",
     "contact": "Contato",
     "consultation": "Agendar Consulta"
-  }
 }

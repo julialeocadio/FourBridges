@@ -1,13 +1,31 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 
 import Container from "../ui/Container";
 import Text from "../ui/Text";
 
 import FooterColumn from "./FooterColumn";
 
-import { footerData } from "@/data/footer";
-
 export default function Footer() {
+  const t = useTranslations("footer");
+  const footerData = {
+    company: [
+      {label: t("about"), href: "/about"},
+      {label: t("countries"), href: "/countries"},
+      {label: t("contact"), href: "/contact"},
+    ],
+
+    services: [
+      {label: t("immigration"), href: "/services/immigration"},
+      {label: t("translations"), href: "/services/translations"},
+    ],
+
+    resources: [
+      {label: t("faq"), href: "/faq"},
+      {label: t("privacy"), href: "/privacy-policy"},
+      {label: t("terms"), href: "/terms-of-service"},
+    ],
+  };
   return (
     <footer className="mt-24 border-t border-[var(--footer-border)] bg-[var(--footer-bg)]">
       <Container>
@@ -22,25 +40,23 @@ export default function Footer() {
             </Link>
 
             <Text className="mt-6 max-w-sm">
-              Helping individuals and families navigate immigration,
-              visas, residency, and certified translations with
-              confidence.
+              {t("text")}
             </Text>
           </div>
 
           {/* Footer Columns */}
           <FooterColumn
-            title="Company"
+            title={t("company")}
             links={footerData.company}
           />
 
           <FooterColumn
-            title="Services"
+            title={t("services")}
             links={footerData.services}
           />
 
           <FooterColumn
-            title="Resources"
+            title={t("resources")}
             links={footerData.resources}
           />
         </div>
@@ -48,11 +64,11 @@ export default function Footer() {
         {/* Bottom */}
         <div className="flex flex-col gap-4 border-t border-[var(--footer-border)] py-8 md:flex-row md:items-center md:justify-between">
           <Text variant="small">
-            © {new Date().getFullYear()} Four Bridges. All rights reserved.
+            © {new Date().getFullYear()} Four Bridges. {t("copyright")}
           </Text>
 
           <Text variant="small">
-            Immigration Consulting • Certified Translation • Global Support
+            {t("tagline")}
           </Text>
         </div>
       </Container>

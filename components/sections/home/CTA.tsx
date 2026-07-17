@@ -4,8 +4,10 @@ import Heading from "@/components/ui/Heading";
 import Highlight from "@/components/ui/Highlight";
 import Section from "@/components/ui/Section";
 import Text from "@/components/ui/Text";
+import { useTranslations } from "next-intl";
 
 export default function CTA() {
+  const t = useTranslations("cta");
   return (
     <Section>
       <Container size="md" className="relative overflow-hidden">
@@ -27,8 +29,8 @@ export default function CTA() {
             level={2}
             className="text-white"
           >
-            Ready to Start Your{" "}
-            <Highlight>Immigration Journey?</Highlight>
+            {t("title1")}{" "}
+            <Highlight>{t("title2")}</Highlight>
           </Heading>
 
           <Text
@@ -39,9 +41,7 @@ export default function CTA() {
               text-[var(--color-accent-light)]
             "
           >
-            Whether you're planning to study, work, reunite with your
-            family, or begin a new life abroad, our experienced team 
-            is ready to help you.
+            {t("description")}
           </Text>
 
           <div
@@ -54,14 +54,14 @@ export default function CTA() {
             "
           >
             <Button href="/contact">
-              Book a Consultation
+              {t("button1")}
             </Button>
 
             <Button
               href="/services"
               variant="ghost"
             >
-              Explore Services
+              {t("button2")}
             </Button>
           </div>
         </div>

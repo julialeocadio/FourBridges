@@ -1,4 +1,6 @@
-import Link from "next/link";
+"use client";
+
+import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 
 import Button from "../ui/Button";
@@ -6,10 +8,15 @@ import Container from "../ui/Container";
 import Image from "next/image";
 import LanguageSwitcher from "./LanguageSwitcher";
 
-import { navigation } from "@/data/navigation";
-
 export default function Navbar() {
-  const t = useTranslations();
+  const t = useTranslations("navbar");
+  const navigation = [
+    {label: t("home"), href: "/"},
+    {label: t("about"), href: "/about"},
+    {label: t("services"), href: "/services"},
+    {label: t("countries"), href: "/countries"},
+    {label: t("contact"), href: "/contact"},
+  ];
   return (
     <header 
       className="
@@ -56,7 +63,7 @@ export default function Navbar() {
               href="/contact"
               size="md">
               
-              {t("navbar.consultation")}
+              {t("consultation")}
             </Button>
           </div>
         </div>

@@ -1,3 +1,5 @@
+"use client"
+
 import Card from "@/components/ui/Card";
 import Container from "@/components/ui/Container";
 import Section from "@/components/ui/Section";
@@ -5,18 +7,45 @@ import SectionTitle from "@/components/ui/SectionTitle";
 import Heading from "@/components/ui/Heading";
 import Text from "@/components/ui/Text";
 import Highlight from "@/components/ui/Highlight";
-
-
-import { whyChooseUs } from "@/data/whyChooseUs";
+import { useTranslations } from "next-intl";
+import {
+    ShieldCheck,
+    Globe2,
+    Languages,
+    BadgeCheck,
+} from "lucide-react";
 
 export default function WhyChooseUs() {
+    const t = useTranslations("whyChooseUs");
+    const whyChooseUs = [
+    {
+        icon: ShieldCheck,
+        title: t("r1"),
+        description: t("d1"),
+    },
+    {
+        icon: Globe2,
+        title: t("r2"),
+        description: t("d2"),
+    },
+    {
+        icon: Languages,
+        title: t("r3"),
+        description: t("d3"),
+    },
+    {
+        icon: BadgeCheck,
+        title: t("r4"),
+        description: t("d4"),
+    },
+    ];
     return (
         <Section background="surface">
             <Container>
                 <div className="mx-auto max-w-3xl text-center">
                     <SectionTitle
-                    title={<>Why <Highlight>Choose Us</Highlight></>}
-                    subtitle="We're committed to delivering reliable, transparent, and personalized immigration and translation services."
+                    title={<>{t("why")} <Highlight>{t("choose")}</Highlight></>}
+                    subtitle={t("text")}
                     />
                 </div>
 

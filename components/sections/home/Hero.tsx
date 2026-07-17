@@ -9,14 +9,17 @@ import Heading from "@/components/ui/Heading";
 import Highlight from "@/components/ui/Highlight";
 import Section from "@/components/ui/Section";
 import Text from "@/components/ui/Text";
+import { useTranslations } from "next-intl";
 
-const features = [
-  "Personalized Guidance",
-  "Global Support",
-  "Multilingual Team",
-];
+
 
 export default function Hero() {
+  const t = useTranslations("hero");
+  const features = [
+    t("feature1"),
+    t("feature2"),
+    t("feature3"),
+  ];
   return (
     <Section 
       spacing="lg"
@@ -29,16 +32,16 @@ export default function Hero() {
           <div>
 
             <Badge className="mb-6">
-              Trusted Immigration Experts
+              {t("badge")}
             </Badge>
 
             <Heading
               level={1}
               className="max-w-xl"
             >
-              Your Trusted Partner for{" "}
+              {t("title1")}{" "}
               <Highlight>
-                Immigration Services
+                {t("title2")}
               </Highlight>
             </Heading>
 
@@ -46,23 +49,20 @@ export default function Hero() {
               variant="body"
               className="mt-8 max-w-xl"
             >
-              We simplify immigration processes and provide
-              professional translation services for
-              individuals, families, students, and businesses
-              worldwide.
+              {t("description")}
             </Text>
 
             <div className="mt-10 flex flex-wrap gap-4">
 
               <Button href="/contact">
-                Book a Consultation
+                {t("primaryButton")}
               </Button>
 
               <Button
                 href="/services"
                 variant="secondary"
               >
-                Explore Services
+                {t("secondaryButton")}
               </Button>
 
             </div>

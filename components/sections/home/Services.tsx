@@ -3,17 +3,42 @@ import Section from "@/components/ui/Section";
 import SectionTitle from "@/components/ui/SectionTitle";
 import ServiceCard from "@/components/ui/ServiceCard";
 import Highlight from "@/components/ui/Highlight";
+import { useTranslations } from "next-intl";
 
-import { services } from "@/data/services";
+import {
+    Globe,
+    Languages,
+    ScrollText,
+} from "lucide-react";
 
 export default function Services() {
+    const t = useTranslations("services");
+    const services = [
+    {
+        icon: Globe,
+        title: t("s1"),
+        description: t("d1"),
+        href: "/services/immigration",
+    },
+    {
+        icon: Languages,
+        title: t("s2"),
+        description: t("d2"),
+        href: "/services/translations",
+    },
+    {
+        icon: ScrollText,
+        title: t("s3"),
+        description: t("d3"),
+    },
+    ]
     return (
         <Section background="surface">
             <Container>
                 <div className="mx-auto max-w-3xl text-center">
                     <SectionTitle
-                        title={<>Our <Highlight>Services</Highlight></>}
-                        subtitle="Comprehensive immigration solutions designed to support your journey."
+                        title={<>{t("title1")}<Highlight>{t("title2")}</Highlight></>}
+                        subtitle={t("subtitle")}
                     />
                 </div>
 

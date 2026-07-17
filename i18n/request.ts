@@ -1,14 +1,27 @@
-import {getRequestConfig} from "next-intl/server";
-import {routing} from "./routing";
+import { getRequestConfig } from "next-intl/server";
 
-export default getRequestConfig(async ({requestLocale}) => {
-    let locale = await requestLocale;
-    if (!locale || !routing.locales.includes(locale as any)) {
-        locale = routing.defaultLocale;
-  }
+export default getRequestConfig(async ({ requestLocale }) => {
+  const locale = (await requestLocale) || "en";
+
+  const messages = {
+    navbar: (await import(`../messages/${locale}/navbar.json`)).default,
+
+    hero: (await import(`../messages/${locale}/hero.json`)).default,
+
+    services: (await import(`../messages/${locale}/services.json`)).default,
+
+    whyChooseUs: (await import(`../messages/${locale}/whyChooseUs.json`)).default,
+
+    countries: (await import(`../messages/${locale}/countries.json`)).default,
+
+    cta: (await import(`../messages/${locale}/cta.json`)).default,
+
+    footer: (await import(`../messages/${locale}/footer.json`)).default,
+
+  };
 
   return {
     locale,
-    messages: (await import(`../messages/${locale}.json`)).default,
+    messages,
   };
 });
