@@ -4,9 +4,11 @@ import Highlight from "@/components/ui/Highlight";
 import Section from "@/components/ui/Section";
 import SectionTitle from "@/components/ui/SectionTitle";
 import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 
 export default function Countries() {
   const t = useTranslations("countries");
+  const locale = useLocale();
   const countries = [
     {
       code: "US",
@@ -116,6 +118,9 @@ export default function Countries() {
       href: "/countries/unitedkingdom",
     },
   ]
+  const sortedCountries = [...countries].sort((a, b) =>
+    a.name.localeCompare(b.name, locale)
+    );
   return (
     <Section>
       <Container>
@@ -132,7 +137,7 @@ export default function Countries() {
         </div>
 
         <div className="mt-16 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
-          {countries.map((country) => (
+          {sortedCountries.map((country) => (
             <CountryCard
               key={country.name}
               {...country}
