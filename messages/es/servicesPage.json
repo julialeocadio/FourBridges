@@ -1,4 +1,4 @@
- {
+{
   "hero": {
     "badge": "Servicios Profesionales de Inmigración",
     "title": "Soluciones de Inmigración Adaptadas a Tus Objetivos",
@@ -8,5 +8,66 @@
     "personalized": "Asesoramiento 100 % Personalizado",
     "multilingual": "Atención Multilingüe",
     "online": "Consultas Online"
+  },
+
+  "grid": {
+    "title": "Nuestros Servicios de Inmigración",
+    "subtitle": "Descubre los servicios profesionales que ofrecemos para acompañarte en cada etapa de tu proceso de inmigración.",
+    "learnMore": "Más Información",
+
+    "study": {
+      "title": "Estudiar en el Extranjero",
+      "description": "Visados de estudiante y oportunidades educativas en los principales destinos.",
+      "item": ["Canadá", "Australia", "Estados Unidos"]
+    },
+
+    "work": {
+      "title": "Trabajar en el Extranjero",
+      "description": "Visados de trabajo e inmigración para profesionales cualificados.",
+      "item": ["Trabajadores Cualificados", "Patrocinio Empresarial", "Nómadas Digitales"]
+    },
+
+    "family": {
+      "title": "Reagrupación Familiar",
+      "description": "Reúne a tus seres queridos con total confianza.",
+      "item": ["Cónyuge", "Hijos", "Padres"]
+    },
+
+    "residency": {
+      "title": "Residencia Permanente",
+      "description": "Opciones a largo plazo para construir tu futuro en el extranjero.",
+      "item": ["Residente Permanente", "Vías hacia la Ciudadanía", "Visados de Larga Duración"]
+    },
+
+    "investor": {
+      "title": "Visado de Inversor",
+      "description": "Programas de inversión y emprendimiento para vivir y hacer crecer tu negocio en el extranjero.",
+      "item": ["Emprendedores", "Inversores", "Expansión Empresarial"]
+    }
+  },
+
+  "process": {
+    "title": "Nuestro Proceso",
+    "subtitle": "Un enfoque sencillo y transparente para ayudarte a alcanzar tus objetivos de inmigración.",
+
+    "consultation": {
+      "title": "Consulta Inicial",
+      "description": "Comenzamos conociendo tus objetivos, tu situación y el destino que deseas."
+    },
+
+    "assessment": {
+      "title": "Evaluación de Elegibilidad",
+      "description": "Nuestros especialistas analizan tu perfil y te recomiendan la vía de inmigración más adecuada."
+    },
+
+    "application": {
+      "title": "Preparación de la Solicitud",
+      "description": "Te ayudamos a reunir la documentación, completar los formularios y preparar una solicitud sólida."
+    },
+
+    "support": {
+      "title": "Acompañamiento Continuo",
+      "description": "Permanecemos a tu lado durante todo el proceso hasta que se tome una decisión."
+    }
   }
 }

@@ -8,5 +8,66 @@
     "personalized": "Atendimento 100% Personalizado",
     "multilingual": "Suporte Multilíngue",
     "online": "Consultas Online"
+  },
+
+  "grid": {
+    "title": "Nossos Serviços de Imigração",
+    "subtitle": "Conheça os serviços profissionais que oferecemos para apoiar cada etapa da sua jornada de imigração.",
+    "learnMore": "Saiba Mais",
+
+    "study": {
+      "title": "Estudar no Exterior",
+      "description": "Vistos de estudante e oportunidades de educação nos principais destinos.",
+      "item": ["Canadá", "Austrália", "Estados Unidos"]
+    },
+
+    "work": {
+      "title": "Trabalhar no Exterior",
+      "description": "Vistos de trabalho e imigração para profissionais qualificados.",
+      "item": ["Profissionais Qualificados", "Patrocínio por Empregador", "Nômades Digitais"]
+    },
+
+    "family": {
+      "title": "Reunião Familiar",
+      "description": "Reúna sua família com segurança e tranquilidade.",
+      "item": ["Cônjuge", "Filhos", "Pais"]
+    },
+
+    "residency": {
+      "title": "Residência Permanente",
+      "description": "Caminhos de longo prazo para construir seu futuro no exterior.",
+      "item": ["Residente Permanente", "Caminhos para a Cidadania", "Vistos de Longa Duração"]
+    },
+
+    "investor": {
+      "title": "Visto de Investidor",
+      "description": "Programas de investimento e empreendedorismo para viver e expandir seus negócios no exterior.",
+      "item": ["Empreendedores", "Investidores", "Expansão de Negócios"]
+    }
+  },
+
+  "process": {
+    "title": "Nosso Processo",
+    "subtitle": "Uma abordagem simples e transparente para ajudar você a alcançar seus objetivos de imigração.",
+
+    "consultation": {
+      "title": "Consulta Inicial",
+      "description": "Começamos entendendo seus objetivos, sua situação e o destino desejado."
+    },
+
+    "assessment": {
+      "title": "Avaliação de Elegibilidade",
+      "description": "Nossos especialistas analisam seu perfil e recomendam o caminho de imigração mais adequado."
+    },
+
+    "application": {
+      "title": "Preparação da Solicitação",
+      "description": "Ajudamos na organização dos documentos, preenchimento dos formulários e preparação de uma solicitação sólida."
+    },
+
+    "support": {
+      "title": "Acompanhamento Contínuo",
+      "description": "Permanecemos ao seu lado durante todo o processo até a decisão final."
+    }
   }
 }

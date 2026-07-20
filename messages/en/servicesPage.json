@@ -7,6 +7,67 @@
         "secondaryButton": "Contact Us",
         "personalized": "100% Personalized Guidance",
         "multilingual": "Multilingual Support",
-        "online": "Online Consultations"   
+        "online": "Online Consultations"  
+    },
+
+    "grid": {
+        "title": "Our Immigration Services",
+        "subtitle": "Explore the professional services we offer to support every stage of your immigration journey.",
+        "learnMore": "Learn More",
+        
+        "study": {
+        "title": "Study Abroad",
+        "description": "Student visas and education pathways for leading destinations.",
+        "item": ["Canada", "Australia", "United States"]
+        },
+
+        "work": {
+        "title": "Work Abroad",
+        "description": "Employment visas and skilled worker immigration.",
+        "item": ["Skilled Workers", "Employer Sponsored", "Digital Nomads"]
+        },
+
+        "family": {
+        "title": "Family Sponsorship",
+        "description": "Bring your loved ones together with confidence.",
+        "item": ["Spouse", "Children", "Parents"]
+        },
+
+        "residency": {
+        "title": "Permanent Residency",
+        "description": "Long-term pathways to build your future abroad.",
+        "item": ["Permanent Resident", "Citizenship Pathways", "Long-term Visas"]
+        },
+
+        "investor": {
+        "title": "Investor Visa",
+        "description": "Investment and entrepreneur pathways to live and grow your business abroad.",
+        "item": ["Entrepreneurs", "Investors", "Business Expansion"]
+        }
+    },
+
+    "process": {
+        "title": "Our Process",
+        "subtitle": "A simple, transparent approach to help you achieve your immigration goals.",
+
+        "consultation": {
+            "title": "Initial Consultation",
+            "description": "We begin by understanding your goals, circumstances, and preferred destination."
+        },
+
+        "assessment": {
+            "title": "Eligibility Assessment",
+            "description": "Our specialists evaluate your profile and recommend the most suitable immigration pathway."
+        },
+
+        "application": {
+            "title": "Application Preparation",
+            "description": "We assist in gathering documents, completing forms, and preparing a strong application."
+        },
+
+        "support": {
+            "title": "Ongoing Support",
+            "description": "We remain by your side throughout the process until a decision is reached."
+        }
     }
 }
