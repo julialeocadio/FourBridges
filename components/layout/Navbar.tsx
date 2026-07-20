@@ -31,13 +31,15 @@ export default function Navbar() {
     >
       <Container>
         <div className="flex h-20 items-center justify-between">
-          <Image 
-            src="/images/img.jpeg"
-            alt="Four Bridges Logo"
-            width={160}
-            height={100}
-            priority
-            className="rounded"/>
+          <Link href={"/"}>
+            <Image 
+              src="/images/img.jpeg"
+              alt="Four Bridges Logo"
+              width={160}
+              height={100}
+              priority
+              className="rounded"/>
+          </Link>
 
           <nav className="hidden items-center gap-8 md:flex">
             {navigation.map((item) => (
