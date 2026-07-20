@@ -13,6 +13,7 @@ interface CountryCardProps {
     name: string;
     visas: string[];
     href: string;
+    learnMore: string;
 }
 
 export default function CountryCard({
@@ -20,6 +21,7 @@ export default function CountryCard({
     name,
     visas,
     href,
+    learnMore,
 }: CountryCardProps) {
     const Flag = Flags[code as keyof typeof Flags];
     return (
@@ -56,7 +58,7 @@ export default function CountryCard({
                 </div>
 
             <div className="mt-auto flex items-center gap-2 pt-8 font-medium text-[var(--highlight-color)]">
-                Learn More 
+                {learnMore} 
                 <ArrowRight
                     size={18}
                     className="transition-transform duration-300 group-hover:translate-x-1"/>

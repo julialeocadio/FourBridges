@@ -6,6 +6,7 @@ interface Props {
   title: string;
   description: string;
   href: string;
+  learnMore: string;
 }
 
 export default function ServiceCard({
@@ -13,6 +14,7 @@ export default function ServiceCard({
   title,
   description,
   href,
+  learnMore,
 }: Props) {
   return (
     <Link
@@ -69,7 +71,7 @@ export default function ServiceCard({
             color: "var(--link-color)",
         }}
         >
-        Learn More
+        {learnMore}
 
         <ArrowRight
           className="transition group-hover:translate-x-1"

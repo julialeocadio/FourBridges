@@ -48,6 +48,7 @@ export default function Services() {
                             key={service.title}
                             {...service}
                             href={service.href ?? "#"}
+                            learnMore={t("learnMore")}
                         />
                     ))}
                 </div>

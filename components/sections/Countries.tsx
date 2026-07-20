@@ -141,6 +141,7 @@ export default function Countries() {
             <CountryCard
               key={country.name}
               {...country}
+              learnMore={t("learnMore")}
             />
           ))}
         </div>
