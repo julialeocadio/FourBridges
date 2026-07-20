@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "badge": "Professional Translation Services",
+    "title": "Translations for Business, Technical and Professional Needs",
+    "subtitle": "We provide high-quality translations for companies, professionals, and organizations, ensuring linguistic accuracy, cultural adaptation, and confidentiality across every project.",
+    "primaryButton": "Request a Quote",
+    "secondaryButton": "Contact Us",
+    "expertiseTitle": "Areas of Expertise",
+    "support": "Languages we support",
+    "languages": ["English", "Portuguese", "Spanish", "French", "Russian"],
+    "expertise": ["Business", "Marketing", "Finance", "Technology", "Medical", "Academic", "Publishing", "Documents"],
+
+        "features": {
+        "quality": "Native-Level Quality",
+        "confidential": "100% Confidential",
+        "turnaround": "Fast Turnaround"
+        }
+
+  }
+}

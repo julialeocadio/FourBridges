@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "badge": "Servicios Profesionales de Traducción",
+    "title": "Traducciones para Necesidades Empresariales, Técnicas y Profesionales",
+    "subtitle": "Ofrecemos traducciones de alta calidad para empresas, profesionales y organizaciones, garantizando precisión lingüística, adaptación cultural y confidencialidad en cada proyecto.",
+    "primaryButton": "Solicitar un Presupuesto",
+    "secondaryButton": "Contáctanos",
+    "expertiseTitle": "Áreas de Especialización",
+    "support": "Idiomas con los que trabajamos",
+    "languages": ["Inglés", "Portugués", "Español", "Francés", "Ruso"],
+    "expertise": ["Empresa", "Marketing", "Finanzas", "Tecnología", "Medicina", "Ámbito Académico", "Editorial", "Documentos"],
+
+    "features": {
+      "quality": "Calidad de Nivel Nativo",
+      "confidential": "100 % Confidencial",
+      "turnaround": "Entrega Rápida"
+    }
+  }
+}

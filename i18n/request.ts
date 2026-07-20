@@ -22,6 +22,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
     contact: (await import(`../messages/${locale}/contact.json`)).default,
 
     servicesPage: (await import(`../messages/${locale}/servicesPage.json`)).default,
+    
+    translationsPage: (await import(`../messages/${locale}/translationsPage.json`)).default,
 
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
