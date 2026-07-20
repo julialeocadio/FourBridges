@@ -1,0 +1,31 @@
+{
+  "title": "Soluciones para Cada Objetivo",
+  "subtitle": "Elige la vía de inmigración que mejor se adapte a tus planes.",
+
+  "study": {
+    "title": "Estudiar en el Extranjero",
+    "description": "Visados de estudiante y oportunidades educativas en los principales destinos."
+  },
+
+  "work": {
+    "title": "Trabajar en el Extranjero",
+    "description": "Visados de trabajo e inmigración para profesionales cualificados."
+  },
+
+  "family": {
+    "title": "Reagrupación Familiar",
+    "description": "Reúne a tus seres queridos con total confianza."
+  },
+
+  "residency": {
+    "title": "Residencia Permanente",
+    "description": "Opciones a largo plazo para construir tu futuro en el extranjero."
+  },
+
+  "investor": {
+    "title": "Visado de Inversor",
+    "description": "Programas de inversión y emprendimiento para vivir y hacer crecer tu negocio en el extranjero."
+  },
+
+  "learnMore": "Más Información"
+}

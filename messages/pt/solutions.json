@@ -1,0 +1,31 @@
+{
+  "title": "Soluções para Cada Objetivo",
+  "subtitle": "Escolha o caminho de imigração que melhor se encaixa nos seus planos.",
+
+  "study": {
+    "title": "Estudar no Exterior",
+    "description": "Vistos de estudante e oportunidades de educação nos principais destinos."
+  },
+
+  "work": {
+    "title": "Trabalhar no Exterior",
+    "description": "Vistos de trabalho e imigração para profissionais qualificados."
+  },
+
+  "family": {
+    "title": "Reunião Familiar",
+    "description": "Reúna sua família com segurança e tranquilidade."
+  },
+
+  "residency": {
+    "title": "Residência Permanente",
+    "description": "Caminhos de longo prazo para construir seu futuro no exterior."
+  },
+
+  "investor": {
+    "title": "Visto de Investidor",
+    "description": "Programas de investimento e empreendedorismo para viver e expandir seus negócios no exterior."
+  },
+
+  "learnMore": "Saiba Mais"
+}

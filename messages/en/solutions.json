@@ -1,0 +1,31 @@
+{
+  "title": "Solutions for Every Goal",
+  "subtitle": "Choose the immigration pathway that best matches your plans.",
+
+  "study": {
+    "title": "Study Abroad",
+    "description": "Student visas and education pathways for leading destinations."
+  },
+
+  "work": {
+    "title": "Work Abroad",
+    "description": "Employment visas and skilled worker immigration."
+  },
+
+  "family": {
+    "title": "Family Sponsorship",
+    "description": "Bring your loved ones together with confidence."
+  },
+
+   "residency": {
+    "title": "Permanent Residency",
+    "description": "Long-term pathways to build your future abroad."
+  },
+
+  "investor": {
+    "title": "Investor Visa",
+    "description": "Investment and entrepreneur pathways to live and grow your business abroad."
+  },
+
+  "learnMore": "Learn More"
+}

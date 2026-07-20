@@ -14,6 +14,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     countries: (await import(`../messages/${locale}/countries.json`)).default,
 
+    solutions: (await import(`../messages/${locale}/solutions.json`)).default,
+
     cta: (await import(`../messages/${locale}/cta.json`)).default,
 
     contact: (await import(`../messages/${locale}/contact.json`)).default,

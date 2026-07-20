@@ -34,8 +34,7 @@ export default function ContactHero() {
                 variant="whatsapp" 
                 target="_blank" 
                 rel="noopener noreferrer">
-                <MessageCircle size={18} />
-              {t("button2")}
+                <MessageCircle size={18} /> {t("button2")}
             </Button>
           </div>
         </div>
