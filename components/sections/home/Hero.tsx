@@ -77,7 +77,7 @@ export default function Hero() {
                 >
                   <CheckCircle2
                     size={18}
-                    className="text-[var(--highlight-color)]"
+                    className="text-[var(--color-success)]"
                   />
 
                   <span>{feature}</span>
