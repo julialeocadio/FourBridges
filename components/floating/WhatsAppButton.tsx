@@ -1,8 +1,7 @@
 "use client"
 
 import Link from "next/link";
-//import { FaWhatsapp } from "react-icons/fa";
-import WhatsAppIcon from "../icons/WhatsAppIcon";
+import { FaWhatsapp } from "react-icons/fa";
 
 
 export default function WhatsAppButton() {
@@ -33,7 +32,7 @@ export default function WhatsAppButton() {
                 duration-300
                 hover:scale-110
                 hover:shadow-xl">
-            <WhatsAppIcon />
+            <FaWhatsapp size={30}/>
         </Link>
     );
 }

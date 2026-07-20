@@ -5,7 +5,7 @@ import Heading from "@/components/ui/Heading";
 import Text from "@/components/ui/Text";
 import Button from "@/components/ui/Button";
 import { useTranslations } from "next-intl";
-import { MessageCircle } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
 
 export default function ContactHero() {
   const t = useTranslations("contact");
@@ -35,7 +35,7 @@ export default function ContactHero() {
                 target="_blank" 
                 rel="noopener noreferrer">
                 <span className="inline-flex items-center gap-2">
-                  <MessageCircle size={18} /> {t("button2")}
+                  <FaWhatsapp size={24} /> {t("button2")}
                 </span>
             </Button>
           </div>
