@@ -1,5 +1,6 @@
 import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
+import { FaInstagram, FaLinkedin } from "react-icons/fa";
 
 import Container from "../ui/Container";
 import Text from "../ui/Text";
@@ -67,9 +68,30 @@ export default function Footer() {
             © {new Date().getFullYear()} Four Bridges. {t("copyright")}
           </Text>
 
-          <Text variant="small">
-            {t("tagline")}
-          </Text>
+          <div className="flex items-center gap-6">
+            <Text variant="small">
+              {t("tagline")}
+            </Text>
+            <div className="flex items-center gap-3">
+              <a
+                href="https://www.instagram.com/fourbridgesassessoria"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram"
+                className="text-[var(--footer-text)] transition-colors hover:text-[var(--primary)]">
+                  <FaInstagram size={20}/>
+              </a>
+
+               <a
+                href="https://www.linkedin.com/company/four-bridges-assessoria-internacional/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="LinkedIn"
+                className="text-[var(--footer-text)] transition-colors hover:text-[var(--primary)]">
+                  <FaLinkedin size={20}/>
+              </a>
+            </div>
+          </div>
         </div>
       </Container>
     </footer>
