@@ -1,0 +1,32 @@
+{
+  "canada": {
+    "hero": {
+      "badge": "Canadá",
+      "title": "Construa Seu Futuro no Canadá",
+      "subtitle": "O Canadá é um dos principais destinos para imigrantes, conhecido por sua economia forte, excelente qualidade de vida e comunidades multiculturais acolhedoras. Com diversas opções de imigração, os recém-chegados têm acesso a oportunidades de carreira, saúde de qualidade, educação e um caminho claro para a residência permanente e a cidadania.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família",
+        "Residência Permanente"
+      ],
+
+      "highlights": {
+        "economy": "Economia Forte",
+        "education": "Educação de Classe Mundial",
+        "qualityLife": "Alta Qualidade de Vida",
+        "multicultural": "Sociedade Multicultural"
+      },
+
+      "benefits": [
+        "Excelentes oportunidades de carreira",
+        "Caminhos claros para a residência permanente",
+        "Comunidades seguras e acolhedoras"
+      ]
+    }
+  }
+}

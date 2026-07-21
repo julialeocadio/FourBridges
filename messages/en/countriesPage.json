@@ -1,0 +1,32 @@
+{    
+    "canada": {
+        "hero": {
+            "badge": "Canada",
+            "title": "Build Your Future in Canada",
+            "subtitle": "Canada is a top destination for immigrants, known for its strong economy, excellent quality of life, and welcoming multicultural communities. With a range of immigration pathways, newcomers can access career opportunities, quality healthcare, education, and a clear path to permanent residency and citizenship.",
+
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family",
+                "Permanent Residence"
+            ],
+
+            "highlights": {
+                "economy": "Strong Economy",
+                "education": "World-Class Education",
+                "qualityLife": "High Quality of Life",
+                "multicultural": "Multicultural Society"
+            },
+
+            "benefits": [
+                "Excellent career opportunities",
+                "Clear permanent residence pathways",
+                "Safe and welcoming communities"
+            ]
+        }
+    }
+}

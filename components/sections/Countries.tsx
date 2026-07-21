@@ -115,7 +115,7 @@ export default function Countries() {
         t("student"),
         t("work"),
       ],
-      href: "/countries/unitedkingdom",
+      href: "/countries/united-kingdom",
     },
   ]
   const sortedCountries = [...countries].sort((a, b) =>

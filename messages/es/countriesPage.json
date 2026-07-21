@@ -1,0 +1,32 @@
+{
+  "canada": {
+    "hero": {
+      "badge": "Canadá",
+      "title": "Construye Tu Futuro en Canadá",
+      "subtitle": "Canadá es uno de los principales destinos para inmigrantes, reconocido por su sólida economía, su excelente calidad de vida y sus acogedoras comunidades multiculturales. Gracias a sus diferentes vías de inmigración, los recién llegados pueden acceder a oportunidades laborales, sanidad de calidad, educación y un camino claro hacia la residencia permanente y la ciudadanía.",
+
+      "primaryButton": "Reservar una Consulta",
+      "secondaryButton": "Contáctanos",
+
+      "features": [
+        "Estudios",
+        "Trabajo",
+        "Familia",
+        "Residencia Permanente"
+      ],
+
+      "highlights": {
+        "economy": "Economía Sólida",
+        "education": "Educación de Clase Mundial",
+        "qualityLife": "Alta Calidad de Vida",
+        "multicultural": "Sociedad Multicultural"
+      },
+
+      "benefits": [
+        "Excelentes oportunidades profesionales",
+        "Vías claras hacia la residencia permanente",
+        "Comunidades seguras y acogedoras"
+      ]
+    }
+  }
+}
