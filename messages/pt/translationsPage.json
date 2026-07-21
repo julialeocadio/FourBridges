@@ -65,5 +65,12 @@
       "title": "Documentos Pessoais",
       "items": ["Documentos de Identidade", "Certidões de Nascimento", "Certidões de Casamento", "Certidões de Óbito"]
     }
+  },
+
+  "cta": {
+    "title": "Pronto para Traduzir Seus Documentos?",
+    "subtitle": "Se você precisa de traduções empresariais, técnicas ou acadêmicas, estamos prontos para ajudar você a se comunicar com confiança.",
+    "primaryButton": "Solicitar um Orçamento",
+    "secondaryButton": "Conversar no WhatsApp"
   }
 }

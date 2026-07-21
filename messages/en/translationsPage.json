@@ -66,5 +66,12 @@
       "title": "Personal Documents",
       "items": ["IDs", "Birth Certificates", "Marriage Certificates", "Death Certificates"]
     }
+  },
+
+  "cta": {
+    "title": "Ready to Translate Your Documents?",
+    "subtitle": "Whether you need business, technical, or academic translations, we're ready to help you communicate with confidence.",
+    "primaryButton": "Request a Quote",
+    "secondaryButton": "Chat on WhatsApp"
   }
 }
