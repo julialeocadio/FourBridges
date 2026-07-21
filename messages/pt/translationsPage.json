@@ -15,5 +15,55 @@
       "confidential": "100% Confidencial",
       "turnaround": "Entrega Rápida"
     }
+  },
+
+  "categories": {
+    "title": "Serviços de Tradução",
+    "subtitle": "Oferecemos serviços de tradução especializados para diversos setores e tipos de documentos.",
+
+    "business": {
+      "title": "Negócios",
+      "items": ["Contratos", "Relatórios Corporativos", "Propostas Comerciais", "Apresentações"]
+    },
+
+    "technical": {
+      "title": "Técnico",
+      "items": ["Manuais do Usuário", "Documentos de Engenharia", "Especificações Técnicas", "Documentação de Produtos"]
+    },
+
+    "marketing": {
+      "title": "Marketing",
+      "items": ["Sites", "Redes Sociais", "Conteúdo para SEO", "Campanhas Publicitárias"]
+    },
+
+    "academic": {
+      "title": "Acadêmico",
+      "items": ["Artigos Científicos", "Artigos", "Dissertações", "Materiais Educacionais"]
+    },
+
+    "medical": {
+      "title": "Médico",
+      "items": ["Estudos Clínicos", "Laudos Médicos", "Documentos da Área da Saúde", "Publicações Científicas"]
+    },
+
+    "documents": {
+      "title": "Documentos",
+      "items": ["Contratos", "Diplomas", "Documentos de Conformidade", "Pareceres legais"]
+    },
+
+    "audiovisual": {
+      "title": "Audiovisual",
+      "items": ["Legendas", "Roteiros", "Transcrições", "Conteúdo de Mídia"]
+    },
+
+    "editorial": {
+      "title": "Editorial",
+      "items": ["Livros", "Artigos", "Revistas", "Publicações Acadêmicas"]
+    },
+  
+    "personal": {
+      "title": "Documentos Pessoais",
+      "items": ["Documentos de Identidade", "Certidões de Nascimento", "Certidões de Casamento", "Certidões de Óbito"]
+    }
   }
 }

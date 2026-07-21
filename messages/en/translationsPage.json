@@ -16,5 +16,55 @@
         "turnaround": "Fast Turnaround"
         }
 
+  },
+ 
+  "categories": {
+    "title": "Translation Services",
+    "subtitle": "We provide specialized translation services across a wide range of industries and document types.",
+
+    "business": {
+      "title": "Business",
+      "items": ["Contracts", "Corporate Reports", "Business Proposals", "Presentations"]
+    },
+
+    "technical": {
+      "title": "Technical",
+      "items": ["User Manuals", "Engineering Documents", "Techinical Specifications", "Product Documentation"]
+    },
+
+    "marketing": {
+      "title": "Marketing",
+      "items": ["Websites", "Social Media", "SEO Content", "Advertising Campaings"]
+    },
+
+    "academic": {
+      "title": "Academic",
+      "items": ["Research Papers", "Articles", "Dissertations", "Educational Materials"]
+    },
+
+    "medical": {
+      "title": "Medical",
+      "items": ["Clinical Studies", "Medical Reports", "Healthcare Documents", "Scientific Publications"]
+    },
+
+    "documents": {
+      "title": "Documents",
+      "items": ["Contracts", "Degrees", "Compliance", "Legal Report"]
+    },
+      
+    "audiovisual": {
+      "title": "Audiovisual",
+      "items": ["Subtitles", "Scripts", "Transcriptions", "Media Content"]
+    },
+
+    "editorial":{
+      "title": "Editorial",
+      "items": ["Books", "Articles", "Magazines", "Academic Publications"]
+    },
+
+    "personal": {
+      "title": "Personal Documents",
+      "items": ["IDs", "Birth Certificates", "Marriage Certificates", "Death Certificates"]
+    }
   }
 }
