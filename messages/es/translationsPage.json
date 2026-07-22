@@ -64,13 +64,13 @@
     "personal": {
       "title": "Documentos Personales",
       "items": [ "Documentos de Identidad", "Certificados de Nacimiento", "Certificados de Matrimonio", "Certificados de Defunción"]
-    },
-
-    "cta": {
-      "title": "¿Listo para Traducir Tus Documentos?",
-      "subtitle": "Tanto si necesitas traducciones empresariales, técnicas o académicas, estamos preparados para ayudarte a comunicarte con total confianza.",
-      "primaryButton": "Solicitar un Presupuesto",
-      "secondaryButton": "Chatear por WhatsApp"
     }
+  },
+
+  "cta": {
+    "title": "¿Listo para Traducir Tus Documentos?",
+    "subtitle": "Tanto si necesitas traducciones empresariales, técnicas o académicas, estamos preparados para ayudarte a comunicarte con total confianza.",
+    "primaryButton": "Solicitar un Presupuesto",
+    "secondaryButton": "Chatear por WhatsApp"
   }
 }

@@ -73,6 +73,14 @@
           "Crescimento profissional"
         ]
       }
+    },
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para o Canadá?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para o Canadá.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": ["Estratégia Personalizada", "Revisão de Documentos", "Suporte Multilíngue"]
     }
   }
 }

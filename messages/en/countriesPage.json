@@ -70,6 +70,14 @@
                     "Career growth"
                 ]
             }
+        },
+        "cta": {
+            "title": "Ready to Start Your Jounery to Canada?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Canadian imigration journey.",
+            "consultationButton": "Book a COnsultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
     }
 }

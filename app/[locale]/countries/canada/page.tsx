@@ -6,7 +6,6 @@ import {
     GraduationCap,
     House,
     Globe,
-    Users,
     HousePlus,
     Plane
 } from "lucide-react";
@@ -14,6 +13,7 @@ import {
 import { useTranslations } from "next-intl";
 import CountryHero from "@/components/sections/country/CountryHero";
 import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions";
+import CountryCTA from "@/components/sections/country/CountryCTA";
 
 export default function CanadaPage() {
     const t = useTranslations("countriesPage.canada");
@@ -93,6 +93,15 @@ export default function CanadaPage() {
                 },
             ]}
 
+        />
+
+        <CountryCTA
+            title={t("cta.title")}
+            subtitle={t("cta.subtitle")}
+            consultationButton={t("cta.consultationButton")}
+            whatsappButton={t("cta.whatsappButton")}
+            consultationHref="/contact"
+            benefits={t.raw("cta.benefits") as string[]}
         />
 
         </>

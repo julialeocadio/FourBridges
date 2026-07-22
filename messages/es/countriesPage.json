@@ -73,6 +73,14 @@
           "Desarrollo profesional"
         ]
       }
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar Tu Camino hacia Canadá?",
+      "subtitle": "Reserva una consulta con nuestros especialistas en inmigración y recibe asesoramiento personalizado para tu proceso de inmigración a Canadá.",
+      "consultationButton": "Reservar una Consulta",
+      "whatsappButton": "Chatear por WhatsApp",
+
+      "benefits": ["Estrategia Personalizada", "Revisión de Documentos", "Atención Multilingüe"]
     }
   }
 }
