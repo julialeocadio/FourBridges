@@ -492,5 +492,125 @@
         "Suporte Multilíngue"
       ]
     }
+  },
+  
+  "italy": {
+    "learnMore": "Saiba Mais",
+
+    "hero": {
+      "badge": "Itália",
+      "title": "Construa Seu Futuro na Itália",
+      "subtitle": "A Itália oferece uma combinação única de rica herança cultural, excelente qualidade de vida e acesso a oportunidades em toda a União Europeia. Seja para trabalhar, estudar, reunir sua família ou investir, a Itália oferece diversas opções de imigração, um sistema de saúde de qualidade e caminhos para a residência de longo prazo.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Rica Cultura e Patrimônio",
+        "education": "Excelente Sistema de Saúde",
+        "qualityLife": "Alta Qualidade de Vida",
+        "multicultural": "Porta de Entrada para a Europa"
+      },
+
+      "benefits": [
+        "Acesso ao mercado de trabalho europeu",
+        "Saúde e educação de alta qualidade",
+        "Caminhos para residência de longo prazo e cidadania"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Visto de Estudante",
+        "description": "Estude em universidades e instituições italianas enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Trabalhar durante os estudos",
+          "Mobilidade no Espaço Schengen"
+        ]
+      },
+
+      "work": {
+        "title": "Visto de Trabalho Subordinado",
+        "description": "Para pessoas que se mudam para a Itália com um contrato formal de trabalho.",
+        "features": [
+          "Acesso ao sistema público de saúde",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "work2": {
+        "title": "Visto de Trabalho Autônomo",
+        "description": "Destinado a empreendedores, freelancers e profissionais autônomos que desejam abrir um negócio ou exercer sua profissão na Itália.",
+        "features": [
+          "Flexibilidade profissional",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "work3": {
+        "title": "Visto para Nômades Digitais",
+        "description": "Destinado a trabalhadores remotos e freelancers que desejam viver na Itália enquanto trabalham exclusivamente para clientes ou empregadores localizados no exterior.",
+        "features": [
+          "Trabalho autônomo",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "investor": {
+        "title": "Golden Visa",
+        "description": "Programa flexível de residência para investidores.",
+        "features": [
+          "Sem exigência de permanência mínima",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "residence": {
+        "title": "Visto de Residência Eletiva",
+        "description": "Para pessoas financeiramente independentes que desejam viver permanentemente na Itália.",
+        "features": [
+          "Não exige investimento de capital",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "family": {
+        "title": "Visto de Reunião Familiar",
+        "description": "Para familiares elegíveis.",
+        "features": [
+          "Direito irrestrito ao trabalho",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para a Itália?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para a Itália.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
   }
 }

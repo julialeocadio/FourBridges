@@ -492,5 +492,125 @@
         "Atención Multilingüe"
       ]
     }
+  },
+
+  "italy": {
+    "learnMore": "Más Información",
+
+    "hero": {
+      "badge": "Italia",
+      "title": "Construye Tu Futuro en Italia",
+      "subtitle": "Italia ofrece una combinación única de un rico patrimonio cultural, una excelente calidad de vida y acceso a oportunidades en toda la Unión Europea. Tanto si deseas trasladarte por trabajo, estudios, reunificación familiar o inversión, Italia ofrece múltiples vías de inmigración, un sistema sanitario de calidad y opciones para obtener la residencia de larga duración.",
+
+      "primaryButton": "Reservar una Consulta",
+      "secondaryButton": "Contáctanos",
+
+      "features": [
+        "Estudios",
+        "Trabajo",
+        "Familia"
+      ],
+
+      "highlights": {
+        "economy": "Rico Patrimonio Cultural",
+        "education": "Excelente Sistema Sanitario",
+        "qualityLife": "Alta Calidad de Vida",
+        "multicultural": "Puerta de Entrada a Europa"
+      },
+
+      "benefits": [
+        "Acceso al mercado laboral europeo",
+        "Sanidad y educación de alta calidad",
+        "Vías hacia la residencia de larga duración y la ciudadanía"
+      ]
+    },
+
+    "visas": {
+      "title": "Vías de Inmigración",
+      "subtitle": "Elige la vía de inmigración que mejor se adapte a tus objetivos.",
+
+      "study": {
+        "title": "Visado de Estudiante",
+        "description": "Estudia en universidades y centros educativos italianos mientras adquieres una valiosa experiencia internacional.",
+        "features": [
+          "Estudios a tiempo completo",
+          "Trabajar mientras estudias",
+          "Movilidad por el Espacio Schengen"
+        ]
+      },
+
+      "work": {
+        "title": "Visado de Trabajo por Cuenta Ajena",
+        "description": "Para personas que se trasladan a Italia con un contrato de trabajo formal.",
+        "features": [
+          "Acceso a la sanidad pública",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work2": {
+        "title": "Visado de Trabajo por Cuenta Propia",
+        "description": "Dirigido a emprendedores, autónomos y profesionales independientes que desean establecer un negocio o ejercer su actividad en Italia.",
+        "features": [
+          "Flexibilidad profesional",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work3": {
+        "title": "Visado para Nómadas Digitales",
+        "description": "Dirigido a trabajadores remotos y autónomos que desean vivir en Italia mientras trabajan exclusivamente para clientes o empresas ubicadas en el extranjero.",
+        "features": [
+          "Trabajo por cuenta propia",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "investor": {
+        "title": "Golden Visa",
+        "description": "Programa flexible de residencia diseñado para inversores.",
+        "features": [
+          "Sin requisito de estancia mínima",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "residence": {
+        "title": "Visado de Residencia Electiva",
+        "description": "Para personas con independencia económica que desean vivir permanentemente en Italia.",
+        "features": [
+          "No requiere inversión de capital",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "family": {
+        "title": "Visado de Reagrupación Familiar",
+        "description": "Para familiares que cumplan los requisitos.",
+        "features": [
+          "Derecho ilimitado a trabajar",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "¿Listo para Comenzar Tu Camino hacia Italia?",
+      "subtitle": "Reserva una consulta con nuestros especialistas en inmigración y recibe asesoramiento personalizado para tu proceso de inmigración a Italia.",
+      "consultationButton": "Reservar una Consulta",
+      "whatsappButton": "Chatear por WhatsApp",
+
+      "benefits": [
+        "Estrategia Personalizada",
+        "Revisión de Documentos",
+        "Atención Multilingüe"
+      ]
+    }
   }
 }

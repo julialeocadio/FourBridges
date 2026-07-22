@@ -448,5 +448,112 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+    "italy": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "Italy",
+            "title": "Build Your Future in Italy",
+            "subtitle": "Italy offers a unique combination of rich cultural heritage, excellent quality of life, and access to opportunities across the European Union. Whether you're relocating for work, study, family, or investment, Italy provides multiple immigration pathways, quality healthcare, and options for long-term residency.",
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Rich Culture & Heritage",
+                "education": "Excellent Healthcare",
+                "qualityLife": "High Quality of Life",
+                "multicultural": "Gateway to Europe"
+            },
+
+            "benefits": [
+                "Access to the European job market",
+                "High-quality healthcare and education",
+                "Pathways to long-term residency and citizenship"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "Student Visa",
+                "description": "Study at Italian colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Schengen area mobility"
+                ]
+            },
+            "work": {
+                "title": "Subordinate Work Visa",
+                "description": "For individuals moving to Italy under a formal employment contract.",
+                "features": [
+                    "Public healthcare access",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "work2": {
+                "title": "Self-Employment Visa",
+                "description": "Designed for entrepreneurs, freelancers, and independent contractors looking to establish a business or practice in Italy.",
+                "features": [
+                    "Employment flexibility",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "work3": {
+                "title": "Digital Nomad Visa",
+                "description": "Designed for remote workers and freelancers who want to live in Italy while working entirely for clients or employers based abroad.",
+                "features": [
+                    "Self-employer",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "investor": {
+                "title": "Golden Visa",
+                "description": "Flexible residency program designed for investors.",
+                "features": [
+                    "No minimum stay requirement",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "residence": {
+                "title": "Elective Residence Visa",
+                "description": "For financially independent individuals to live in Italy permanently.",
+                "features": [
+                    "No capital investment required",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "family": {
+                "title": "Family Reunification/Cohesion Visa",
+                "description": "For eligible relatives.",
+                "features": [
+                    "Unrestricted employment",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Jounery to Italy?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Italian imigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }
