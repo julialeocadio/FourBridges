@@ -82,5 +82,105 @@
 
       "benefits": ["Estratégia Personalizada", "Revisão de Documentos", "Suporte Multilíngue"]
     }
+  },
+
+  "australia": {
+    "learnMore": "Saiba Mais",
+
+    "hero": {
+      "badge": "Austrália",
+      "title": "Construa Seu Futuro na Austrália",
+      "subtitle": "A Austrália é um dos principais destinos para profissionais qualificados, estudantes e famílias em busca de novas oportunidades. Com uma economia forte, excelente sistema de saúde e educação e alta qualidade de vida, o país oferece diversas opções de imigração e um caminho claro para a residência permanente para candidatos elegíveis.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Economia Forte",
+        "education": "Excelente Sistema de Saúde",
+        "qualityLife": "Alta Qualidade de Vida",
+        "multicultural": "Educação de Classe Mundial"
+      },
+
+      "benefits": [
+        "Excelentes oportunidades de emprego",
+        "Diversos caminhos para a residência permanente",
+        "Comunidades seguras, vibrantes e diversas"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Visto de Estudante",
+        "description": "Estude em universidades e instituições australianas enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Trabalhar durante os estudos",
+          "Oportunidades após a graduação"
+        ]
+      },
+
+      "work": {
+        "title": "Visto para Trabalhadores Qualificados Independentes",
+        "description": "Para profissionais cujas ocupações estão em alta demanda.",
+        "features": [
+          "Não exige patrocinador",
+          "Sem restrição geográfica",
+          "Caminho para a cidadania"
+        ]
+      },
+
+      "work2": {
+        "title": "Skills in Demand",
+        "description": "Patrocínio por empregador para profissionais qualificados em áreas com escassez de mão de obra.",
+        "features": [
+          "Sem limite de idade",
+          "Processamento prioritário",
+          "Menor exigência de experiência"
+        ]
+      },
+
+      "work3": {
+        "title": "Visto Work and Holiday",
+        "description": "Programa para jovens de 18 a 30 anos viverem na Austrália por 12 meses enquanto trabalham.",
+        "features": [
+          "Flexibilidade para viajar",
+          "Possibilidade de extensão por mais 2 anos",
+          "Permissão para estudar"
+        ]
+      },
+
+      "partner": {
+        "title": "Visto de Parceiro",
+        "description": "Para cônjuges e parceiros de fato de cidadãos australianos, residentes permanentes ou cidadãos elegíveis da Nova Zelândia.",
+        "features": [
+          "Direito total ao trabalho",
+          "Estudo sem restrições",
+          "Liberdade para viajar"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para a Austrália?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para a Austrália.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
   }
 }

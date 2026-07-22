@@ -74,7 +74,97 @@
         "cta": {
             "title": "Ready to Start Your Jounery to Canada?",
             "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Canadian imigration journey.",
-            "consultationButton": "Book a COnsultation",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
+    },
+
+    "australia": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "Australia",
+            "title": "Build Your Future in Australia",
+            "subtitle": "Australia is a leading destination for skilled professionals, students, and families seeking new opportunities. With a strong economy, excellent healthcare and education, and a high standard of living, Australia offers multiple immigration pathways and a clear route to permanent residency for eligible applicants.",
+
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Strong Economy",
+                "education": "Excellent Healthcare",
+                "qualityLife": "High Quality of Life",
+                "multicultural": "World-Class Education"
+            },
+
+            "benefits": [
+                "Strong employment opportunities",
+                "Multiple permanent residency pathways",
+                "Safe, vibrant, and diverse communities"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+
+            "study": {
+                "title": "Student Visa",
+                "description": "Study at Australian colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Post-graduation opportunities"
+                ]
+            },
+            "work": {
+                "title": "Skilled Independent Visa",
+                "description": "For workers whose occupations are in high demand.",
+                "features": [
+                    "No sponsorship required",
+                    "No geographic restriction",
+                    "Pathway to citizenship"
+                ]
+            },
+            "work2": {
+                "title": "Skills in Demand",
+                "description": "Employer sponsorship for skilled workers to fill localized labor shortages.",
+                "features": [
+                    "No age limits",
+                    "Priority processing",
+                    "Reduced experience barrier"
+                ]
+            },
+            "work3": {
+                "title": "Work and Holiday Visa",
+                "description": "Immigration program for young adults, ages 18 to 30, to live in Australia for 12 months while working.",
+                "features": [
+                    "Travel flexibility",
+                    "Possibility to extend by 2 years",
+                    "Study Allowance"
+                ]
+            },
+            "partner": {
+                "title": "Partner Visa",
+                "description": "For spouses and de facto partners of Australian citizens, permanent residents, or eligible New Zealand citizens.",
+                "features": [
+                    "Full work rights",
+                    "Unrestricted study",
+                    "Freedom of travel"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Jounery to Australia?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Australian imigration journey.",
+            "consultationButton": "Book a Consultation",
             "whatsappButton": "Chat on WhatsApp",
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
