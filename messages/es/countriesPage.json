@@ -392,5 +392,105 @@
         "Atención Multilingüe"
       ]
     }
+  },
+
+  "ireland": {
+    "learnMore": "Más Información",
+
+    "hero": {
+      "badge": "Irlanda",
+      "title": "Construye Tu Futuro en Irlanda",
+      "subtitle": "Irlanda es un destino dinámico para profesionales, estudiantes y familias, con una economía próspera, una alta calidad de vida y un entorno acogedor de habla inglesa. Gracias a sus excelentes oportunidades laborales, su sistema sanitario y educativo de calidad y sus vías hacia la residencia de larga duración, Irlanda es el lugar ideal para construir tu futuro.",
+
+      "primaryButton": "Reservar una Consulta",
+      "secondaryButton": "Contáctanos",
+
+      "features": [
+        "Estudios",
+        "Trabajo",
+        "Familia"
+      ],
+
+      "highlights": {
+        "economy": "Economía Próspera",
+        "education": "Sistema Sanitario de Alta Calidad",
+        "qualityLife": "Alta Calidad de Vida",
+        "multicultural": "Oportunidades Profesionales Internacionales"
+      },
+
+      "benefits": [
+        "Excelentes oportunidades profesionales",
+        "Acceso a sanidad y educación de alta calidad",
+        "Vías hacia la residencia de larga duración y la ciudadanía"
+      ]
+    },
+
+    "visas": {
+      "title": "Vías de Inmigración",
+      "subtitle": "Elige la vía de inmigración que mejor se adapte a tus objetivos.",
+
+      "study": {
+        "title": "Programa de Inglés",
+        "description": "Aprende inglés en Irlanda.",
+        "features": [
+          "Estudios a tiempo completo",
+          "Trabajar mientras estudias",
+          "Menor requisito de solvencia económica"
+        ]
+      },
+
+      "study2": {
+        "title": "Programa de Educación Superior",
+        "description": "Estudia en universidades y centros educativos irlandeses mientras adquieres una valiosa experiencia internacional.",
+        "features": [
+          "Estudios a tiempo completo",
+          "Trabajar mientras estudias",
+          "Visado de trabajo tras los estudios"
+        ]
+      },
+
+      "work": {
+        "title": "General Employment Permit",
+        "description": "Abarca una amplia variedad de ocupaciones.",
+        "features": [
+          "Mayor variedad de profesiones elegibles",
+          "Umbral salarial más bajo",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work2": {
+        "title": "Critical Skills Employment Permit",
+        "description": "Diseñado para profesiones de alta demanda.",
+        "features": [
+          "Derecho automático a trabajar para dependientes elegibles",
+          "Sin prueba de contratación",
+          "Vía hacia la ciudadanía"
+        ]
+      },
+
+      "family": {
+        "title": "Visado de Reagrupación Familiar",
+        "description": "Para cónyuges e hijos de residentes elegibles.",
+        "features": [
+          "Derecho a trabajar",
+          "Acceso a la sanidad pública",
+          "Vía hacia la ciudadanía"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "¿Listo para Comenzar Tu Camino hacia Irlanda?",
+      "subtitle": "Reserva una consulta con nuestros especialistas en inmigración y recibe asesoramiento personalizado para tu proceso de inmigración a Irlanda.",
+      "consultationButton": "Reservar una Consulta",
+      "whatsappButton": "Chatear por WhatsApp",
+
+      "benefits": [
+        "Estrategia Personalizada",
+        "Revisión de Documentos",
+        "Atención Multilingüe"
+      ]
+    }
   }
 }

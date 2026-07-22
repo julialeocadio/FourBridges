@@ -333,7 +333,7 @@
             },
             "work4": {
                 "title": "Business Investor/Entrepreneur Visa",
-                "description": "For entrepreneurs seeking to establish a new business, expand and existing enterprise, or participate in a regional development project that benefits the German economy..",
+                "description": "For entrepreneurs seeking to establish a new business, expand and existing enterprise, or participate in a regional development project that benefits the German economy.",
                 "features": [
                     "Family inclusion",
                     "Schengen area mobility",
@@ -342,7 +342,7 @@
             },
             "family": {
                 "title": "Family Reunion Visa",
-                "description": "For spouse and children of legal residents in France.",
+                "description": "For spouse and children of legal residents in Germany.",
                 "features": [
                     "Right to work",
                     "Access to the public education system",
@@ -351,8 +351,98 @@
             }
         },
         "cta": {
-            "title": "Ready to Start Your Jounery to France?",
-            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Australian imigration journey.",
+            "title": "Ready to Start Your Jounery to Germany?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your German imigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
+    },
+
+    "ireland": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "Ireland",
+            "title": "Build Your Future in Ireland",
+            "subtitle": "Ireland is a dynamic destination for professionals, students, and families, offering a thriving economy, a high quality of life, and a welcoming English-speaking environment. With strong career opportunities, excellent healthcare and education, and pathways to long-term residency, Ireland is an ideal place to build your future.",
+
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Thriving Economy",
+                "education": "High-quality Healthcare",
+                "qualityLife": "High Quality of Life",
+                "multicultural": "Global Career Opportunities"
+            },
+
+            "benefits": [
+                "Excellent career opportunities",
+                "Access to high-quality healthcare and education",
+                "Pathways to long-term residency and citizenship"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "English Language Program ",
+                "description": "Learn English in Ireland.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Lower financial proof"
+                ]
+            },
+            "study2": {
+                "title": "Higher Education Program",
+                "description": "Study at Irish colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Post-study work visa"
+                ]
+            },
+            "work": {
+                "title": "General Employment Permit",
+                "description": "Covers a broad range of occupations.",
+                "features": [
+                    "Broader job eligibility",
+                    "Lower salary threshold",
+                    "Pathway to residency"
+                ]
+            },
+            "work2": {
+                "title": "Critical Skills Employment Permit",
+                "description": "Designed for high-demand occupations.",
+                "features": [
+                    "Automatic work rights for eligible dependents",
+                    "No recruitment test",
+                    "Pathway to citizenship"
+                ]
+            },
+            "family": {
+                "title": "Join Family Visa",
+                "description": "For spouse and children of eligible residents.",
+                "features": [
+                    "Right to work",
+                    "Access to public healthcare",
+                    "Pathway to citizenship"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Jounery to Ireland?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Irish imigration journey.",
             "consultationButton": "Book a Consultation",
             "whatsappButton": "Chat on WhatsApp",
 

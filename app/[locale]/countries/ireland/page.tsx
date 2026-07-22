@@ -5,14 +5,17 @@ import {
     Briefcase,
     GraduationCap,
     House,
+    Globe,
     HeartPlus,
+    Landmark,
     Users,
     UserPlus,
     MonitorCloud,
     Microscope,
     TrendingUp,
     PersonStanding,
-    Laptop
+    Laptop,
+    Notebook
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -21,7 +24,7 @@ import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
 export default function CanadaPage() {
-    const t = useTranslations("countriesPage.germany");
+    const t = useTranslations("countriesPage.ireland");
 
     return (
         <>
@@ -40,7 +43,7 @@ export default function CanadaPage() {
 
             countryName={t("hero.badge")}
 
-            flag={<Flags.DE className="h-10 rounded" />}
+            flag={<Flags.IE className="h-10 rounded" />}
 
             highlights={[{
                 icon: <TrendingUp size={22} />,
@@ -55,7 +58,7 @@ export default function CanadaPage() {
                 text: t("hero.highlights.qualityLife"),
             },
             {
-                icon: <Microscope size={22} />,
+                icon: <Globe size={22} />,
                 text: t("hero.highlights.multicultural"),
             },
         ]}
@@ -69,46 +72,39 @@ export default function CanadaPage() {
             learnMore={t("learnMore")}
             visas={[
                 {
-                    icon: GraduationCap,
+                    icon: Notebook,
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/germany/student"
+                    href: "/visas/ireland/english-student"
                 },
                 {
-                    icon: PersonStanding,
-                    title: t("visas.work.title"),
-                    description: t("visas.work.description"),
-                    features: t.raw("visas.work.features") as string[],
-                    href: "/visas/germany/au-pair"
-                },
-                {
-                    icon: Laptop,
-                    title: t("visas.work2.title"),
-                    description: t("visas.work2.description"),
-                    features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/germany/freelancer"
+                    icon: GraduationCap,
+                    title: t("visas.study2.title"),
+                    description: t("visas.study2.description"),
+                    features: t.raw("visas.study2.features") as string[],
+                    href: "/visas/ireland/student"
                 },
                 {
                     icon: Briefcase,
-                    title: t("visas.work3.title"),
-                    description: t("visas.work3.description"),
-                    features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/germany/job-seeker"
+                    title: t("visas.work.title"),
+                    description: t("visas.work.description"),
+                    features: t.raw("visas.work.features") as string[],
+                    href: "/visas/ireland/employment-permit"
                 },
                 {
                     icon: UserPlus,
-                    title: t("visas.work4.title"),
-                    description: t("visas.work4.description"),
-                    features: t.raw("visas.work4.features") as string[],
-                    href: "/visas/germany/entrepreneur"
+                    title: t("visas.work2.title"),
+                    description: t("visas.work2.description"),
+                    features: t.raw("visas.work2.features") as string[],
+                    href: "/visas/ireland/critical-skills-employment-permit"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/germany/family-reunion-visa"
+                    href: "/visas/ireland/join-family-visa"
                 },
             ]}
 
