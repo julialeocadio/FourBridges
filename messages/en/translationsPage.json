@@ -7,7 +7,7 @@
     "secondaryButton": "Contact Us",
     "expertiseTitle": "Areas of Expertise",
     "support": "Languages we support",
-    "languages": ["English", "Portuguese", "Spanish", "French", "Russian"],
+    "languages": ["English", "Portuguese", "Spanish", "French", "Italian", "German", "Russian", "Arabic"],
     "expertise": ["Business", "Marketing", "Finance", "Technology", "Medical", "Academic", "Publishing", "Documents"],
 
         "features": {
