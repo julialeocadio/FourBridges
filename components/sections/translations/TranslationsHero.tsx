@@ -1,6 +1,6 @@
 "use client"
 
-import { useTranslations } from "next-intl"
+import { useLocale, useTranslations } from "next-intl"
 import {
     ShieldCheck,
     Clock3,
@@ -16,8 +16,10 @@ import Text from "@/components/ui/Text";
 
 export default function TranslationsHero() {
     const t = useTranslations("translationsPage.hero");
-    const languages = t.raw("languages") as string[];
     const expertise = t.raw("expertise") as string[];
+    const locale = useLocale();
+    const languages = [...(t.raw("languages") as string[])].sort(
+        new Intl.Collator(locale).compare);
 
     return (
         <Section className="bg-[var(--surface-secondary)]">
