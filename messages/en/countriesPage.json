@@ -259,5 +259,104 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+    "germany": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "Germany",
+            "title": "Build Your Future in Germany",
+            "subtitle": "Germany is Europe's largest economy, offering excellent career opportunities, a high standard of living, and a strong social system. Whether you're relocating for work, study, or family, Germany provides multiple immigration pathways, world-class healthcare, and a clear route to long-term residency.",
+
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Strong Economy",
+                "education": "Excellent Healthcare",
+                "qualityLife": "High Quality of Life",
+                "multicultural": "Innovation & Career Growth"
+            },
+
+            "benefits": [
+                "Excellent career opportunities",
+                "Access to world-class healthcare and education",
+                "Pathways to long-term residency and citizenship"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+
+            "study": {
+                "title": "Student Visa",
+                "description": "Study at German colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Post-study residence permit"
+                ]
+            },
+            "work": {
+                "title": "Au Pair Visa",
+                "description": "For young adults between 18 to 27 seeking a cultural exchange.",
+                "features": [
+                    "Language learning opportunity",
+                    "Cultural immersion",
+                    "Free accommodation"
+                ]
+            },
+            "work2": {
+                "title": "Freelancer Visa",
+                "description": "For qualified professionals to live and work independently in Germany.",
+                "features": [
+                    "Self-employment",
+                    "Professional mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "work3": {
+                "title": "Job Seeker Visa",
+                "description": "Allows skilled professionals to enter the country and look for work for up to 6 months.",
+                "features": [
+                    "Direct market access",
+                    "Schengen area mobility",
+                    "Cultural immersion"
+                ]
+            },
+            "work4": {
+                "title": "Business Investor/Entrepreneur Visa",
+                "description": "For entrepreneurs seeking to establish a new business, expand and existing enterprise, or participate in a regional development project that benefits the German economy..",
+                "features": [
+                    "Family inclusion",
+                    "Schengen area mobility",
+                    "Fast-track permanent residency"
+                ]
+            },
+            "family": {
+                "title": "Family Reunion Visa",
+                "description": "For spouse and children of legal residents in France.",
+                "features": [
+                    "Right to work",
+                    "Access to the public education system",
+                    "Pathway to residency"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Jounery to France?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Australian imigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }

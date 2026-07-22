@@ -282,5 +282,115 @@
         "Suporte Multilíngue"
       ]
     }
+  },
+
+  "germany": {
+    "learnMore": "Saiba Mais",
+
+    "hero": {
+      "badge": "Alemanha",
+      "title": "Construa Seu Futuro na Alemanha",
+      "subtitle": "A Alemanha é a maior economia da Europa, oferecendo excelentes oportunidades de carreira, alta qualidade de vida e um sólido sistema de proteção social. Seja para trabalhar, estudar ou reunir sua família, o país oferece diversas opções de imigração, saúde de excelência e um caminho claro para a residência de longo prazo.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Economia Forte",
+        "education": "Excelente Sistema de Saúde",
+        "qualityLife": "Alta Qualidade de Vida",
+        "multicultural": "Inovação e Crescimento Profissional"
+      },
+
+      "benefits": [
+        "Excelentes oportunidades de carreira",
+        "Acesso à saúde e educação de excelência",
+        "Caminhos para residência de longo prazo e cidadania"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Visto de Estudante",
+        "description": "Estude em universidades e instituições alemãs enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Trabalhar durante os estudos",
+          "Permissão de residência após os estudos"
+        ]
+      },
+
+      "work": {
+        "title": "Visto Au Pair",
+        "description": "Para jovens de 18 a 27 anos que desejam participar de um intercâmbio cultural.",
+        "features": [
+          "Aprendizado do idioma",
+          "Imersão cultural",
+          "Hospedagem gratuita"
+        ]
+      },
+
+      "work2": {
+        "title": "Visto para Freelancers",
+        "description": "Para profissionais qualificados que desejam viver e trabalhar de forma independente na Alemanha.",
+        "features": [
+          "Trabalho autônomo",
+          "Mobilidade profissional",
+          "Caminho para a residência"
+        ]
+      },
+
+      "work3": {
+        "title": "Visto para Procura de Emprego",
+        "description": "Permite que profissionais qualificados entrem na Alemanha para buscar trabalho por até seis meses.",
+        "features": [
+          "Acesso direto ao mercado de trabalho",
+          "Mobilidade no Espaço Schengen",
+          "Imersão cultural"
+        ]
+      },
+
+      "work4": {
+        "title": "Visto para Investidores e Empreendedores",
+        "description": "Para empreendedores que desejam abrir uma nova empresa, expandir um negócio existente ou participar de projetos de desenvolvimento regional que beneficiem a economia alemã.",
+        "features": [
+          "Inclusão da família",
+          "Mobilidade no Espaço Schengen",
+          "Residência permanente acelerada"
+        ]
+      },
+
+      "family": {
+        "title": "Visto de Reunião Familiar",
+        "description": "Para cônjuges e filhos de residentes legais na Alemanha.",
+        "features": [
+          "Direito ao trabalho",
+          "Acesso ao sistema público de ensino",
+          "Caminho para a residência"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para a Alemanha?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para a Alemanha.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
   }
 }

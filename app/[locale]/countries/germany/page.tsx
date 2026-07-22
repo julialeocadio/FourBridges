@@ -10,7 +10,11 @@ import {
     Landmark,
     Users,
     UserPlus,
-    MonitorCloud
+    MonitorCloud,
+    Microscope,
+    TrendingUp,
+    PersonStanding,
+    Laptop
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -19,7 +23,7 @@ import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
 export default function CanadaPage() {
-    const t = useTranslations("countriesPage.france");
+    const t = useTranslations("countriesPage.germany");
 
     return (
         <>
@@ -38,10 +42,10 @@ export default function CanadaPage() {
 
             countryName={t("hero.badge")}
 
-            flag={<Flags.FR className="h-10 rounded" />}
+            flag={<Flags.DE className="h-10 rounded" />}
 
             highlights={[{
-                icon: <Landmark size={22} />,
+                icon: <TrendingUp size={22} />,
                 text: t("hero.highlights.economy"),
             },
             {
@@ -53,7 +57,7 @@ export default function CanadaPage() {
                 text: t("hero.highlights.qualityLife"),
             },
             {
-                icon: <Globe size={22} />,
+                icon: <Microscope size={22} />,
                 text: t("hero.highlights.multicultural"),
             },
         ]}
@@ -71,35 +75,42 @@ export default function CanadaPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/france/student"
+                    href: "/visas/germany/student"
                 },
                 {
-                    icon: Briefcase,
+                    icon: PersonStanding,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/france/work-visa"
+                    href: "/visas/germany/au-pair"
                 },
                 {
-                    icon: UserPlus,
+                    icon: Laptop,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/france/talent-passport"
+                    href: "/visas/germany/freelancer"
                 },
                 {
-                    icon: MonitorCloud,
+                    icon: Briefcase,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/france/entrepreneur-visa"
+                    href: "/visas/germany/job-seeker"
+                },
+                {
+                    icon: UserPlus,
+                    title: t("visas.work4.title"),
+                    description: t("visas.work4.description"),
+                    features: t.raw("visas.work4.features") as string[],
+                    href: "/visas/germany/entrepreneur"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/france/family-reunification"
+                    href: "/visas/germany/family-reunion-visa"
                 },
             ]}
 
