@@ -612,5 +612,125 @@
         "Suporte Multilíngue"
       ]
     }
+  },
+
+  "portugal": {
+    "learnMore": "Saiba Mais",
+
+    "hero": {
+      "badge": "Portugal",
+      "title": "Construa Seu Futuro em Portugal",
+      "subtitle": "Portugal combina alta qualidade de vida, custo de vida acessível e um ambiente acolhedor com acesso à União Europeia. Seja para trabalhar, estudar, aposentar-se, investir ou reunir sua família, Portugal oferece diversas opções de imigração, um excelente sistema de saúde e oportunidades para obter residência de longo prazo e cidadania.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Ambiente Seguro e Acolhedor",
+        "education": "Custo de Vida Acessível",
+        "qualityLife": "Alta Qualidade de Vida",
+        "multicultural": "Porta de Entrada para a Europa"
+      },
+
+      "benefits": [
+        "Acesso ao mercado de trabalho europeu",
+        "Saúde e educação de alta qualidade",
+        "Caminhos para residência de longo prazo e cidadania"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Visto de Estudante",
+        "description": "Estude em universidades e instituições portuguesas enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Trabalhar durante os estudos",
+          "Mobilidade no Espaço Schengen"
+        ]
+      },
+
+      "work": {
+        "title": "Visto de Trabalho",
+        "description": "Para pessoas que desejam se mudar para Portugal com uma oferta de emprego.",
+        "features": [
+          "Acesso ao sistema público de saúde",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "work2": {
+        "title": "Tech Visa",
+        "description": "Destinado a profissionais das áreas de tecnologia e engenharia.",
+        "features": [
+          "Processamento rápido",
+          "Contratação simplificada para empresas",
+          "Caminho para a residência"
+        ]
+      },
+
+      "work3": {
+        "title": "Visto para Procura de Trabalho",
+        "description": "Permite que pessoas procurem emprego legalmente enquanto permanecem em Portugal.",
+        "features": [
+          "Networking presencial",
+          "Não exige oferta de emprego prévia",
+          "Direito legal ao trabalho em meio período"
+        ]
+      },
+
+      "investor": {
+        "title": "Golden Visa",
+        "description": "Programa flexível de residência para investidores.",
+        "features": [
+          "Flexibilidade de investimento",
+          "Exigência mínima de permanência",
+          "Caminho para a residência"
+        ]
+      },
+
+      "residence": {
+        "title": "Visto de Residência para Aposentados ou Titulares de Rendimentos Próprios",
+        "description": "Para pessoas financeiramente independentes que desejam viver permanentemente em Portugal.",
+        "features": [
+          "Não exige grande investimento",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "family": {
+        "title": "Visto de Reunião Familiar",
+        "description": "Para familiares elegíveis.",
+        "features": [
+          "Direito irrestrito ao trabalho e aos estudos",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para Portugal?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para Portugal.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
   }
 }

@@ -555,5 +555,112 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+   "portugal": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "Portugal",
+            "title": "Build Your Future in Portugal",
+            "subtitle": "Portugal combines a high quality of life, affordable living, and a welcoming atmosphere with access to the European Union. Whether you're relocating for work, study, retirement, investment, or family, Portugal offers a variety of immigration pathways, excellent healthcare, and opportunities to obtain long-term residency and citizenship.",
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Safe & Welcoming Environment",
+                "education": "Affordable Cost of Living",
+                "qualityLife": "Excellent Quality of Life",
+                "multicultural": "Gateway to Europe"
+            },
+
+            "benefits": [
+                "Access to the European job market",
+                "High-quality healthcare and education",
+                "Pathways to long-term residency and citizenship"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "Student Visa",
+                "description": "Study at Portuguese colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Schengen area mobility"
+                ]
+            },
+            "work": {
+                "title": "Work Visa",
+                "description": "For individuals moving to Portugal with a job offer.",
+                "features": [
+                    "Access to public healthcare",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "work2": {
+                "title": "Tech Visa",
+                "description": "Designed for tech and engineering professionals.",
+                "features": [
+                    "Rapid processing",
+                    "Simplified hiring for companies",
+                    "Pathway to residency"
+                ]
+            },
+            "work3": {
+                "title": "Job Seeker Visa",
+                "description": "FOr individuals to legally look for a job while while in the country.",
+                "features": [
+                    "In-person networking",
+                    "No prior job offer required",
+                    "Legal right to work part-time"
+                ]
+            },
+            "investor": {
+                "title": "Golden Visa",
+                "description": "Flexible residency program designed for investors.",
+                "features": [
+                    "Investment flexibility",
+                    "Minimal stay requirements",
+                    "Pathway to residency"
+                ]
+            },
+            "residence": {
+                "title": "Residency Visa for Retirees or Independent Income Earners",
+                "description": "For financially independent individuals to live in Portugal permanently.",
+                "features": [
+                    "No major investment required",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "family": {
+                "title": "Family Reunification Visa",
+                "description": "For eligible relatives.",
+                "features": [
+                    "Unrestricted work and study",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Jounery to Portugal?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Portuguese imigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }

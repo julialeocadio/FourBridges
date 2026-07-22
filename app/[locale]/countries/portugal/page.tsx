@@ -7,12 +7,12 @@ import {
     House,
     Globe,
     HeartPlus,
-    Landmark,
     Users,
     UserPlus,
     TrendingUp,
     Laptop,
-    UserCheck
+    Coins,
+    UserLock
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -21,7 +21,7 @@ import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
 export default function CanadaPage() {
-    const t = useTranslations("countriesPage.italy");
+    const t = useTranslations("countriesPage.portugal");
 
     return (
         <>
@@ -40,14 +40,14 @@ export default function CanadaPage() {
 
             countryName={t("hero.badge")}
 
-            flag={<Flags.IT className="h-10 rounded" />}
+            flag={<Flags.PT className="h-10 rounded" />}
 
             highlights={[{
-                icon: <Landmark size={22} />,
+                icon: <HeartPlus size={22} />,
                 text: t("hero.highlights.economy"),
             },
             {
-                icon: <HeartPlus size={22} />,
+                icon: <Coins size={22} />,
                 text: t("hero.highlights.education"),
             },
             {
@@ -73,49 +73,49 @@ export default function CanadaPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/italy/student"
+                    href: "/visas/portugal/student"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/italy/work-visa"
-                },
-                {
-                    icon: UserCheck,
-                    title: t("visas.work2.title"),
-                    description: t("visas.work2.description"),
-                    features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/italy/self-employment-visa"
+                    href: "/visas/portugal/work-visa"
                 },
                 {
                     icon: Laptop,
+                    title: t("visas.work2.title"),
+                    description: t("visas.work2.description"),
+                    features: t.raw("visas.work2.features") as string[],
+                    href: "/visas/portugal/tech-visa"
+                },
+                {
+                    icon: UserLock,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/italy/digital-nomad-visa"
+                    href: "/visas/portugal/job-seeker-visa"
                 },
                 {
                     icon: TrendingUp,
                     title: t("visas.investor.title"),
                     description: t("visas.investor.description"),
                     features: t.raw("visas.investor.features") as string[],
-                    href: "/visas/italy/golden-visa"
+                    href: "/visas/portugal/golden-visa"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.residence.title"),
                     description: t("visas.residence.description"),
                     features: t.raw("visas.residence.features") as string[],
-                    href: "/visas/italy/elective-residence-visa"
+                    href: "/visas/portugal/retirees-visa"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/italy/family-reunification-visa"
+                    href: "/visas/portugal/family-reunification-visa"
                 },
             ]}
 

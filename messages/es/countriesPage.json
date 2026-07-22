@@ -612,5 +612,125 @@
         "Atención Multilingüe"
       ]
     }
+  },  
+
+  "portugal": {
+    "learnMore": "Más Información",
+
+    "hero": {
+      "badge": "Portugal",
+      "title": "Construye Tu Futuro en Portugal",
+      "subtitle": "Portugal combina una alta calidad de vida, un coste de vida asequible y un entorno acogedor con acceso a la Unión Europea. Tanto si deseas trasladarte por trabajo, estudios, jubilación, inversión o reunificación familiar, Portugal ofrece diversas vías de inmigración, un excelente sistema sanitario y oportunidades para obtener la residencia de larga duración y la ciudadanía.",
+
+      "primaryButton": "Reservar una Consulta",
+      "secondaryButton": "Contáctanos",
+
+      "features": [
+        "Estudios",
+        "Trabajo",
+        "Familia"
+      ],
+
+      "highlights": {
+        "economy": "Entorno Seguro y Acogedor",
+        "education": "Coste de Vida Asequible",
+        "qualityLife": "Alta Calidad de Vida",
+        "multicultural": "Puerta de Entrada a Europa"
+      },
+
+      "benefits": [
+        "Acceso al mercado laboral europeo",
+        "Sanidad y educación de alta calidad",
+        "Vías hacia la residencia de larga duración y la ciudadanía"
+      ]
+    },
+
+    "visas": {
+      "title": "Vías de Inmigración",
+      "subtitle": "Elige la vía de inmigración que mejor se adapte a tus objetivos.",
+
+      "study": {
+        "title": "Visado de Estudiante",
+        "description": "Estudia en universidades y centros educativos portugueses mientras adquieres una valiosa experiencia internacional.",
+        "features": [
+          "Estudios a tiempo completo",
+          "Trabajar mientras estudias",
+          "Movilidad por el Espacio Schengen"
+        ]
+      },
+
+      "work": {
+        "title": "Visado de Trabajo",
+        "description": "Para personas que se trasladan a Portugal con una oferta de empleo.",
+        "features": [
+          "Acceso a la sanidad pública",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work2": {
+        "title": "Tech Visa",
+        "description": "Diseñado para profesionales de la tecnología y la ingeniería.",
+        "features": [
+          "Tramitación rápida",
+          "Contratación simplificada para empresas",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work3": {
+        "title": "Visado para Búsqueda de Empleo",
+        "description": "Permite buscar empleo legalmente mientras se permanece en Portugal.",
+        "features": [
+          "Networking presencial",
+          "No requiere una oferta de empleo previa",
+          "Derecho legal a trabajar a tiempo parcial"
+        ]
+      },
+
+      "investor": {
+        "title": "Golden Visa",
+        "description": "Programa flexible de residencia diseñado para inversores.",
+        "features": [
+          "Flexibilidad de inversión",
+          "Requisitos mínimos de estancia",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "residence": {
+        "title": "Visado de Residencia para Jubilados o Titulares de Ingresos Propios",
+        "description": "Para personas con independencia económica que desean vivir permanentemente en Portugal.",
+        "features": [
+          "No requiere una gran inversión",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "family": {
+        "title": "Visado de Reagrupación Familiar",
+        "description": "Para familiares que cumplan los requisitos.",
+        "features": [
+          "Derecho ilimitado a trabajar y estudiar",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "¿Listo para Comenzar Tu Camino hacia Portugal?",
+      "subtitle": "Reserva una consulta con nuestros especialistas en inmigración y recibe asesoramiento personalizado para tu proceso de inmigración a Portugal.",
+      "consultationButton": "Reservar una Consulta",
+      "whatsappButton": "Chatear por WhatsApp",
+
+      "benefits": [
+        "Estrategia Personalizada",
+        "Revisión de Documentos",
+        "Atención Multilingüe"
+      ]
+    }
   }
 }
