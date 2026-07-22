@@ -1,5 +1,6 @@
 {
   "canada": {
+    "learnMore": "Saiba Mais",
     "hero": {
       "badge": "Canadá",
       "title": "Construa Seu Futuro no Canadá",
@@ -27,6 +28,51 @@
         "Caminhos claros para a residência permanente",
         "Comunidades seguras e acolhedoras"
       ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Permissão de Estudo",
+        "description": "Estude em faculdades e universidades canadenses enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Trabalhar durante os estudos",
+          "Oportunidades após a graduação"
+        ]
+      },
+
+      "work": {
+        "title": "Permissão de Trabalho",
+        "description": "Construa sua carreira por meio de programas para trabalhadores qualificados ou patrocinados por empregadores.",
+        "features": [
+          "Programas para trabalhadores qualificados",
+          "Patrocínio por empregador",
+          "Crescimento profissional"
+        ]
+      },
+
+      "startup": {
+        "title": "Start-up Visa",
+        "description": "Para empreendedores com projetos e ideias inovadoras.",
+        "features": [
+          "Negócio inovador",
+          "Não é necessário ter experiência empresarial",
+          "Crescimento profissional"
+        ]
+      },
+
+      "express": {
+        "title": "Express Entry",
+        "description": "Programa de imigração para profissionais qualificados.",
+        "features": [
+          "Não exige oferta de emprego",
+          "Processamento rápido",
+          "Crescimento profissional"
+        ]
+      }
     }
   }
 }

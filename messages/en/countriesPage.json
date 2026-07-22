@@ -1,5 +1,6 @@
 {    
     "canada": {
+        "learnMore": "Learn More",
         "hero": {
             "badge": "Canada",
             "title": "Build Your Future in Canada",
@@ -27,6 +28,48 @@
                 "Clear permanent residence pathways",
                 "Safe and welcoming communities"
             ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+
+            "study": {
+                "title": "Study Permit",
+                "description": "Study at Canadian colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Post-graduation opportunities"
+                ]
+            },
+            "work": {
+                "title": "Work Permit",
+                "description": "Build your career through employer-sponsored or skilled worker programs.",
+                "features": [
+                    "Skilled worker programs",
+                    "Employer sponsorship",
+                    "Career growth"
+                ]
+            },
+            "startup": {
+                "title": "Start Up Visa",
+                "description": "For entrepreneurs with innovative projects and ideas.",
+                "features": [
+                    "Innovative business",
+                    "No prior business experience",
+                    "Career growth"
+                ]
+            },
+            "express": {
+                "title": "Express Entry",
+                "description": "Immigration program for skilled and qualified workers.",
+                "features": [
+                    "No mandatory job offer",
+                    "Fast processing",
+                    "Career growth"
+                ]
+            }
         }
     }
 }
