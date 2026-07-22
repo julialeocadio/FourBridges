@@ -6,10 +6,13 @@ import {
     GraduationCap,
     House,
     Globe,
+    HousePlus,
+    Plane,
+    HeartPlus,
+    Landmark,
     Users,
-    UserStar,
     UserPlus,
-    HeartPlus
+    MonitorCloud
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -18,7 +21,7 @@ import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
 export default function CanadaPage() {
-    const t = useTranslations("countriesPage.australia");
+    const t = useTranslations("countriesPage.france");
 
     return (
         <>
@@ -37,10 +40,10 @@ export default function CanadaPage() {
 
             countryName={t("hero.badge")}
 
-            flag={<Flags.AU className="h-10 rounded" />}
+            flag={<Flags.FR className="h-10 rounded" />}
 
             highlights={[{
-                icon: <Briefcase size={22} />,
+                icon: <Landmark size={22} />,
                 text: t("hero.highlights.economy"),
             },
             {
@@ -70,35 +73,35 @@ export default function CanadaPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/australia/student"
+                    href: "/visas/france/student"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/australia/work"
+                    href: "/visas/france/work-visa"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/australia/skilled-independent-visa"
+                    href: "/visas/france/talent-passport"
                 },
                 {
-                    icon: UserStar,
+                    icon: MonitorCloud,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/australia/skills-in-demand"
+                    href: "/visas/france/entrepreneur-visa"
                 },
                 {
                     icon: Users,
-                    title: t("visas.partner.title"),
-                    description: t("visas.partner.description"),
-                    features: t.raw("visas.partner.features") as string[],
-                    href: "/visas/australia/partner-visa"
+                    title: t("visas.family.title"),
+                    description: t("visas.family.description"),
+                    features: t.raw("visas.family.features") as string[],
+                    href: "/visas/france/family-reunification"
                 },
             ]}
 

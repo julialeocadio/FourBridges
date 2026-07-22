@@ -182,5 +182,105 @@
         "Atención Multilingüe"
       ]
     }
+  },
+
+  "france": {
+    "learnMore": "Más Información",
+
+    "hero": {
+      "badge": "Francia",
+      "title": "Construye Tu Futuro en Francia",
+      "subtitle": "Francia ofrece una excelente calidad de vida, un sólido sistema de protección social y acceso a oportunidades en toda Europa. Tanto si deseas trasladarte por trabajo, estudios, negocios o reunificación familiar, Francia ofrece múltiples vías de inmigración, además de un sistema sanitario de primer nivel, una educación de calidad y un camino hacia la residencia de larga duración y la ciudadanía.",
+
+      "primaryButton": "Reservar una Consulta",
+      "secondaryButton": "Contáctanos",
+
+      "features": [
+        "Estudios",
+        "Trabajo",
+        "Familia"
+      ],
+
+      "highlights": {
+        "economy": "Rica Cultura e Historia",
+        "education": "Sistema Sanitario de Clase Mundial",
+        "qualityLife": "Excelente Calidad de Vida",
+        "multicultural": "Puerta de Entrada a Europa"
+      },
+
+      "benefits": [
+        "Acceso al mercado laboral europeo",
+        "Sanidad y educación de alta calidad",
+        "Vías hacia la residencia de larga duración y la ciudadanía"
+      ]
+    },
+
+    "visas": {
+      "title": "Vías de Inmigración",
+      "subtitle": "Elige la vía de inmigración que mejor se adapte a tus objetivos.",
+
+      "study": {
+        "title": "Visado de Estudiante",
+        "description": "Estudia en universidades y centros educativos franceses mientras adquieres una valiosa experiencia internacional.",
+        "features": [
+          "Estudios a tiempo completo",
+          "Trabajar mientras estudias",
+          "Libre circulación por el Espacio Schengen"
+        ]
+      },
+
+      "work": {
+        "title": "Visado de Trabajo",
+        "description": "Vía de inmigración patrocinada por un empleador.",
+        "features": [
+          "Renovable",
+          "Acceso a la sanidad pública",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work2": {
+        "title": "Passeport Talent",
+        "description": "Para profesionales altamente cualificados, traslados intraempresariales e inversores.",
+        "features": [
+          "Sin prueba del mercado laboral",
+          "Movilidad profesional",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work3": {
+        "title": "Visado de Emprendedor",
+        "description": "Ideal para autónomos y emprendedores.",
+        "features": [
+          "Trabajo por cuenta propia",
+          "Acceso a la sanidad pública",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "family": {
+        "title": "Visado de Reagrupación Familiar",
+        "description": "Para cónyuges e hijos de residentes legales en Francia.",
+        "features": [
+          "Derecho a trabajar",
+          "Apoyo gratuito para la integración",
+          "Acceso completo a los servicios sociales y educativos"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "¿Listo para Comenzar Tu Camino hacia Francia?",
+      "subtitle": "Reserva una consulta con nuestros especialistas en inmigración y recibe asesoramiento personalizado para tu proceso de inmigración a Francia.",
+      "consultationButton": "Reservar una Consulta",
+      "whatsappButton": "Chatear por WhatsApp",
+
+      "benefits": [
+        "Estrategia Personalizada",
+        "Revisión de Documentos",
+        "Atención Multilingüe"
+      ]
+    }
   }
 }

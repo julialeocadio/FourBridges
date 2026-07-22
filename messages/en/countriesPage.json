@@ -169,5 +169,95 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+    "france": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "France",
+            "title": "Build Your Future in France",
+            "subtitle": "France offers an exceptional quality of life, a strong social system, and access to opportunities across Europe. Whether you're relocating for work, study, business, or family, France provides multiple immigration pathways along with world-class healthcare, excellent education, and a route to long-term residency and citizenship.",
+
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Rich Culture & History",
+                "education": "World-Class Healthcare",
+                "qualityLife": "Excellent Quality of Life",
+                "multicultural": "Gateway to Europe"
+            },
+
+            "benefits": [
+                "Access to the European job market",
+                "High-quality healthcare and education",
+                "Pathways to long-term residency and citizenship"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+
+            "study": {
+                "title": "Student Visa",
+                "description": "Study at French colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Free travel across the Schengen Area"
+                ]
+            },
+            "work": {
+                "title": "Standard Work Visa",
+                "description": "An employer-sponsored route.",
+                "features": [
+                    "Renewability",
+                    "Public healthcare access",
+                    "Pathway to residency"
+                ]
+            },
+            "work2": {
+                "title": "Talent Passport",
+                "description": "For highly qualified professionals, intra-company transfers, and investors.",
+                "features": [
+                    "No labor market test",
+                    "Professional mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "work3": {
+                "title": "Entrepreneur Visa",
+                "description": "Ideal for freelancers and solo business owners.",
+                "features": [
+                    "Self-employment",
+                    "Public healthcare access",
+                    "Pathway to residency"
+                ]
+            },
+            "family": {
+                "title": "Family Reunification Visa",
+                "description": "For spouse and children of legal residents in France.",
+                "features": [
+                    "Right to work",
+                    "Free integration support",
+                    "Full social and educational access"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Jounery to France?",
+            "subtitle": "Book a consultation with our imigration specialists and receive personalized guidance for your Australian imigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }
