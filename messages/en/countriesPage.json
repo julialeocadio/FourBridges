@@ -680,5 +680,112 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+    "spain": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "Spain",
+            "title": "Build Your Future in Spain",
+            "subtitle": "Spain offers an exceptional Mediterranean lifestyle, a welcoming culture, and one of Europe's highest standards of living. Whether you're relocating for work, study, business, or family, Spain combines world-class healthcare, a vibrant economy, and access to the entire European Union, making it an ideal destination to live, work, and build your future.",
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "World-class Healthcare",
+                "education": "Affordable Cost of Living",
+                "qualityLife": "300+ Days of Sunshine",
+                "multicultural": "Gateway to the European Union"
+            },
+
+            "benefits": [
+                "Access to opportunities across the European Union",
+                "Excellent healthcare and education",
+                "Pathways to long-term residency and citizenship"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "Student Visa",
+                "description": "Study at Spanish colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Schengen area mobility"
+                ]
+            },
+            "work": {
+                "title": "Standard Employee Visa (Cuenta Ajena)",
+                "description": "For individuals moving to Spain to work.",
+                "features": [
+                    "Access to public healthcare",
+                    "Regulated work hours",
+                    "Pathway to residency"
+                ]
+            },
+            "work2": {
+                "title": "Highly Qualified Professional Visa",
+                "description": "Designed for talented professionals to live and work in Spain.",
+                "features": [
+                    "Rapid processing",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "work3": {
+                "title": "Digital Nomad Visa",
+                "description": "For remote workers to live in Spain.",
+                "features": [
+                    "Self-employment",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "humanitarian": {
+                "title": "Arraigo",
+                "description": "Regularization for non-EU citizens living in the country irregurlaly.",
+                "features": [
+                    "Right to work",
+                    "Access to public healthcare",
+                    "Pathway to residency"
+                ]
+            },
+            "residence": {
+                "title": "Non-lucrative Visa",
+                "description": "For retirees or individuals with passive income who want to live in Spain without working locally.",
+                "features": [
+                    "Free public education",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            },
+            "family": {
+                "title": "Family Reunification Visa",
+                "description": "For eligible relatives.",
+                "features": [
+                    "Automatic work permits",
+                    "Schengen area mobility",
+                    "Pathway to residency"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Journey to Spain?",
+            "subtitle": "Book a consultation with our immigration specialists and receive personalized guidance for your Spanish imigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }

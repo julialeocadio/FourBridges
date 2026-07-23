@@ -59,7 +59,6 @@ export default function Countries() {
         t("nomad"),
         t("student"),
         t("work"),
-        t("golden"),
       ],
       href: "/countries/spain",
     },
@@ -71,6 +70,7 @@ export default function Countries() {
         t("work"),
         t("talent"),
         t("family"),
+        t("aupair")
       ],
       href: "/countries/france",
     },
@@ -104,6 +104,7 @@ export default function Countries() {
         t("student"),
         t("work"),
         t("freelance"),
+        t("aupair"),
       ],
       href: "/countries/germany",
     },

@@ -752,5 +752,125 @@
         "Atención Multilingüe"
       ]
     }
+  },
+
+  "spain": {
+    "learnMore": "Más Información",
+
+    "hero": {
+      "badge": "España",
+      "title": "Construye Tu Futuro en España",
+      "subtitle": "España ofrece un excepcional estilo de vida mediterráneo, una cultura acogedora y uno de los niveles de calidad de vida más altos de Europa. Tanto si deseas trasladarte por trabajo, estudios, negocios o reunificación familiar, España combina un sistema sanitario de primer nivel, una economía dinámica y acceso a toda la Unión Europea, convirtiéndose en un destino ideal para vivir, trabajar y construir tu futuro.",
+
+      "primaryButton": "Reservar una Consulta",
+      "secondaryButton": "Contáctanos",
+
+      "features": [
+        "Estudios",
+        "Trabajo",
+        "Familia"
+      ],
+
+      "highlights": {
+        "economy": "Sanidad de Clase Mundial",
+        "education": "Coste de Vida Asequible",
+        "qualityLife": "Más de 300 Días de Sol al Año",
+        "multicultural": "Puerta de Entrada a la Unión Europea"
+      },
+
+      "benefits": [
+        "Acceso a oportunidades en toda la Unión Europea",
+        "Sanidad y educación de excelente calidad",
+        "Vías hacia la residencia de larga duración y la ciudadanía"
+      ]
+    },
+
+    "visas": {
+      "title": "Vías de Inmigración",
+      "subtitle": "Elige la vía de inmigración que mejor se adapte a tus objetivos.",
+
+      "study": {
+        "title": "Visado de Estudiante",
+        "description": "Estudia en universidades y centros educativos españoles mientras adquieres una valiosa experiencia internacional.",
+        "features": [
+          "Estudios a tiempo completo",
+          "Trabajar mientras estudias",
+          "Movilidad por el Espacio Schengen"
+        ]
+      },
+
+      "work": {
+        "title": "Visado de Trabajo por Cuenta Ajena",
+        "description": "Para personas que desean trabajar en España.",
+        "features": [
+          "Acceso a la sanidad pública",
+          "Jornada laboral regulada",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work2": {
+        "title": "Visado para Profesionales Altamente Cualificados",
+        "description": "Diseñado para profesionales altamente cualificados que desean vivir y trabajar en España.",
+        "features": [
+          "Tramitación rápida",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "work3": {
+        "title": "Visado para Nómadas Digitales",
+        "description": "Para trabajadores remotos que desean vivir en España.",
+        "features": [
+          "Trabajo por cuenta propia o remoto",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "humanitarian": {
+        "title": "Arraigo",
+        "description": "Regularización para ciudadanos no pertenecientes a la Unión Europea que residen en España en situación irregular.",
+        "features": [
+          "Derecho a trabajar",
+          "Acceso a la sanidad pública",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "residence": {
+        "title": "Visado de Residencia No Lucrativa",
+        "description": "Para jubilados o personas con ingresos pasivos que desean vivir en España sin trabajar en el país.",
+        "features": [
+          "Acceso a la educación pública gratuita",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      },
+
+      "family": {
+        "title": "Visado de Reagrupación Familiar",
+        "description": "Para familiares que cumplan los requisitos.",
+        "features": [
+          "Permiso de trabajo automático",
+          "Movilidad por el Espacio Schengen",
+          "Vía hacia la residencia"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "¿Listo para Comenzar Tu Camino hacia España?",
+      "subtitle": "Reserva una consulta con nuestros especialistas en inmigración y recibe asesoramiento personalizado para tu proceso de inmigración a España.",
+      "consultationButton": "Reservar una Consulta",
+      "whatsappButton": "Chatear por WhatsApp",
+
+      "benefits": [
+        "Estrategia Personalizada",
+        "Revisión de Documentos",
+        "Atención Multilingüe"
+      ]
+    }
   }
 }

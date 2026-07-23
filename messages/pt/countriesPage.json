@@ -752,5 +752,125 @@
         "Suporte Multilíngue"
       ]
     }
+  },
+
+  "spain": {
+    "learnMore": "Saiba Mais",
+
+    "hero": {
+      "badge": "Espanha",
+      "title": "Construa Seu Futuro na Espanha",
+      "subtitle": "A Espanha oferece um estilo de vida mediterrâneo incomparável, uma cultura acolhedora e um dos mais altos padrões de qualidade de vida da Europa. Seja para trabalhar, estudar, empreender ou reunir sua família, a Espanha combina um sistema de saúde de excelência, uma economia dinâmica e acesso a toda a União Europeia, tornando-se um destino ideal para viver, trabalhar e construir seu futuro.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Sistema de Saúde de Classe Mundial",
+        "education": "Custo de Vida Acessível",
+        "qualityLife": "Mais de 300 Dias de Sol por Ano",
+        "multicultural": "Porta de Entrada para a União Europeia"
+      },
+
+      "benefits": [
+        "Acesso a oportunidades em toda a União Europeia",
+        "Saúde e educação de excelência",
+        "Caminhos para residência de longo prazo e cidadania"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Visto de Estudante",
+        "description": "Estude em universidades e instituições espanholas enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Trabalhar durante os estudos",
+          "Mobilidade no Espaço Schengen"
+        ]
+      },
+
+      "work": {
+        "title": "Visto de Trabalho por Conta de Outrem",
+        "description": "Para pessoas que desejam trabalhar na Espanha.",
+        "features": [
+          "Acesso ao sistema público de saúde",
+          "Jornada de trabalho regulamentada",
+          "Caminho para a residência"
+        ]
+      },
+
+      "work2": {
+        "title": "Visto para Profissionais Altamente Qualificados",
+        "description": "Destinado a profissionais altamente qualificados que desejam viver e trabalhar na Espanha.",
+        "features": [
+          "Processamento rápido",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "work3": {
+        "title": "Visto para Nômades Digitais",
+        "description": "Para trabalhadores remotos que desejam viver na Espanha.",
+        "features": [
+          "Trabalho autônomo ou remoto",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "humanitarian": {
+        "title": "Arraigo",
+        "description": "Regularização para cidadãos não pertencentes à União Europeia que vivem na Espanha em situação irregular.",
+        "features": [
+          "Direito ao trabalho",
+          "Acesso ao sistema público de saúde",
+          "Caminho para a residência"
+        ]
+      },
+
+      "residence": {
+        "title": "Visto de Residência Não Lucrativa",
+        "description": "Para aposentados ou pessoas com renda passiva que desejam viver na Espanha sem exercer atividade profissional no país.",
+        "features": [
+          "Acesso à educação pública gratuita",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      },
+
+      "family": {
+        "title": "Visto de Reunião Familiar",
+        "description": "Para familiares elegíveis.",
+        "features": [
+          "Permissão automática de trabalho",
+          "Mobilidade no Espaço Schengen",
+          "Caminho para a residência"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para a Espanha?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para a Espanha.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
   }
 }
