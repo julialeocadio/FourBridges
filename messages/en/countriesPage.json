@@ -876,5 +876,121 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+    "unitedStates": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "United States",
+            "title": "Build Your Future in the United States",
+            "subtitle": "The United States is a global leader in innovation, business, and higher education, offering exceptional opportunities for professionals, entrepreneurs, students, and families. With a dynamic economy and a wide range of immigration pathways, the U.S. remains one of the world's most sought-after destinations to live, work, study, and invest.",
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "World-class Universities",
+                "education": "Diverse & Dynamic Communities",
+                "qualityLife": "Global Career Opportunities",
+                "multicultural": "Innovation & Entrepreneurship"
+            },
+
+            "benefits": [
+                "Access to one of the world's largest economies",
+                "Opportunities for work, study, business, and investment",
+                "Multiple immigration pathways for individuals and families"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "F1 Visa",
+                "description": "Study at colleges and universities in the United States while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "World-class education",
+                    "Post-graduation opportunities"
+                ]
+            },
+            "work": {
+                "title": "EB1 Visa",
+                "description": "For highly accomplished professionals, outstanding researchers, and global executives.",
+                "features": [
+                    "No employer restriction",
+                    "Family inclusion",
+                    "Green card path"
+                ]
+            },
+            "work2": {
+                "title": "EB2 Visa",
+                "description": "For professionals holding advanced degrees and individuals with exceptional abilities.",
+                "features": [
+                    "work flexibility",
+                    "Family inclusion",
+                    "Green card path"
+                ]
+            },
+            "work3": {
+                "title": "EB3 Visa",
+                "description": "For skilled workers, professionals, and other essential workers.",
+                "features": [
+                    "Accessible standards",
+                    "Family inclusion",
+                    "Inclusive pathways"
+                ]
+            },
+            "work4": {
+                "title": "L Visas",
+                "description": "For multinational corporations that need to transfer qualified employees.",
+                "features": [
+                    "No annual cap",
+                    "Family inclusion",
+                    "Pathway to Green Card"
+                ]
+            },
+            "work5": {
+                "title": "H-1B Visa",
+                "description": "For skilled professionals",
+                "features": [
+                    "Job mobility",
+                    "Family inclusion",
+                    "Pathway to Green Card"
+                ]
+            },
+            "work6": {
+                "title": "O-1 Visa",
+                "description": "For individuals who possess extraordinary abilities",
+                "features": [
+                    "No annual cap",
+                    "Family inclusion",
+                    "Accelerated processing"
+                ]
+            },
+            "work7": {
+                "title": "Au Pair Visa",
+                "description": "For young adults to live with an American host family and experience a cultural exchange.",
+                "features": [
+                    "Free room and board",
+                    "Cultural immersion",
+                    "Travel month"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Journey to the United States?",
+            "subtitle": "Book a consultation with our immigration specialists and receive personalized guidance for your immigration journey to the United States.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }

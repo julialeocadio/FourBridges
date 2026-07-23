@@ -972,5 +972,135 @@
         "Suporte Multilíngue"
       ]
     }
+  },
+
+  "unitedStates": {
+    "learnMore": "Saiba Mais",
+
+    "hero": {
+      "badge": "Estados Unidos",
+      "title": "Construa Seu Futuro nos Estados Unidos",
+      "subtitle": "Os Estados Unidos são líderes mundiais em inovação, negócios e ensino superior, oferecendo oportunidades excepcionais para profissionais, empreendedores, estudantes e famílias. Com uma economia dinâmica e diversas opções de imigração, os EUA continuam sendo um dos destinos mais desejados do mundo para viver, trabalhar, estudar e investir.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Universidades de Classe Mundial",
+        "education": "Comunidades Diversas e Dinâmicas",
+        "qualityLife": "Oportunidades de Carreira Globais",
+        "multicultural": "Inovação e Empreendedorismo"
+      },
+
+      "benefits": [
+        "Acesso a uma das maiores economias do mundo",
+        "Oportunidades para trabalho, estudo, negócios e investimentos",
+        "Diversas opções de imigração para indivíduos e famílias"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Visto F-1",
+        "description": "Estude em faculdades e universidades dos Estados Unidos enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Educação de classe mundial",
+          "Oportunidades após a graduação"
+        ]
+      },
+
+      "work": {
+        "title": "Visto EB-1",
+        "description": "Para profissionais altamente qualificados, pesquisadores de destaque e executivos de empresas multinacionais.",
+        "features": [
+          "Sem restrição de empregador",
+          "Inclusão de familiares",
+          "Caminho para o Green Card"
+        ]
+      },
+
+      "work2": {
+        "title": "Visto EB-2",
+        "description": "Para profissionais com formação avançada e pessoas com habilidades excepcionais.",
+        "features": [
+          "Flexibilidade profissional",
+          "Inclusão de familiares",
+          "Caminho para o Green Card"
+        ]
+      },
+
+      "work3": {
+        "title": "Visto EB-3",
+        "description": "Para trabalhadores qualificados, profissionais e outros trabalhadores essenciais.",
+        "features": [
+          "Critérios mais acessíveis",
+          "Inclusão de familiares",
+          "Opções de imigração inclusivas"
+        ]
+      },
+
+      "work4": {
+        "title": "Vistos L",
+        "description": "Para empresas multinacionais que precisam transferir funcionários qualificados.",
+        "features": [
+          "Sem limite anual",
+          "Inclusão de familiares",
+          "Caminho para o Green Card"
+        ]
+      },
+
+      "work5": {
+        "title": "Visto H-1B",
+        "description": "Para profissionais qualificados.",
+        "features": [
+          "Mobilidade profissional",
+          "Inclusão de familiares",
+          "Caminho para o Green Card"
+        ]
+      },
+
+      "work6": {
+        "title": "Visto O-1",
+        "description": "Para pessoas com habilidades extraordinárias.",
+        "features": [
+          "Sem limite anual",
+          "Inclusão de familiares",
+          "Processamento acelerado"
+        ]
+      },
+
+      "work7": {
+        "title": "Visto de Au Pair",
+        "description": "Para jovens que desejam viver com uma família anfitriã americana e participar de um intercâmbio cultural.",
+        "features": [
+          "Hospedagem e alimentação incluídas",
+          "Imersão cultural",
+          "Um mês para viajar ao final do programa"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para os Estados Unidos?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para os Estados Unidos.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
   }
 }
