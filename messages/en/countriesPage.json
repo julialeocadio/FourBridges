@@ -787,5 +787,94 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+    "unitedKingdom": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "United Kingdom",
+            "title": "Build Your Future in the United Kingdom",
+            "subtitle": "The United Kingdom is a global hub for business, education, and innovation, offering outstanding career opportunities and a rich cultural environment. Whether you're relocating for work, study, business, or family, the UK provides a range of immigration pathways, world-renowned institutions, and an excellent quality of life.",
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "World-class Education",
+                "education": "Rich History & Culture",
+                "qualityLife": "Global Career Opportunities",
+                "multicultural": "Innovation & Business Hub"
+            },
+
+            "benefits": [
+                "Access to a globally recognized job market",
+                "Study at world-renowned universities",
+                "Multiple visa pathways for work, study and family"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "Student Visa",
+                "description": "Study at British colleges and universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Work while studying",
+                    "Global reputation"
+                ]
+            },
+            "work": {
+                "title": "Youth Mobility Scheme",
+                "description": "For young adults to experience a cultural immersion.",
+                "features": [
+                    "Cultural immersion",
+                    "No sponsorship required",
+                    "Job mobility"
+                ]
+            },
+            "work2": {
+                "title": "Skilled Worker Visa",
+                "description": "Designed for qualified professionals to live and work in the United Kingdom.",
+                "features": [
+                    "Long-term stay",
+                    "Family inclusion",
+                    "Pathway to settlement"
+                ]
+            },
+            "work3": {
+                "title": "Global Talent Visa",
+                "description": "For highly skilled individuals who can demonstrate exceptional talent or promise in specific professional fields.",
+                "features": [
+                    "No employer sponsorship",
+                    "No language test",
+                    "Fast-track settlement"
+                ]
+            },
+            "work4": {
+                "title": "Innovator Founder",
+                "description": "For entrepreneurs.",
+                "features": [
+                    "No mandatory minimum investment capital",
+                    "Family inclusion",
+                    "Fast-track settlement"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Journey to the United Kingdom?",
+            "subtitle": "Book a consultation with our immigration specialists and receive personalized guidance for your United Kingdom immigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }

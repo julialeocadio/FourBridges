@@ -4,15 +4,11 @@ import * as Flags from "country-flag-icons/react/3x2";
 import { 
     Briefcase,
     GraduationCap,
-    Globe,
-    HeartPlus,
-    Users,
     UserPlus,
-    Laptop,
-    Coins,
     UserLock,
-    Sun,
-    StickyNoteCheck
+    Landmark,
+    Microscope,
+    IdCardLanyard
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -21,7 +17,7 @@ import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
 export default function CanadaPage() {
-    const t = useTranslations("countriesPage.spain");
+    const t = useTranslations("countriesPage.unitedKingdom");
 
     return (
         <>
@@ -40,22 +36,22 @@ export default function CanadaPage() {
 
             countryName={t("hero.badge")}
 
-            flag={<Flags.ES className="h-10 rounded" />}
+            flag={<Flags.GB className="h-10 rounded" />}
 
             highlights={[{
-                icon: <HeartPlus size={22} />,
+                icon: <GraduationCap size={22} />,
                 text: t("hero.highlights.economy"),
             },
             {
-                icon: <Coins size={22} />,
+                icon: <Landmark size={22} />,
                 text: t("hero.highlights.education"),
             },
             {
-                icon: <Sun size={22} />,
+                icon: <Briefcase size={22} />,
                 text: t("hero.highlights.qualityLife"),
             },
             {
-                icon: <Globe size={22} />,
+                icon: <Microscope size={22} />,
                 text: t("hero.highlights.multicultural"),
             },
         ]}
@@ -73,49 +69,35 @@ export default function CanadaPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/spain/student"
+                    href: "/visas/united-kingdom/student"
                 },
                 {
-                    icon: Briefcase,
+                    icon: IdCardLanyard,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/spain/work-visa"
+                    href: "/visas/united-kingdom/youth-mobility-scheme"
                 },
                 {
-                    icon: UserLock,
+                    icon: Briefcase,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/spain/highly-qualified-professional-visa"
-                },
-                {
-                    icon: Laptop,
-                    title: t("visas.work3.title"),
-                    description: t("visas.work3.description"),
-                    features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/spain/digital-nomad"
+                    href: "/visas/united-kingdom/skilled-worker-visa"
                 },
                 {
                     icon: UserPlus,
-                    title: t("visas.residence.title"),
-                    description: t("visas.residence.description"),
-                    features: t.raw("visas.residence.features") as string[],
-                    href: "/visas/spain/retirees-visa"
+                    title: t("visas.work3.title"),
+                    description: t("visas.work3.description"),
+                    features: t.raw("visas.work3.features") as string[],
+                    href: "/visas/united-kingdom/global-talent-visa"
                 },
                 {
-                    icon: StickyNoteCheck,
-                    title: t("visas.humanitarian.title"),
-                    description: t("visas.humanitarian.description"),
-                    features: t.raw("visas.humanitarian.features") as string[],
-                    href: "/visas/spain/arraigo"
-                },
-                {
-                    icon: Users,
-                    title: t("visas.family.title"),
-                    description: t("visas.family.description"),
-                    features: t.raw("visas.family.features") as string[],
-                    href: "/visas/spain/family-reunification-visa"
+                    icon: UserLock,
+                    title: t("visas.work4.title"),
+                    description: t("visas.work4.description"),
+                    features: t.raw("visas.work4.features") as string[],
+                    href: "/visas/united-kingdom/innovator-founder"
                 },
             ]}
 

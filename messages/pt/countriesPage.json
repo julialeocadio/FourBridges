@@ -872,5 +872,105 @@
         "Suporte Multilíngue"
       ]
     }
+  },
+
+  "unitedKingdom": {
+    "learnMore": "Saiba Mais",
+
+    "hero": {
+      "badge": "Reino Unido",
+      "title": "Construa Seu Futuro no Reino Unido",
+      "subtitle": "O Reino Unido é um centro global de negócios, educação e inovação, oferecendo excelentes oportunidades profissionais e um ambiente cultural rico. Seja para trabalhar, estudar, empreender ou reunir sua família, o Reino Unido oferece diversas opções de imigração, instituições de ensino reconhecidas mundialmente e uma excelente qualidade de vida.",
+
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Educação de Classe Mundial",
+        "education": "Rica História e Cultura",
+        "qualityLife": "Oportunidades de Carreira Globais",
+        "multicultural": "Centro de Inovação e Negócios"
+      },
+
+      "benefits": [
+        "Acesso a um mercado de trabalho reconhecido mundialmente",
+        "Estude em universidades de renome internacional",
+        "Diversas opções de vistos para trabalho, estudo e família"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a modalidade de imigração que melhor se encaixa nos seus objetivos.",
+
+      "study": {
+        "title": "Visto de Estudante",
+        "description": "Estude em universidades e instituições britânicas enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Trabalhar durante os estudos",
+          "Reconhecimento internacional"
+        ]
+      },
+
+      "work": {
+        "title": "Youth Mobility Scheme",
+        "description": "Para jovens adultos que desejam viver uma experiência de intercâmbio cultural.",
+        "features": [
+          "Imersão cultural",
+          "Não exige patrocínio de empregador",
+          "Flexibilidade para trabalhar"
+        ]
+      },
+
+      "work2": {
+        "title": "Skilled Worker Visa",
+        "description": "Destinado a profissionais qualificados que desejam viver e trabalhar no Reino Unido.",
+        "features": [
+          "Residência de longo prazo",
+          "Inclusão de familiares",
+          "Caminho para residência permanente"
+        ]
+      },
+
+      "work3": {
+        "title": "Global Talent Visa",
+        "description": "Para profissionais altamente qualificados que demonstrem talento excepcional ou potencial em áreas específicas.",
+        "features": [
+          "Não exige patrocínio de empregador",
+          "Dispensa teste de idioma em determinadas situações",
+          "Caminho acelerado para residência permanente"
+        ]
+      },
+
+      "work4": {
+        "title": "Innovator Founder Visa",
+        "description": "Para empreendedores que desejam estabelecer um negócio inovador no Reino Unido.",
+        "features": [
+          "Sem exigência de investimento mínimo obrigatório",
+          "Inclusão de familiares",
+          "Caminho acelerado para residência permanente"
+        ]
+      }
+    },
+
+    "cta": {
+      "title": "Pronto para Começar Sua Jornada para o Reino Unido?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para o Reino Unido.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
   }
 }
