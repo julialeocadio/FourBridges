@@ -8,7 +8,6 @@ import {
     HeartPlus,
     Users,
     UserPlus,
-    MonitorCloud,
     Microscope,
     TrendingUp,
     PersonStanding,

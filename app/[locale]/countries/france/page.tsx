@@ -10,7 +10,8 @@ import {
     Landmark,
     Users,
     UserPlus,
-    MonitorCloud
+    MonitorCloud,
+    PersonStanding
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -72,6 +73,13 @@ export default function CanadaPage() {
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
                     href: "/visas/france/student"
+                },
+                {
+                    icon: PersonStanding,
+                    title: t("visas.work4.title"),
+                    description: t("visas.work4.description"),
+                    features: t.raw("visas.work4.features") as string[],
+                    href: "/visas/france/au-pair"
                 },
                 {
                     icon: Briefcase,
