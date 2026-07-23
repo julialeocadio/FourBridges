@@ -12,7 +12,8 @@ import {
     TrendingUp,
     Laptop,
     Coins,
-    UserLock
+    UserLock,
+    Router
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -83,7 +84,7 @@ export default function CanadaPage() {
                     href: "/visas/portugal/work-visa"
                 },
                 {
-                    icon: Laptop,
+                    icon: Router,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
@@ -95,6 +96,13 @@ export default function CanadaPage() {
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
                     href: "/visas/portugal/job-seeker-visa"
+                },
+                {
+                    icon: Laptop,
+                    title: t("visas.work4.title"),
+                    description: t("visas.work4.description"),
+                    features: t.raw("visas.work4.features") as string[],
+                    href: "/visas/portugal/digital-nomad"
                 },
                 {
                     icon: TrendingUp,

@@ -628,11 +628,20 @@
             },
             "work3": {
                 "title": "Job Seeker Visa",
-                "description": "FOr individuals to legally look for a job while while in the country.",
+                "description": "For individuals to legally look for a job while while in the country.",
                 "features": [
                     "In-person networking",
                     "No prior job offer required",
                     "Legal right to work part-time"
+                ]
+            },
+            "work4": {
+                "title": "Digital Nomad Visa",
+                "description": "For remote workers to live in Portugal.",
+                "features": [
+                    "Affordable cost of living",
+                    "Access to public healthcare",
+                    "Schengen area mobility"
                 ]
             },
             "investor": {

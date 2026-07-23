@@ -259,6 +259,16 @@
         ]
       },
 
+      "work4": {
+        "title": "Visto de Au Pair",
+        "description": "Para jovens entre 18 e 30 anos que desejam participar de um intercâmbio cultural.",
+        "features": [
+          "Oportunidade de aprender o idioma",
+          "Imersão cultural",
+          "Carga horária de trabalho regulamentada"
+        ]
+      },
+
       "family": {
         "title": "Visto de Reunião Familiar",
         "description": "Para cônjuges e filhos de residentes legais na França.",
@@ -686,6 +696,16 @@
           "Networking presencial",
           "Não exige oferta de emprego prévia",
           "Direito legal ao trabalho em meio período"
+        ]
+      },
+
+      "work4": {
+        "title": "Visto para Nômades Digitais",
+        "description": "Para trabalhadores remotos que desejam viver em Portugal.",
+        "features": [
+          "Custo de vida acessível",
+          "Acesso ao sistema público de saúde",
+          "Mobilidade no Espaço Schengen"
         ]
       },
 

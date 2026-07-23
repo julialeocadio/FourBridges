@@ -259,6 +259,16 @@
         ]
       },
 
+      "work4": {
+        "title": "Visado Au Pair",
+        "description": "Para jóvenes de entre 18 y 30 años que desean participar en un intercambio cultural.",
+        "features": [
+          "Oportunidade de aprender el idioma",
+          "Inmersión cultural",
+          "Horario de trabajo regulado"
+        ]
+      },
+
       "family": {
         "title": "Visado de Reagrupación Familiar",
         "description": "Para cónyuges e hijos de residentes legales en Francia.",
@@ -686,6 +696,16 @@
           "Networking presencial",
           "No requiere una oferta de empleo previa",
           "Derecho legal a trabajar a tiempo parcial"
+        ]
+      },
+
+      "work4": {
+        "title": "Visado para Nómadas Digitales",
+        "description": "Para trabajadores remotos que desean vivir en Portugal.",
+        "features": [
+          "Coste de vida asequible",
+          "Acceso a la sanidad pública",
+          "Movilidad por el Espacio Schengen"
         ]
       },
 
