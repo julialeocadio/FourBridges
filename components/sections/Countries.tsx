@@ -118,6 +118,16 @@ export default function Countries() {
       ],
       href: "/countries/united-kingdom",
     },
+    {
+      code: "BR",
+      name: t("br"),
+      visas: [
+        t("family"),
+        t("student"),
+        t("work"),
+      ],
+      href: "/countries/brazil",
+    },
   ]
   const sortedCountries = [...countries].sort((a, b) =>
     a.name.localeCompare(b.name, locale)

@@ -992,5 +992,94 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+
+   "brazil": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "Brazil",
+            "title": "Build Your Future in Brazil",
+            "subtitle": "Brazil offers a vibrant culture, diverse opportunities, and an exceptional quality of life for those looking to live, work, invest, or reunite with family. With a growing economy, welcoming communities, and a variety of immigration pathways, Brazil is an ideal destination to build your future in Latin America's largest country.",
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Vibrant Culture & Lifestyle",
+                "education": "Warm & Welcoming Communities",
+                "qualityLife": "Growing Economy",
+                "multicultural": "Regions to Suit Every Lifestyle"
+            },
+
+            "benefits": [
+                "Access to Latin America's largest economy",
+                "Exceptional quality of life",
+                "Multiple visa pathways for work, study and family reunification"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "VITEM IV",
+                "description": "Study at  Brazilian  universities while gaining valuable international experience.",
+                "features": [
+                    "Full-time study",
+                    "Tuition-free options",
+                    "Cultural immersion"
+                ]
+            },
+            "work": {
+                "title": "VITEM V",
+                "description": "For professional to work and live in Brazil.",
+                "features": [
+                    "Full local labor rights",
+                    "Family inclusion",
+                    "Pathway to residency"
+                ]
+            },
+            "work2": {
+                "title": "VITEM XIV",
+                "description": "For remote workers and retirees.",
+                "features": [
+                    "No local work restrictions",
+                    "Family inclusion",
+                    "Public healthcare access"
+                ]
+            },
+            "work3": {
+                "title": "VITEM IX",
+                "description": "For investors.",
+                "features": [
+                    "Work and study freely",
+                    "Family inclusion",
+                    "Pathway to residency"
+                ]
+            },
+            "family": {
+                "title": "Family Reunion Visa",
+                "description": "For family members of Brazilian citizens and legal residents.",
+                "features": [
+                    "Work authorization",
+                    "Access to public healthcare",
+                    "Access to the public education system"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Journey to the Brazil?",
+            "subtitle": "Book a consultation with our immigration specialists and receive personalized guidance for your Brazilian immigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }

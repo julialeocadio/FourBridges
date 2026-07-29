@@ -1102,5 +1102,98 @@
         "Atención Multilingüe"
       ]
     }
+  },
+
+  "brazil": {
+    "learnMore": "Más Información",
+    "hero": {
+      "badge": "Brasil",
+      "title": "Construye tu Futuro en Brasil",
+      "subtitle": "Brasil ofrece una cultura vibrante, diversas oportunidades y una excelente calidad de vida para quienes desean vivir, trabajar, invertir o reunirse con su familia. Con una economía en crecimiento, comunidades acogedoras y diferentes vías de inmigración, Brasil es un destino ideal para construir tu futuro en el país más grande de América Latina.",
+      "primaryButton": "Reservar una Consulta",
+      "secondaryButton": "Contáctanos",
+
+      "features": [
+        "Estudios",
+        "Trabajo",
+        "Familia"
+      ],
+
+      "highlights": {
+        "economy": "Cultura y Estilo de Vida Vibrantes",
+        "education": "Comunidades Acogedoras",
+        "qualityLife": "Economía en Crecimiento",
+        "multicultural": "Regiones para Todos los Estilos de Vida"
+      },
+
+      "benefits": [
+        "Acceso a la mayor economía de América Latina",
+        "Excelente calidad de vida",
+        "Diversas opciones de visado para trabajar, estudiar y la reunificación familiar"
+      ]
+    },
+
+    "visas": {
+      "title": "Vías de Inmigración",
+      "subtitle": "Elige la vía de inmigración que mejor se adapte a tus objetivos.",
+
+      "study": {
+        "title": "VITEM IV",
+        "description": "Estudia en universidades brasileñas mientras adquieres una valiosa experiencia internacional.",
+        "features": [
+          "Estudios a tiempo completo",
+          "Universidades públicas y privadas",
+          "Inmersión cultural"
+        ]
+      },
+      "work": {
+        "title": "VITEM V",
+        "description": "Para profesionales que desean trabajar y vivir en Brasil.",
+        "features": [
+          "Plenos derechos laborales",
+          "Inclusión de la familia",
+          "Vía hacia la residencia"
+        ]
+      },
+      "work2": {
+        "title": "VITEM XIV",
+        "description": "Para trabajadores remotos y jubilados.",
+        "features": [
+          "Sin restricciones para el trabajo remoto",
+          "Inclusión de la familia",
+          "Acceso al sistema público de salud"
+        ]
+      },
+      "work3": {
+        "title": "VITEM IX",
+        "description": "Para inversores.",
+        "features": [
+          "Libertad para trabajar y estudiar",
+          "Inclusión de la familia",
+          "Vía hacia la residencia"
+        ]
+      },
+      "family": {
+        "title": "Visado de Reunificación Familiar",
+        "description": "Para familiares de ciudadanos brasileños y residentes legales.",
+        "features": [
+          "Autorización de trabajo",
+          "Acceso al sistema público de salud",
+          "Acceso al sistema público de educación"
+        ]
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar tu Camino hacia Brasil?",
+      "subtitle": "Reserva una consulta con nuestros especialistas en inmigración y recibe asesoramiento personalizado para tu proceso de inmigración a Brasil.",
+      "consultationButton": "Reservar una Consulta",
+      "whatsappButton": "Chatear por WhatsApp",
+
+      "benefits": [
+        "Estrategia Personalizada",
+        "Revisión de Documentos",
+        "Atención Multilingüe"
+      ]
+    }
   }
 }

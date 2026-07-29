@@ -1102,5 +1102,98 @@
         "Suporte Multilíngue"
       ]
     }
-  }
+  },
+
+  "brazil": {
+    "learnMore": "Saiba Mais",
+    "hero": {
+      "badge": "Brasil",
+      "title": "Construa seu Futuro no Brasil",
+      "subtitle": "O Brasil oferece uma cultura vibrante, diversas oportunidades e uma excelente qualidade de vida para quem deseja morar, trabalhar, investir ou se reunir com a família. Com uma economia em crescimento, comunidades acolhedoras e diferentes opções de imigração, o Brasil é um destino ideal para construir seu futuro no maior país da América Latina.",
+      "primaryButton": "Agendar uma Consulta",
+      "secondaryButton": "Entre em Contato",
+
+      "features": [
+        "Estudo",
+        "Trabalho",
+        "Família"
+      ],
+
+      "highlights": {
+        "economy": "Cultura e Estilo de Vida Vibrantes",
+        "education": "Comunidades Acolhedoras",
+        "qualityLife": "Economia em Crescimento",
+        "multicultural": "Regiões para Todos os Estilos de Vida"
+      },
+
+      "benefits": [
+        "Acesso à maior economia da América Latina",
+        "Excelente qualidade de vida",
+        "Diversas opções de visto para trabalho, estudo e reunião familiar"
+      ]
+    },
+
+    "visas": {
+      "title": "Opções de Imigração",
+      "subtitle": "Escolha a opção de imigração que melhor atende aos seus objetivos.",
+
+      "study": {
+        "title": "VITEM IV",
+        "description": "Estude em universidades brasileiras enquanto adquire uma valiosa experiência internacional.",
+        "features": [
+          "Estudo em tempo integral",
+          "Instituições públicas e privadas",
+          "Imersão cultural"
+        ]
+      },
+      "work": {
+        "title": "VITEM V",
+        "description": "Para profissionais que desejam trabalhar e viver no Brasil.",
+        "features": [
+          "Todos os direitos trabalhistas",
+          "Inclusão da família",
+          "Caminho para residência"
+        ]
+      },
+      "work2": {
+        "title": "VITEM XIV",
+        "description": "Para trabalhadores remotos e aposentados.",
+        "features": [
+          "Sem restrições para trabalho remoto",
+          "Inclusão da família",
+          "Acesso ao sistema público de saúde"
+        ]
+      },
+      "work3": {
+        "title": "VITEM IX",
+        "description": "Para investidores.",
+        "features": [
+          "Liberdade para trabalhar e estudar",
+          "Inclusão da família",
+          "Caminho para residência"
+        ]
+      },
+      "family": {
+        "title": "Visto de Reunião Familiar",
+        "description": "Para familiares de cidadãos brasileiros e residentes legais.",
+        "features": [
+          "Autorização de trabalho",
+          "Acesso ao sistema público de saúde",
+          "Acesso ao sistema público de ensino"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Pronto para Começar sua Jornada para o Brasil?",
+      "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo de imigração para o Brasil.",
+      "consultationButton": "Agendar uma Consulta",
+      "whatsappButton": "Conversar no WhatsApp",
+
+      "benefits": [
+        "Estratégia Personalizada",
+        "Revisão de Documentos",
+        "Suporte Multilíngue"
+      ]
+    }
+  } 
 }

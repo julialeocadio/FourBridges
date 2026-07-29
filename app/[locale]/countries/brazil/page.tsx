@@ -4,14 +4,15 @@ import * as Flags from "country-flag-icons/react/3x2";
 import { 
     Briefcase,
     GraduationCap,
-    UserPlus,
-    UserLock,
-    Microscope,
-    Handshake,
+    House,
+    Globe,
+    Users,
     UserStar,
-    UserCog,
-    UserKey,
-    PersonStanding
+    UserPlus,
+    HeartPlus,
+    TrendingUp,
+    Parasol,
+    HouseHeart
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -20,7 +21,7 @@ import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
 export default function CanadaPage() {
-    const t = useTranslations("countriesPage.unitedStates");
+    const t = useTranslations("countriesPage.brazil");
 
     return (
         <>
@@ -39,22 +40,22 @@ export default function CanadaPage() {
 
             countryName={t("hero.badge")}
 
-            flag={<Flags.US className="h-10 rounded" />}
+            flag={<Flags.BR className="h-10 rounded" />}
 
             highlights={[{
-                icon: <GraduationCap size={22} />,
+                icon: <Parasol size={22} />,
                 text: t("hero.highlights.economy"),
             },
             {
-                icon: <Handshake size={22} />,
+                icon: <HeartPlus size={22} />,
                 text: t("hero.highlights.education"),
             },
             {
-                icon: <Briefcase size={22} />,
+                icon: <TrendingUp size={22} />,
                 text: t("hero.highlights.qualityLife"),
             },
             {
-                icon: <Microscope size={22} />,
+                icon: <HouseHeart size={22} />,
                 text: t("hero.highlights.multicultural"),
             },
         ]}
@@ -72,56 +73,35 @@ export default function CanadaPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/united-states/student"
+                    href: "/visas/australia/student"
                 },
                 {
-                    icon: PersonStanding,
-                    title: t("visas.work7.title"),
-                    description: t("visas.work7.description"),
-                    features: t.raw("visas.work7.features") as string[],
-                    href: "/visas/united-states/aupair"
-                },
-                {
-                    icon: UserKey,
+                    icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/united-states/eb1-visa"
+                    href: "/visas/australia/work"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/united-states/eb2-visa"
-                },
-                {
-                    icon: UserCog,
-                    title: t("visas.work3.title"),
-                    description: t("visas.work3.description"),
-                    features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/united-states/eb3-visa"
-                },
-                {
-                    icon: UserLock,
-                    title: t("visas.work4.title"),
-                    description: t("visas.work4.description"),
-                    features: t.raw("visas.work4.features") as string[],
-                    href: "/visas/united-states/l-visas"
-                },
-                {
-                    icon: Briefcase,
-                    title: t("visas.work5.title"),
-                    description: t("visas.work5.description"),
-                    features: t.raw("visas.work5.features") as string[],
-                    href: "/visas/united-states/h1b-visa"
+                    href: "/visas/australia/skilled-independent-visa"
                 },
                 {
                     icon: UserStar,
-                    title: t("visas.work6.title"),
-                    description: t("visas.work6.description"),
-                    features: t.raw("visas.work6.features") as string[],
-                    href: "/visas/united-states/o1-visa"
+                    title: t("visas.work3.title"),
+                    description: t("visas.work3.description"),
+                    features: t.raw("visas.work3.features") as string[],
+                    href: "/visas/brazil/investor"
+                },
+                {
+                    icon: Users,
+                    title: t("visas.family.title"),
+                    description: t("visas.family.description"),
+                    features: t.raw("visas.family.features") as string[],
+                    href: "/visas/brazil/family-reunion-visa"
                 },
             ]}
 
