@@ -11,5 +11,16 @@
     "apostille": "Apostille",
     "witness": "Expert Witness Report",
     "genealogy": "Genealogy",
-    "international": "International Services"
+    "international": "International Services",
+    "us": "United States",
+    "pt": "Portugal",
+    "au": "Australia",
+    "ca": "Canada",
+    "es": "Spain",
+    "fr": "France",
+    "ie": "Ireland",
+    "it": "Italy",
+    "de": "Germany",
+    "gb": "United Kingdom",
+    "br": "Brazil"
 }
