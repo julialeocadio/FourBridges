@@ -67,6 +67,7 @@ export default function Navbar() {
     {label: t("about"), href: "/about"},
     {label: t("services"), href: "/services", Children: sortedServices},
     {label: t("countries"), href: "/countries", Children: sortedCountries},
+    {label: t("blog"), href: "/blog"}, 
     {label: t("contact"), href: "/contact"},
   ];
 
