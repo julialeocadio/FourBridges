@@ -4,5 +4,12 @@
     "services": "Services",
     "countries": "Countries",
     "contact": "Contact",
-    "consultation": "Book a Consultation"
+    "consultation": "Book a Consultation",
+    "immigration": "Immigration Consulting",
+    "family": "Family Law",
+    "translation": "Translation Services",
+    "apostille": "Apostille",
+    "witness": "Expert Witness Report",
+    "genealogy": "Genealogy",
+    "international": "International Services"
 }

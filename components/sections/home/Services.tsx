@@ -30,6 +30,7 @@ export default function Services() {
         icon: ScrollText,
         title: t("s3"),
         description: t("d3"),
+        href: "/services/expert-witness"
     },
     ]
     return (

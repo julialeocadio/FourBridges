@@ -1,4 +1,4 @@
-import ServicesPage from "@/app/[locale]/services/page";
+import ServicesPage from "@/app/[locale]/services/immigration/page";
 import { getRequestConfig } from "next-intl/server";
 
 export default getRequestConfig(async ({ requestLocale }) => {
