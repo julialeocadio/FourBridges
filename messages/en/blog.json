@@ -12,7 +12,18 @@
   "articles": {
       "canada-student-visa-guide": {
         "title": "Canada Student Visa Guide",
-        "excerpt": "Everything you need to know before applying for a Canadian study permit."
+        "excerpt": "Everything you need to know before applying for a Canadian study permit.",
+        "content": [
+        "Canada has become one of the world's leading destinations for international students due to its high-quality education system, multicultural society, and excellent post-graduation opportunities.",
+
+        "Before applying for a Canadian Study Permit, students must first receive a Letter of Acceptance from a Designated Learning Institution (DLI). This document confirms that the institution has accepted your application.",
+
+        "Applicants must also demonstrate sufficient financial resources to cover tuition, living expenses, and transportation during their stay in Canada. Immigration officers will carefully review your financial documentation.",
+
+        "Many international students may work while studying, provided they meet the conditions of their study permit. After graduation, some students may also qualify for a Post-Graduation Work Permit, which can provide valuable Canadian work experience.",
+
+        "Because immigration policies may change over time, it is important to verify current requirements before submitting an application or seek professional guidance when needed."
+      ]
       },
       "australia-skilled-migration": {
         "title": "Australia Skilled Migration Explained",

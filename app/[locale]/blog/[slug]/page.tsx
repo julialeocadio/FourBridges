@@ -1,34 +1,26 @@
 import { notFound } from "next/navigation";
+
+import BlogArticle from "@/components/sections/blog/BlogArticle";
 import { articles } from "@/data/blog/articles";
 
 interface BlogPostPageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
-export default function BlogPostPage({
+export default async function BlogPostPage({
   params,
 }: BlogPostPageProps) {
+  const { slug } = await params;
+
   const article = articles.find(
-    (article) => article.slug === params.slug
+    (article) => article.slug === slug
   );
 
   if (!article) {
     notFound();
   }
 
-  return (
-    <main className="py-20">
-      <div className="mx-auto max-w-4xl px-6">
-        <h1 className="text-4xl font-bold">
-          {article.slug}
-        </h1>
-
-        <p className="mt-6">
-          This is the blog article page.
-        </p>
-      </div>
-    </main>
-  );
+  return <BlogArticle article={article} />;
 }
