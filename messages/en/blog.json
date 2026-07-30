@@ -3,5 +3,20 @@
     "title": "Immigration Resources",
     "subtitle": "Expert articles, visa guides, country insights and practical advice to help you make informed immigration decisions.",
     "button": "Book a Consultation"
-  }
+  },
+    
+  "latestArticles": "Latest Articles",
+  "latestSubtitle": "Explore our newest immigration guides, visa information and expert insights.",
+  "readMore": "Read Article",
+
+  "articles": {
+      "canada-student-visa-guide": {
+        "title": "Canada Student Visa Guide",
+        "excerpt": "Everything you need to know before applying for a Canadian study permit."
+      },
+      "australia-skilled-migration": {
+        "title": "Australia Skilled Migration Explained",
+        "excerpt": "Learn how Australia's skilled migration program works and whether you may qualify."
+      }
+    }
 }

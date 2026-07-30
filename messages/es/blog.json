@@ -3,5 +3,19 @@
     "title": "Recursos de Inmigración",
     "subtitle": "Artículos especializados, guías de visados, información sobre países y consejos prácticos para ayudarte a tomar decisiones informadas sobre inmigración.",
     "button": "Reserva una Consulta"
+  },
+  "latestArticles": "Últimos Artículos",
+  "latestSubtitle": "Explora nuestras últimas guías de inmigración, información sobre visados y análisis de expertos.",
+  "readMore": "Leer Artículo",
+
+  "articles": {
+    "canada-student-visa-guide": {
+      "title": "Guía del Visado de Estudiante para Canadá",
+      "excerpt": "Todo lo que necesitas saber antes de solicitar un permiso de estudios en Canadá."
+    },
+    "australia-skilled-migration": {
+      "title": "Cómo Funciona la Migración Cualificada en Australia",
+      "excerpt": "Descubre cómo funciona el programa de migración cualificada de Australia y si puedes reunir los requisitos."
+    }
   }
 }
