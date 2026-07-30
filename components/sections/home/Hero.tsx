@@ -10,6 +10,7 @@ import Highlight from "@/components/ui/Highlight";
 import Section from "@/components/ui/Section";
 import Text from "@/components/ui/Text";
 import { useTranslations } from "next-intl";
+import HeroCarousel from "@/components/ui/HeroCarousel";
 
 
 
@@ -94,23 +95,7 @@ export default function Hero() {
 
           <div>
 
-            <div
-              className="
-                flex
-                h-[520px]
-                items-center
-                justify-center
-                rounded-[var(--radius-lg)]
-                bg-[image:var(--illustration-bg)]
-                shadow-[var(--shadow-md)]
-              "
-            >
-
-              <p className="text-lg font-semibold text-[var(--illustration-text)]">
-                Hero Illustration
-              </p>
-
-            </div>
+            <HeroCarousel />
 
           </div>
 
