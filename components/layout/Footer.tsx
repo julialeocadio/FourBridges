@@ -22,7 +22,7 @@ export default function Footer() {
     ],
 
     resources: [
-      {label: t("faq"), href: "/faq"},
+      {label: t("blog"), href: "/blog"},
       {label: t("privacy"), href: "/privacy-policy"},
       {label: t("terms"), href: "/terms-of-service"},
     ],
