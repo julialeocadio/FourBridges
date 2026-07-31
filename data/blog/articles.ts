@@ -4,6 +4,10 @@ export const articles = [
     image: "/images/blog/canada.jpg",
     publishedAt: "July 30, 2026",
     readingTime: "6 min",
+
+    related: [
+      "australia-skilled-migration"
+    ]
   },
   {
     slug: "australia-skilled-migration",

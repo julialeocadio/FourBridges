@@ -22,5 +22,10 @@ export default async function BlogPostPage({
     notFound();
   }
 
-  return <BlogArticle article={article} />;
+  const normalizedArticle = {
+    ...article,
+    related: article.related ?? [],
+  };
+
+  return <BlogArticle article={normalizedArticle} />;
 }

@@ -8,6 +8,8 @@
   "latestArticles": "Latest Articles",
   "latestSubtitle": "Explore our newest immigration guides, visa information and expert insights.",
   "readMore": "Read Article",
+  "relatedTitle": "Related Articles",
+  "relatedSubtitle": "Continue exploring our immigration resources.",
 
   "articles": {
       "canada-student-visa-guide": {

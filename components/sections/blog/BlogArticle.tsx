@@ -8,6 +8,7 @@ import Container from "@/components/ui/Container";
 import Section from "@/components/ui/Section";
 import Heading from "@/components/ui/Heading";
 import Text from "@/components/ui/Text";
+import RelatedArticles from "./RelatedArticles";
 
 interface BlogArticleProps {
   article: {
@@ -15,6 +16,7 @@ interface BlogArticleProps {
     image: string;
     publishedAt: string;
     readingTime: string;
+    related: string[];
   };
 }
 
@@ -81,9 +83,11 @@ export default function BlogArticle({
               {paragraph}
             </Text>
 
+
           ))}
 
         </div>
+        <RelatedArticles slugs={article.related} />
 
       </Container>
     </Section>
