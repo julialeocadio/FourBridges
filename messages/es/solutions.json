@@ -4,7 +4,29 @@
 
   "study": {
     "title": "Estudiar en el Extranjero",
-    "description": "Visados de estudiante y oportunidades educativas en los principales destinos."
+    "description": "Visados de estudiante y oportunidades educativas en los principales destinos.",
+    "subtitle": "Convierte tu sueño de estudiar en el extranjero en realidad.",
+    "consultation": "Reservar una Consulta", 
+    "whatsapp": "Chatear por WhatsApp",
+    "benefits": [
+      "Asesoramiento sobre Visados de Estudiante",
+      "Atención Multilingüe",
+      "Revisión de Documentos"
+    ],
+    "destinations": "Destinos Populares para Estudiar",
+    "countries": {
+      "us": "Estados Unidos",
+      "pt": "Portugal",
+      "au": "Australia",
+      "ca": "Canadá",
+      "es": "España",
+      "fr": "Francia",
+      "ie": "Irlanda",
+      "it": "Italia",
+      "de": "Alemania",
+      "gb": "Reino Unido",
+      "br": "Brasil"
+    }
   },
 
   "work": {

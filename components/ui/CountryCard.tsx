@@ -11,7 +11,8 @@ import Text from "./Text";
 interface CountryCardProps {
     code: string;
     name: string;
-    visas: string[];
+    visas?: string[];
+    description?: string;
     href: string;
     learnMore: string;
 }
@@ -20,6 +21,7 @@ export default function CountryCard({
     code,
     name,
     visas,
+    description,
     href,
     learnMore,
 }: CountryCardProps) {
@@ -41,19 +43,28 @@ export default function CountryCard({
                 </div>
 
                 <div className="mt-5 flex flex-wrap gap-2">
-                    {visas.map((visa) => (
-                        <span
-                            key={visa}
-                            className="
-                                rounded-full
-                                bg-[var(--badge-bg)]
-                                px-3
-                                py-1
-                                text-xs
-                                font-medium
-                                text-[var(--badge-text)]">
-                            {visa}
-                        </span>
+                    {description ? (
+                        <Text className="mt-5">
+                            {description}
+                        </Text>
+                    ) : (
+                    visas && (
+                        <div className="mt-5 flex flex-wrap gap-2">
+                            {visas.map((visa) => (
+                                <span
+                                    key={visa}
+                                    className="
+                                    rounded-full
+                                    bg-[var(--badge-bg)]
+                                    px-3
+                                    py-1
+                                    text-xs
+                                    font-medium
+                                    text-[var(--badge-text)]">
+                                    {visa}
+                                </span>
+                            ))}
+                        </div>
                     ))}
                 </div>
 

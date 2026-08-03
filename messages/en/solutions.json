@@ -4,7 +4,29 @@
 
   "study": {
     "title": "Study Abroad",
-    "description": "Student visas and education pathways for leading destinations."
+    "description": "Student visas and education pathways for leading destinations.",
+    "subtitle": "Turn you dream of studying abroad into reality.",
+    "consultation": "Book a Consultation",
+    "whatsapp": "Chat on WhatsApp",
+    "benefits": [
+      "Student Visa Guidance",
+      "Multilingual Support",
+      "Document Review"
+    ],
+    "destinations": "Popular Study Destinations",
+    "countries": {
+      "us": "United States",
+      "pt": "Portugal",
+      "au": "Australia",
+      "ca": "Canada",
+      "es": "Spain",
+      "fr": "France",
+      "ie": "Ireland",
+      "it": "Italy",
+      "de": "Germany",
+      "gb": "United Kingdom",
+      "br": "Brazil"
+    }
   },
 
   "work": {

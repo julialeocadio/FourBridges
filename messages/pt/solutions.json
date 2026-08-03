@@ -4,7 +4,29 @@
 
   "study": {
     "title": "Estudar no Exterior",
-    "description": "Vistos de estudante e oportunidades de educação nos principais destinos."
+    "description": "Vistos de estudante e oportunidades de educação nos principais destinos.",
+    "subtitle": "Transforme seu sonho de estudar no exterior em realidade.",
+    "consultation": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp",
+    "benefits": [
+      "Orientação sobre Vistos de Estudante",
+      "Suporte Multilíngue",
+      "Revisão de Documentos"
+    ], 
+    "destinations": "Destinos Populares para Estudar",
+    "countries": {
+      "us": "Estados Unidos",
+      "pt": "Portugal",
+      "au": "Austrália",
+      "ca": "Canadá",
+      "es": "Espanha",
+      "fr": "França",
+      "ie": "Irlanda",
+      "it": "Itália",
+      "de": "Alemanha",
+      "gb": "Reino Unido",
+      "br": "Brasil"
+    }
   },
 
   "work": {
