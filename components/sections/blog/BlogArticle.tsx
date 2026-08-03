@@ -9,6 +9,7 @@ import Section from "@/components/ui/Section";
 import Heading from "@/components/ui/Heading";
 import Text from "@/components/ui/Text";
 import RelatedArticles from "./RelatedArticles";
+import BlogCTA from "./BlogCTA";
 
 interface BlogArticleProps {
   article: {
@@ -88,8 +89,8 @@ export default function BlogArticle({
 
         </div>
         <RelatedArticles slugs={article.related} />
-
       </Container>
+      <BlogCTA />
     </Section>
   );
 }

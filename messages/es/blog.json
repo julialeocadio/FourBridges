@@ -7,11 +7,38 @@
   "latestArticles": "Últimos Artículos",
   "latestSubtitle": "Explora nuestras últimas guías de inmigración, información sobre visados y análisis de expertos.",
   "readMore": "Leer Artículo",
+  "relatedTitle": "Artículos Relacionados",
+  "relatedSubtitle": "Sigue explorando nuestros recursos sobre inmigración.",
+
+  "cta": {
+    "title": "¿Necesitas Ayuda con tu Proceso de Inmigración?",
+    "subtitle": "Nuestros consultores especializados están aquí para guiarte en cada paso de tu proceso de visado o inmigración.",
+
+    "consultation": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp",
+
+    "benefits": [
+      "Estrategia Personalizada",
+      "Revisión de Documentos",
+      "Atención Multilingüe"
+    ]
+  },
 
   "articles": {
     "canada-student-visa-guide": {
       "title": "Guía del Visado de Estudiante para Canadá",
-      "excerpt": "Todo lo que necesitas saber antes de solicitar un permiso de estudios en Canadá."
+      "excerpt": "Todo lo que necesitas saber antes de solicitar un permiso de estudios en Canadá.",
+      "content": [
+        "Canada has become one of the world's leading destinations for international students due to its high-quality education system, multicultural society, and excellent post-graduation opportunities.",
+
+        "Before applying for a Canadian Study Permit, students must first receive a Letter of Acceptance from a Designated Learning Institution (DLI). This document confirms that the institution has accepted your application.",
+
+        "Applicants must also demonstrate sufficient financial resources to cover tuition, living expenses, and transportation during their stay in Canada. Immigration officers will carefully review your financial documentation.",
+
+        "Many international students may work while studying, provided they meet the conditions of their study permit. After graduation, some students may also qualify for a Post-Graduation Work Permit, which can provide valuable Canadian work experience.",
+
+        "Because immigration policies may change over time, it is important to verify current requirements before submitting an application or seek professional guidance when needed."
+      ]
     },
     "australia-skilled-migration": {
       "title": "Cómo Funciona la Migración Cualificada en Australia",

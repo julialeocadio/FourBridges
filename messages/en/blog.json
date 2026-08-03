@@ -11,6 +11,20 @@
   "relatedTitle": "Related Articles",
   "relatedSubtitle": "Continue exploring our immigration resources.",
 
+  "cta": {
+    "title": "Need Help With Your Immigration Journey?",
+    "subtitle": "Our experienced consultants are here to guide you through every step of your visa or immigration process.",
+
+    "consultation": "Book a Consultation",
+    "whatsapp": "Chat on WhatsApp",
+
+    "benefits": [
+      "Personalized Guidance",
+      "Document Review",
+      "Multilingual Support"
+    ]
+  },
+
   "articles": {
       "canada-student-visa-guide": {
         "title": "Canada Student Visa Guide",

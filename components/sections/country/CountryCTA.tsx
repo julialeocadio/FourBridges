@@ -1,6 +1,6 @@
 "use client";
 
-import { CheckCircle2, MessageCircle } from "lucide-react";
+import { CheckCircle2 } from "lucide-react";
 import { FaWhatsapp } from "react-icons/fa";
 import { useTranslations } from "next-intl";
 
