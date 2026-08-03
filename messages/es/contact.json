@@ -17,6 +17,8 @@
   "messagePlaceholder": "Cuéntanos cómo podemos ayudarte...",
   "submit": "Enviar Mensaje",
   "sending": "Enviando...",
+  "success": "¡Gracias! Hemos recibido tu mensaje y nos pondremos en contacto contigo lo antes posible.",
+  "error": "¡Vaya! Algo salió mal. Por favor, inténtalo de nuevo más tarde.",
   "info": "Información de Contacto",
   "email": "Correo Electrónico",
   "whatsapp": "WhatsApp",

@@ -17,6 +17,8 @@
   "messagePlaceholder": "Tell us how we can help you...",
   "submit": "Send Message",
   "sending": "Sending...",
+  "success": "Thank you! We've received your message and will contact you as soon as possible.",
+  "error": "Oops! Something went wrong. Please try again later.",
   "info": "Contact Information",
   "email": "Email",
   "whatsapp": "WhatsApp",

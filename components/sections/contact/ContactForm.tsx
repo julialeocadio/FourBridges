@@ -82,6 +82,18 @@ async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
                 {t("form")}
             </Text>
 
+            {success && (
+                <div className="mt-6 rounded-lg bg-green-200 bg-green-50 p-4 text-green-700">
+                    {t("success")}
+                </div>
+            )}
+
+            {error && ( 
+                <div className="mt-6 rounded-2xl border border-red-200 bg-green-50 p-4 text-green-700">
+                    {t("error")}
+                </div>
+            )}
+
             <form onSubmit={handleSubmit} className="mt-10 space-y-6">
 
                 {/*Name*/}
