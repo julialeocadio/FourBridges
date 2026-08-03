@@ -46,6 +46,26 @@
         "title": "Cultural Immersion",
         "description": "Experience new languages, traditions, and perspectives while living abroad."
       }
+    },
+    "services": {
+      "title": "How We Help",
+      "subtitle": "We provide comprehensive support throughout your visa application to study abroad journey.",
+      "visa":{
+        "title": "Student Visa Guidance",
+        "description": "Guidance on visa requirements, documentation, and application processes."
+      },
+      "documents": {
+        "title": "Document Preparation",
+        "description": "Reviewing and organizing the required documents before submission."
+      },
+      "translations": {
+        "title": "Certified Translations",
+        "description": "We offer additional support for document translations to meet visa application requirements."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "Continued assistance throughout your application process."
+      }
     }
   },
 

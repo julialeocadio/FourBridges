@@ -5,7 +5,7 @@ import {
   Globe,
   GraduationCap,
   Briefcase,
-  Languages,
+  Users,
 } from "lucide-react";
 
 import Container from "@/components/ui/Container";
@@ -33,7 +33,7 @@ export default function StudyBenefits() {
       description: t("career.description"),
     },
     {
-      icon: Languages,
+      icon: Users,
       title: t("culture.title"),
       description: t("culture.description"),
     },

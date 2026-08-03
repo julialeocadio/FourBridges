@@ -46,6 +46,26 @@
         "title": "Imersão Cultural",
         "description": "Experimente novos idiomas, tradições e perspectivas enquanto vive no exterior."
       }
+    },
+    "services": {
+      "title": "Como Podemos Ajudar",
+      "subtitle": "Oferecemos suporte personalizado durante todo o processo de solicitação de visto para estudar no exterior.",
+      "visa":{
+        "title": "Orientação sobre Vistos de Estudante",
+        "description": "Orientação sobre requisitos de visto, documentação e processos de aplicação."
+      },
+      "documents": {
+        "title": "Preparação de Documentos",
+        "description": "Revisão e organização dos documentos necessários antes da submissão."
+      },
+      "translations": {
+        "title": "Traduções Certificadas",
+        "description": "Oferecemos suporte adicional para traduções de documentos para atender aos requisitos de solicitação de visto."
+      },
+      "support": {
+        "title": "Suporte Contínuo",
+        "description": "Assistência contínua durante todo o processo de aplicação."
+      }
     }
   },
 
