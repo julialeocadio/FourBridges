@@ -26,6 +26,26 @@
       "de": "Alemanha",
       "gb": "Reino Unido",
       "br": "Brasil"
+    },
+    "why": {
+      "title": "Porque Estudar no Exterior?",
+      "subtitle": "Estudar no exterior abre portas para novas oportunidades, crescimento pessoal e uma educação reconhecida globalmente.",
+      "global": {
+        "title": "Experiência Global",
+        "description": "Ganhe exposição internacional e construa conexões duradouras entre culturas."
+      },
+      "education": {
+        "title": "Educação de Classe Mundial",
+        "description": "Acesse universidades renomadas e programas acadêmicos inovadores."
+      },
+      "career": {
+        "title": "Oportunidades de Carreira",
+        "description": "Desenvolva habilidades valiosas que aumentam sua empregabilidade em todo o mundo."
+      },
+      "culture": {
+        "title": "Imersão Cultural",
+        "description": "Experimente novos idiomas, tradições e perspectivas enquanto vive no exterior."
+      }
     }
   },
 

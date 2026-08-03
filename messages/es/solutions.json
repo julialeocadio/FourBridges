@@ -26,6 +26,26 @@
       "de": "Alemania",
       "gb": "Reino Unido",
       "br": "Brasil"
+    },
+    "why": {
+      "title": "Porqué Estudiar en el Extranjero?",
+      "subtitle": "Estudiar en el extranjero abre puertas a nuevas oportunidades, crecimiento personal y una educación reconocida a nivel mundial.",
+      "global": {
+        "title": "Experiencia Global",
+        "description": "Obtén exposición internacional y construye conexiones duraderas a través de culturas."
+      },
+      "education": {
+        "title": "Educación de Clase Mundial",
+        "description": "Accede a universidades de renombre y programas académicos innovadores."
+      },
+      "career": {
+        "title": "Oportunidades Profesionales",
+        "description": "Desarrolla habilidades valiosas que mejoren tu empleabilidad a nivel mundial."
+      },
+      "culture": {
+        "title": "Inmersión Cultural",
+        "description": "Experimenta nuevos idiomas, tradiciones y perspectivas mientras vives en el extranjero."
+      }
     }
   },
 

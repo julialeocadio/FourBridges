@@ -26,6 +26,26 @@
       "de": "Germany",
       "gb": "United Kingdom",
       "br": "Brazil"
+    },
+    "why": {
+      "title": "Why Study Abroad?",
+      "subtitle": "Studying abroad opens doors to new opportunities, personal growth, and a globally recognized education.",
+      "global": {
+        "title": "Global Experience",
+        "description": "gain international exposure and build lifelong connections acrosss cultures."
+      },
+      "education": {
+        "title": "World-Class Education",
+        "description": "Access renowned universities and innovative academic programs."
+      },
+      "career": {
+        "title": "Career Opportunities",
+        "description": "Develop valuable skills that enhance your employability worldwide."
+      },
+      "culture": {
+        "title": "Cultural Immersion",
+        "description": "Experience new languages, traditions, and perspectives while living abroad."
+      }
     }
   },
 

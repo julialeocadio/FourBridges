@@ -108,7 +108,7 @@ export default function StudyHero() {
                 >
                   <CheckCircle2
                     size={22}
-                    className="text-[var(--highlight-color)]"
+                    className="text-[var(--color-success)]"
                   />
 
                   <span className="font-medium">
