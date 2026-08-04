@@ -14,9 +14,17 @@ export default function TranslationCTA() {
     const phone = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER;
 
     return (
-        <Section className="bg-[var(--color-primary)] text-white">
+        <Section>
             <Container size="md">
-                <div className="mx-auto max-w-3xl text-center">
+                <div className="
+                    rounded-3xl
+                    border
+                    border-[var(--card-border)]
+                    bg-[var(--surface-secondary)]
+                    px-8
+                    py-16
+                    text-center
+                    shadow-sm">
 
                     <Heading className="text-white">
                         {t("title")}

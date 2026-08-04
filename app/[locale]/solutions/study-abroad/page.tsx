@@ -1,6 +1,7 @@
 import StudyHero from "@/components/solutions/study/StudyHero";
 import StudyBenefits from "@/components/solutions/study/StudyBenefits";
 import StudyServices from "@/components/solutions/study/StudyServices";
+import StudyCTA from "@/components/solutions/study/StudyCTA";
 
 export const metadata = {
     title: "Study Abroad | FourBridges",
@@ -13,6 +14,7 @@ export default function StudyAbroadPage() {
         <StudyHero />
         <StudyBenefits />
         <StudyServices />
+        <StudyCTA />
         </>
     );
 }

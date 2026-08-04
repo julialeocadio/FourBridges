@@ -66,6 +66,17 @@
         "title": "Apoyo Continuo",
         "description": "Asistencia continua durante todo tu proceso de solicitud."
       }
+    },
+    "cta": {
+      "title": "Listo para dar el siguiente paso en tu viaje educativo?",
+      "subtitle": "Nuestro equipo está aquí para ayudarte a navegar el proceso de solicitud de visado y hacer realidad tu sueño de estudiar en el extranjero.",
+      "consultation": "Reservar una Consulta",
+      "whatsapp": "Chatear por WhatsApp",
+      "benefits": [
+        "Asesoramiento sobre Visados de Estudiante",
+        "Consultoria online",
+        "Atención Multilingüe"
+      ]
     }
   },
 
