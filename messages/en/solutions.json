@@ -80,6 +80,11 @@
     }
   },
 
+  "work2": {
+    "title": "Au Pair",
+    "description": "Live and work with a host family while improving your language skills and cultural understanding."
+  },
+
   "work": {
     "title": "Work Abroad",
     "description": "Employment visas and skilled worker immigration."
