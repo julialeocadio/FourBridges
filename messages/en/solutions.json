@@ -82,7 +82,24 @@
 
   "work2": {
     "title": "Au Pair",
-    "description": "Live and work with a host family while improving your language skills and cultural understanding."
+    "description": "Live and work with a host family while improving your language skills and cultural understanding.",
+    "hero": {
+      "title": "Become an Au Pair Abroad",
+      "subtitle": "Experience life in another country while living with a host family, caring for children, and developing valuable personal and professional skills.",
+      "consultation": "Book a Consultation",
+      "whatsapp": "Chat on WhatsApp",
+      "benefits": [
+        "Cultural Immersion",
+        "Language Development",
+        "Childcare Experience"
+      ],
+      "destinations": "Popular Au Pair Destinations",
+      "countries": {
+        "us": "United States",
+        "de": "Germany",
+        "fr": "France"
+      }
+    }
   },
 
   "work": {
