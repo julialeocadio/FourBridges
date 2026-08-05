@@ -82,7 +82,18 @@
 
   "work": {
     "title": "Trabajar en el Extranjero",
-    "description": "Visados de trabajo e inmigración para profesionales cualificados."
+    "description": "Visados de trabajo e inmigración para profesionales cualificados.",
+    "cta": {
+      "title": "Listo para dar el siguiente paso en tu experiencia profesional en el exterior?",
+      "subtitle": "Nuestro equipo está aquí para ayudarte a navegar el proceso de solicitud de visado y hacer realidad tu sueño.",
+      "consultation": "Reservar una Consulta",
+      "whatsapp": "Chatear por WhatsApp",
+      "benefits": [
+        "Asesoramiento sobre Visados",
+        "Consultoria online",
+        "Atención Multilingüe"
+      ]
+    }
   },
   
   "work2": {

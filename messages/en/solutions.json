@@ -155,7 +155,18 @@
 
   "work": {
     "title": "Work Abroad",
-    "description": "Employment visas and skilled worker immigration."
+    "description": "Employment visas and skilled worker immigration.",
+    "cta": {
+      "title": "Ready to Start Your Work Journey?",
+      "subtitle": "Whether you're still exploring your options or already have a job offer, our team is here to help you.",
+      "consultation": "Book a Consultation",
+      "whatsapp": "Chat on WhatsApp",
+      "benefits": [
+        "Employment Visa Guidance",
+        "Online Consultation Worldwide",
+        "Multilingual Support"
+      ]
+    }
   },
 
   "family": {
