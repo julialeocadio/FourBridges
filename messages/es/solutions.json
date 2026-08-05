@@ -83,6 +83,28 @@
   "work": {
     "title": "Trabajar en el Extranjero",
     "description": "Visados de trabajo e inmigración para profesionales cualificados.",
+    "subtitle": "Convierte tu sueño de trabajar en el extranjero en realidad.",
+    "consultation": "Reservar una Consulta", 
+    "whatsapp": "Chatear por WhatsApp",
+    "benefits": [
+      "Asesoramiento sobre Visados de Trabajo",
+      "Atención Multilingüe",
+      "Revisión de Documentos"
+    ],
+    "destinations": "Destinos Populares para Trabajar",
+    "countries": {
+      "us": "Estados Unidos",
+      "pt": "Portugal",
+      "au": "Australia",
+      "ca": "Canadá",
+      "es": "España",
+      "fr": "Francia",
+      "ie": "Irlanda",
+      "it": "Italia",
+      "de": "Alemania",
+      "gb": "Reino Unido",
+      "br": "Brasil"
+    },
     "cta": {
       "title": "Listo para dar el siguiente paso en tu experiencia profesional en el exterior?",
       "subtitle": "Nuestro equipo está aquí para ayudarte a navegar el proceso de solicitud de visado y hacer realidad tu sueño.",

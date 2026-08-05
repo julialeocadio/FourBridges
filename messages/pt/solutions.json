@@ -83,6 +83,28 @@
   "work": {
     "title": "Trabalhar no Exterior",
     "description": "Vistos de trabalho e imigração para profissionais qualificados.",
+    "subtitle": "Transforme seu sonho de trabalhar no exterior em realidade.",
+    "consultation": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp",
+    "benefits": [
+      "Orientação sobre Vistos de Trabalho",
+      "Suporte Multilíngue",
+      "Revisão de Documentos"
+    ], 
+    "destinations": "Destinos Populares para Trabalhar",
+    "countries": {
+      "us": "Estados Unidos",
+      "pt": "Portugal",
+      "au": "Austrália",
+      "ca": "Canadá",
+      "es": "Espanha",
+      "fr": "França",
+      "ie": "Irlanda",
+      "it": "Itália",
+      "de": "Alemanha",
+      "gb": "Reino Unido",
+      "br": "Brasil"
+    },
     "cta": {
       "title": "Pronto para Começar sua Jornada de Trabalho no Exterior?",
       "subtitle": "Entre em contato com nossa equipe para orientação especializada e suporte personalizado em cada etapa do seu processo de visto.",
