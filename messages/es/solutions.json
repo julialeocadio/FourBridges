@@ -144,6 +144,17 @@
         "title": "Apoyo Continuo",
         "description":"Asistencia continua durante todo tu proceso de solicitud."
       }
+    },
+    "cta": {
+      "title": "Listo para dar el siguiente paso en tu experiencia como au pair?",
+      "subtitle": "Nuestro equipo está aquí para ayudarte a navegar el proceso de solicitud de visado y hacer realidad tu sueño.",
+      "consultation": "Reservar una Consulta",
+      "whatsapp": "Chatear por WhatsApp",
+      "benefits": [
+        "Asesoramiento sobre Visados de Au Pair",
+        "Consultoria online",
+        "Atención Multilingüe"
+      ]
     }
   },
 

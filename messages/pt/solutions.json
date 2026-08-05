@@ -144,6 +144,17 @@
         "title": "Suporte Contínuo",
         "description": "Assistência contínua durante todo o processo de aplicação."
       }
+    },
+    "cta": {
+      "title": "Pronto para Começar sua Jornada de Au Pair no Exterior?",
+      "subtitle": "Entre em contato com nossa equipe para orientação especializada e suporte personalizado em cada etapa do seu processo de visto.",
+      "consultation": "Agendar uma Consulta",
+      "whatsapp": "Conversar no WhatsApp",
+      "benefits": [
+        "Orientação sobre Vistos de Au Pair",
+        "Consultoria online para conveniência",
+        "Suporte Multilíngue"
+      ]
     }
   },
 
