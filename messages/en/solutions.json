@@ -99,6 +99,26 @@
         "de": "Germany",
         "fr": "France"
       }
+    },
+    "why": {
+      "title": "What is an Au Pair?",
+      "subtitle": "An Au Pair program is a cultural exchange experience where you live with a host family in a foreign country, providing childcare in exchange for room, board, and a stipend.",
+      "hostFamily": {
+        "title": "Live with a Host Family",
+        "description": "Become part of a local family while experiencing everyday life in another country."
+      },
+      "exchange":{
+        "title": "Cultural Exchange",
+        "description": "Immerse yourself in a new culture, learn the language, and gain a deeper understanding of different lifestyles."
+      },
+      "language": {
+        "title": "Improve Your Language Skills",
+        "description": "Enhance your language proficiency through daily interactions with your host family and community"
+      },
+      "travel": {
+        "title": "Travel & Explore",
+        "description": "Discover new places, meet new people, and create unforgettable memories during your time abroad."
+      }
     }
   },
 

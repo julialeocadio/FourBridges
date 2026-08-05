@@ -87,7 +87,44 @@
   
   "work2": {
     "title": "Au Pair",
-    "description": "Vive y trabaja con una familia anfitriona mientras mejoras tus habilidades linguísticas y tu comprensión cultural."
+    "description": "Vive y trabaja con una familia anfitriona mientras mejoras tus habilidades linguísticas y tu comprensión cultural.",
+    "hero": {
+      "title": "Conviértete en Au Pair en el Extranjero",
+      "subtitle": "Experimenta la vida en otro país mientras vives con una familia anfitriona, cuidas de los niños y desarrollas habilidades personales y profesionales valiosas.",
+      "consultation": "Reservar una Consulta",
+      "whatsapp": "Chatear por WhatsApp",
+      "benefits": [
+        "Inmersión Cultural",
+        "Desarrollo de Habilidades Personales",
+        "Experiencia Internacional"
+      ],
+      "destinations": "Destinos Populares para Au Pair",
+      "countries": {
+        "us": "Estados Unidos",
+        "de": "Alemania",
+        "fr": "Francia"
+      }
+    },
+    "why": {
+      "title": "Porqué Ser Au Pair?",
+      "subtitle": "Ser Au Pair ofrece una experiencia única de inmersión cultural, desarrollo de habilidades y oportunidades de crecimiento personal.",
+      "hostFamily": {
+        "title": "Vive con una Familia Anfitriona",
+        "description": "Torna parte de una familia local mientras experimentas la vida cotidiana en otro país."
+      },
+      "exchange": {
+        "title": "Intercambio Cultural",
+        "description": "Aprende sobre nuevas culturas y tradiciones mientras compartes tu propia herencia con tu familia anfitriona."
+      },
+      "language": {
+        "title": "Desarrollo de Idiomas",
+        "description": "Mejora tus habilidades lingüísticas a través de la comunicación diaria y la interacción con hablantes nativos."
+      },
+      "travel": {
+        "title": "Viajar y Explorar",
+        "description": "Descubre nuevos lugares, conhece nuevas personas y crie memórias inesquecíveis durante sua experiência no exterior."
+      }
+    }
   },
 
   "family": {
