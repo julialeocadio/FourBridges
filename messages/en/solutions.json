@@ -119,6 +119,26 @@
         "title": "Travel & Explore",
         "description": "Discover new places, meet new people, and create unforgettable memories during your time abroad."
       }
+    },
+    "services":{
+      "title": "How We Help",
+      "subtitle": "Our team is here to help you prepare for your Au Pair adventure",
+      "eligibility": {
+        "title": "Eligibility Assessment",
+        "description": "We'll review your profile to help determine your eligibility as an Au Pair"
+      },
+      "visa": {
+        "title": "Visa & Documentation",
+        "description": "Receive guidance on visa requirements and assistance preparing the necessary documentation."
+      },
+      "translations": {
+        "title": "Certified Translations",
+        "description":"We offer additional support for document translations to meet visa application requirements."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "Continued assistance throughout your application process."
+      }
     }
   },
 

@@ -1,6 +1,6 @@
 "use client";
 
-import { Home, Globe, Languages, Plane } from "lucide-react";
+import { Home, Globe, Plane, Megaphone } from "lucide-react";
 import { useTranslations } from "next-intl";
 
 import Container from "@/components/ui/Container";
@@ -23,7 +23,7 @@ export default function AuPairBenefits() {
       description: t("exchange.description"),
     },
     {
-      icon: Languages,
+      icon: Megaphone,
       title: t("language.title"),
       description: t("language.description"),
     },

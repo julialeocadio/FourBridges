@@ -124,6 +124,26 @@
         "title": "Viajar y Explorar",
         "description": "Descubre nuevos lugares, conhece nuevas personas y crie memórias inesquecíveis durante sua experiência no exterior."
       }
+    },
+    "services": {
+      "title": "Cómo Podemos Ayudarte",
+      "subtitle": "Ofrecemos apoyo personalizado durante todo tu proceso de solicitud de visado para Au Pair.",
+      "eligibility": {
+        "title": "Evaluación de Elegibilidad",
+        "description": "Revisaremos tu perfil para ayudarte a determinar si cumples los requisitos como Au Pair."
+      },
+      "visa": {
+        "title": "Visado y Documentación",
+        "description": "Recibe asesoramiento sobre los requisitos de visado y ayuda para preparar la documentación necesaria."
+      },
+      "translations": {
+        "title": "Traducciones Certificadas",
+        "description":"Ofrecemos apoyo adicional para traducciones de documentos para cumplir con los requisitos de solicitud de visado."
+      },
+      "support": {
+        "title": "Apoyo Continuo",
+        "description":"Asistencia continua durante todo tu proceso de solicitud."
+      }
     }
   },
 
