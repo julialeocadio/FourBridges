@@ -119,7 +119,7 @@ export default function Countries() {
       href: "/countries/united-kingdom",
     },
     {
-      code: "BR",
+      code: "BR", 
       name: t("br"),
       visas: [
         t("family"),
@@ -127,6 +127,16 @@ export default function Countries() {
         t("work"),
       ],
       href: "/countries/brazil",
+    },
+    {
+      code: "AE",
+      name: t("ae"),
+      visas: [
+        t("family"),
+        t("student"),
+        t("work"),
+      ],
+      href: "/countries/united-arab-emirates",
     },
   ]
   const sortedCountries = [...countries].sort((a, b) =>
