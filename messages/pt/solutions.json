@@ -105,6 +105,46 @@
       "gb": "Reino Unido",
       "br": "Brasil"
     },
+    "why": {
+      "title": "Por que trabalhar no exterior?",
+      "subtitle": "Trabalhar no exterior abre portas para novas oportunidades e para o crescimento pessoal.",
+      "global": {
+        "title": "Experiência Internacional",
+        "description": "Desenvolva uma valiosa experiência profissional internacional enquanto amplia sua rede de contatos."
+      },
+      "education": {
+        "title": "Crescimento Profissional",
+        "description": "Tenha acesso a novas oportunidades de carreira e desenvolva habilidades valorizadas por empregadores em todo o mundo."
+      },
+      "career": {
+        "title": "Oportunidades de Trabalho Globais",
+        "description": "Explore oportunidades de emprego em diversos setores e mercados internacionais."
+      },
+      "culture": {
+        "title": "Integração Cultural e Profissional",
+        "description": "Adapte-se a um novo ambiente de trabalho enquanto vivencia diferentes culturas e estilos de vida."
+      }
+    },
+    "services": {
+      "title": "Como Ajudamos",
+      "subtitle": "Oferecemos suporte completo durante todo o processo de solicitação do seu visto para trabalhar no exterior.",
+      "visa": {
+        "title": "Assessoria para Visto de Trabalho",
+        "description": "Orientação sobre os requisitos do visto, documentação e processo de solicitação."
+      },
+      "documents": {
+        "title": "Preparação de Documentos",
+        "description": "Revisão e organização da documentação necessária para a solicitação."
+      },
+      "translations": {
+        "title": "Traduções Juramentadas",
+        "description": "Oferecemos suporte adicional com a tradução de documentos para atender aos requisitos da solicitação de visto."
+      },
+      "support": {
+        "title": "Acompanhamento Contínuo",
+        "description": "Assistência contínua durante todo o processo da sua solicitação."
+      }
+    },
     "cta": {
       "title": "Pronto para Começar sua Jornada de Trabalho no Exterior?",
       "subtitle": "Entre em contato com nossa equipe para orientação especializada e suporte personalizado em cada etapa do seu processo de visto.",

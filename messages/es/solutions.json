@@ -105,6 +105,46 @@
       "gb": "Reino Unido",
       "br": "Brasil"
     },
+    "why": {
+      "title": "¿Por qué trabajar en el extranjero?",
+      "subtitle": "Trabajar en el extranjero abre las puertas a nuevas oportunidades y al crecimiento personal.",
+      "global": {
+        "title": "Experiencia Internacional",
+        "description": "Desarrolla una valiosa experiencia laboral internacional mientras amplías tu red profesional."
+      },
+      "education": {
+        "title": "Crecimiento Profesional",
+        "description": "Accede a nuevas oportunidades profesionales y desarrolla habilidades altamente valoradas por empleadores de todo el mundo."
+      },
+      "career": {
+        "title": "Oportunidades Laborales Globales",
+        "description": "Explora oportunidades de empleo en una amplia variedad de industrias y mercados internacionales."
+      },
+      "culture": {
+        "title": "Integración Cultural y Profesional",
+        "description": "Adáptate a un nuevo entorno laboral mientras experimentas diferentes culturas y formas de vida."
+      }
+    },
+    "services": {
+      "title": "Cómo te ayudamos",
+      "subtitle": "Brindamos apoyo integral durante todo el proceso de solicitud de tu visa de trabajo en el extranjero.",
+      "visa": {
+        "title": "Asesoría para Visa de Trabajo",
+        "description": "Orientación sobre los requisitos de la visa, la documentación y el proceso de solicitud."
+      },
+      "documents": {
+        "title": "Preparación de Documentos",
+        "description": "Revisión y organización de la documentación requerida para su presentación."
+      },
+      "translations": {
+        "title": "Traducciones Juradas",
+        "description": "Ofrecemos apoyo adicional con la traducción de documentos para cumplir con los requisitos de la solicitud de visa."
+      },
+      "support": {
+        "title": "Acompañamiento Continuo",
+        "description": "Asistencia continua durante todo el proceso de tu solicitud."
+      }
+    },
     "cta": {
       "title": "Listo para dar el siguiente paso en tu experiencia profesional en el exterior?",
       "subtitle": "Nuestro equipo está aquí para ayudarte a navegar el proceso de solicitud de visado y hacer realidad tu sueño.",

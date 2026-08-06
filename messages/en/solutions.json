@@ -178,6 +178,26 @@
       "gb": "United Kingdom",
       "br": "Brazil"
     },
+    "why": {
+      "title": "Why Work Abroad?",
+      "subtitle": "Working abroad opens doors to new opportunities and personal growth.",
+      "global": {
+        "title": "International Experience",
+        "description": "Build valuable international work experience while expanding your professional network."
+      },
+      "education": {
+        "title": "Career Growth",
+        "description": "Access new career opportunities and develop skills that are valued by employers worldwide."
+      },
+      "career": {
+        "title": "Global Job Opportunities",
+        "description": "Explore employment opportunities across a variety of industries and international markets."
+      },
+      "culture": {
+        "title": "Cultural & Professional Integration",
+        "description": "Adapt to a new work environment while experiencing different cultures and ways of life."
+      }
+    },
     "services": {
       "title": "How We Help",
       "subtitle": "We provide comprehensive support throughout your visa application to work abroad journey.",
