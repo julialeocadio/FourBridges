@@ -233,7 +233,18 @@
 
    "residency": {
     "title": "Permanent Residency",
-    "description": "Long-term pathways to build your future abroad."
+    "description": "Long-term pathways to build your future abroad.",
+    "cta": {
+      "title": "Ready to Start Your Residency Journey?",
+      "subtitle": "Whether you're exploring the best residency pathway or preparing to submit your application, our team is here to help you.",
+      "consultation": "Book a Consultation",
+      "whatsapp": "Chat on WhatsApp",
+      "benefits": [
+        "Residency Visa Guidance",
+        "Online Consultation Worldwide",
+        "Multilingual Support"
+      ]
+    }
   },
 
   "investor": {

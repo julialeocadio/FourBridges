@@ -233,7 +233,18 @@
 
   "residency": {
     "title": "Residência Permanente",
-    "description": "Caminhos de longo prazo para construir seu futuro no exterior."
+    "description": "Caminhos de longo prazo para construir seu futuro no exterior.",
+    "cta": {
+      "title": "Pronto para iniciar sua jornada de residência?",
+      "subtitle": "Seja para encontrar a melhor modalidade de residência ou para preparar sua solicitação, nossa equipe está pronta para ajudar você em cada etapa do processo.",
+      "consultation": "Agendar uma Consulta",
+      "whatsapp": "Conversar no WhatsApp",
+      "benefits": [
+        "Assessoria para Vistos de Residência",
+        "Consultas Online para Todo o Mundo",
+        "Atendimento Multilíngue"
+      ]
+    }
   },
 
   "investor": {
