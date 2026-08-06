@@ -178,6 +178,26 @@
       "gb": "United Kingdom",
       "br": "Brazil"
     },
+    "services": {
+      "title": "How We Help",
+      "subtitle": "We provide comprehensive support throughout your visa application to work abroad journey.",
+      "visa":{
+        "title": "Work Visa Guidance",
+        "description": "Guidance on visa requirements, documentation, and application processes."
+      },
+      "documents": {
+        "title": "Document Preparation",
+        "description": "Reviewing and organizing the required documents for submission."
+      },
+      "translations": {
+        "title": "Certified Translations",
+        "description": "We offer additional support for document translations to meet visa application requirements."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "Continued assistance throughout your application process."
+      }
+    },
     "cta": {
       "title": "Ready to Start Your Work Journey?",
       "subtitle": "Whether you're still exploring your options or already have a job offer, our team is here to help you.",
