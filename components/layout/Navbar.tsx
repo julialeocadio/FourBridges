@@ -37,7 +37,8 @@ export default function Navbar() {
     { key: "it", Flag: Flags.IT, href: "/countries/italy" },
     { key: "de", Flag: Flags.DE, href: "/countries/germany" },
     { key: "gb", Flag: Flags.GB, href: "/countries/united-kingdom" },
-    { key: "br", Flag: Flags.BR, href: "/countries/brazil" }
+    { key: "br", Flag: Flags.BR, href: "/countries/brazil" },
+    { key: "ae", Flag: Flags.AE, href: "/countries/united-arab-emirates" }
   ];
 
   const sortedServices = services
