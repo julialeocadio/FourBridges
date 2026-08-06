@@ -35,12 +35,6 @@ export default function Solutions() {
         href: "/solutions/work-abroad",
     },
     {
-        icon: Users,
-        title: t("family.title"),
-        description: t("family.description"),
-        href: "/solutions/family-sponsorship",
-    },
-    {
         icon: House,
         title: t("residency.title"),
         description: t("residency.description"),
