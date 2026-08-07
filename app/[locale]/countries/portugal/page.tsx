@@ -21,7 +21,7 @@ import CountryHero from "@/components/sections/country/CountryHero";
 import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions";
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
-export default function CanadaPage() {
+export default function PortugalPage() {
     const t = useTranslations("countriesPage.portugal");
 
     return (
