@@ -265,6 +265,22 @@
   "investor": {
     "title": "Visado de Inversor",
     "description": "Programas de inversión y emprendimiento para vivir y hacer crecer tu negocio en el extranjero.",
+    "subtitle": "Haz realidad tus objetivos de inversión en el extranjero.",
+    "consultation": "Reserva una Consulta",
+    "whatsapp": "Habla por WhatsApp",
+    "benefits": [
+      "Asesoramiento para Visados de Inversor",
+      "Atención Multilingüe",
+      "Revisión de la Documentación de la Inversión"
+    ],
+    "destinations": "Destinos Populares para Invertir",
+    "countries": {
+      "it": "Italia",
+      "gb": "Reino Unido",
+      "br": "Brasil",
+      "pt": "Portugal",
+      "ca": "Canadá"
+    },
     "cta": {
       "title": "¿Listo para comenzar tu proceso de inversión?",
       "subtitle": "Tanto si estás explorando las opciones de visado para inversores como si ya estás preparando tu solicitud, nuestro equipo está aquí para acompañarte en cada paso del proceso.",
