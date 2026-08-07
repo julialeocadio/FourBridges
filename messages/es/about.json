@@ -11,5 +11,24 @@
       "Atención Multilingüe",
       "Consultoría Internacional de Confianza"
     ]
+  },
+  "team": {
+    "title": "Conoce a Nuestro Equipo",
+    "subtitle": "Nuestro equipo está comprometido con ofrecer asesoramiento personalizado y apoyo durante todo tu proceso internacional.",
+
+    "member1": {
+      "name": "Paula Juvenal De Oliveira",
+      "bio": "Abogada brasileña y fundadora de Four Bridges International Consultancy, empresa especializada en movilidad internacional, inmigración y preparación de documentación. Su trayectoria profesional se centra en ayudar a particulares, familias y empresas que desean estudiar, trabajar, emprender, regularizar su situación legal o construir una nueva vida en el extranjero. Es licenciada en Derecho y cuenta con un Máster en Derechos Humanos, Interculturalidad y Desarrollo, una especialización profesional en Derecho de Extranjería y experiencia en la gestión de procesos migratorios relacionados con España, Portugal, Italia, Irlanda, Reino Unido, Estados Unidos, Brasil y otros países. En Four Bridges, coordina cada caso con un enfoque estratégico, personalizado y transparente, transformando procedimientos complejos en pasos claros y organizados. Su trabajo va más allá de la documentación: busca comprender las circunstancias de cada cliente, anticipar posibles riesgos y encontrar soluciones alineadas con sus objetivos. Considera que cruzar fronteras requiere mucho más que rellenar formularios. Requiere planificación, seguridad, acompañamiento y orientación responsable. Con este compromiso, ayuda a sus clientes a construir nuevos caminos internacionales con mayor confianza y tranquilidad."
+    },
+
+    "member2": {
+      "name": "Julia Leocadio Rodrigues",
+      "bio": "Forma parte del equipo de Four Bridges como Chief Information Security Officer, combinando sus conocimientos en ciberseguridad, tecnología y procesos de inmigración internacional. Es graduada en Computer and Information Science, con especialización en Ciberseguridad, y cuenta con un Máster en Ciberseguridad por la Universidad de Cádiz. También posee certificaciones en seguridad digital, investigación forense, inteligencia artificial aplicada a la detección de anomalías y Ethical Hacking. Su experiencia en procesos migratorios, preparación de formularios y organización de expedientes le permite contribuir tanto a la calidad técnica de los servicios de la empresa como a la eficiencia y precisión de sus procedimientos internos. Además, domina el portugués, el inglés y el español, facilitando la atención a clientes y el análisis de documentación en diferentes contextos internacionales. En Four Bridges, Julia desempeña un papel esencial en la protección de la información sensible de los clientes, con especial atención a la prevención de riesgos, la gestión de vulnerabilidades, la continuidad de los servicios y el fortalecimiento de los protocolos internos de seguridad. Su presencia en el equipo proporciona un mayor nivel de protección de datos, confidencialidad y fiabilidad durante todas las etapas de la experiencia del cliente, garantizando que cada proceso se gestione con un alto nivel de rigor técnico, organización y responsabilidad."
+    },
+
+    "member3": {
+      "name": "Aline Alves Rodrigues",
+      "bio": "Asistente Administrativa de Four Bridges, trabaja en el apoyo a las tareas administrativas y en la organización de los procesos internos, garantizando que las operaciones de la empresa se desarrollen con eficiencia, organización y excelencia. Cuenta con un título técnico en Administración de Empresas y actualmente está cursando una licenciatura en Administración de Empresas. Considera que el aprendizaje continuo y el desarrollo profesional son pilares fundamentales para ofrecer un trabajo cada vez más estratégico y de alta calidad. En su función, destaca por su compromiso, responsabilidad, organización y atención al detalle. Su trabajo se guía por la ética, el profesionalismo y la búsqueda constante de soluciones que contribuyan a la excelencia de los procesos y a la credibilidad de Four Bridges. Motivada por el propósito de conectar a las personas con nuevas oportunidades, Aline busca continuamente ampliar sus conocimientos, aportar valor al equipo y contribuir a que cada cliente tenga una experiencia basada en la confianza, la transparencia y la calidad."
+    }
   }
 }

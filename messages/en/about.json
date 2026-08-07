@@ -11,5 +11,24 @@
             "Multilingual Support",
             "Trusted International Consultancy"
         ]
+    },
+    "team": {
+        "title": "Meet Our Team",
+        "subtitle": "Our team is dedicated to providing personalized guidance and support throughout your international journey.",
+
+        "member1": {
+            "name": "Paula Juvenal De Oliveira",
+            "bio": "Brazilian attorney and founder of Four Bridges International Consultancy, a company specializing in international mobility, immigration, and document preparation. Her professional career is focused on assisting individuals, families, and businesses seeking to study, work, start a business, obtain legal status, or build a new life abroad. She holds a Law degree, a Master’s degree in Human Rights, Interculturality and Development, a professional specialization in Immigration Law (Extranjería), and experience handling immigration processes related to Spain, Portugal, Italy, Ireland, the United Kingdom, the United States, Brazil, and other countries. At Four Bridges, she coordinates each case with a strategic, personalized, and transparent approach, transforming complex procedures into clear and organized steps. Her work goes beyond documentation: she seeks to understand each client’s circumstances, anticipate potential risks, and find solutions aligned with their goals. She believes that crossing borders requires more than filling out forms. It requires planning, security, support, and responsible guidance. With this commitment, she helps her clients build new international paths with greater confidence and peace of mind."
+        },
+
+        "member2": {
+            "name": "Julia Leocadio Rodrigues",
+            "bio": "Part of the Four Bridges team as Chief Information Security Officer, combining expertise in cybersecurity, technology, and international immigration processes. She holds a degree in Computer and Information Science, with a specialization in Cybersecurity, and a Master’s degree in Cybersecurity from the University of Cádiz. She also holds certifications in digital security, forensic investigation, artificial intelligence applied to anomaly detection, and Ethical Hacking. Her experience with immigration processes, form preparation, and case file organization enables her to contribute both to the technical quality of the company’s services and to the efficiency and accuracy of its internal procedures. In addition, she is fluent in Portuguese, English, and Spanish, facilitating client support and document analysis across different international contexts. At Four Bridges, Julia plays an essential role in protecting clients’ sensitive information, focusing on risk prevention, vulnerability management, service continuity, and strengthening internal security protocols. Her presence on the team provides enhanced data protection, confidentiality, and reliability throughout every stage of the client experience, ensuring that each process is handled with a high level of technical care, organization, and responsibility."
+        },
+
+        "member3": {
+            "name": "Aline Alves Rodrigues",
+            "bio": "Administrative Assistant at Four Bridges, she works supporting administrative routines and organizing internal processes to ensure that the company’s operations are carried out with efficiency, organization, and excellence. She holds a Technical Degree in Business Administration and is currently pursuing a Bachelor’s degree in Business Administration. She believes that continuous learning and professional development are essential pillars for delivering increasingly strategic and high-quality work. In her role, she stands out for her commitment, responsibility, organization, and attention to detail. Her work is guided by ethics, professionalism, and a constant search for solutions that contribute to process excellence and the credibility of Four Bridges. Motivated by the purpose of connecting people with new opportunities, Aline continuously seeks to expand her knowledge, add value to the team, and contribute to ensuring that every client has an experience defined by trust, transparency, and quality."
+        }
     }
 }

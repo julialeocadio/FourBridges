@@ -11,5 +11,24 @@
       "Atendimento Multilíngue",
       "Consultoria Internacional de Confiança"
     ]
+  },
+  "team": {
+    "title": "Conheça Nossa Equipe",
+    "subtitle": "Nossa equipe está dedicada a oferecer orientação personalizada e suporte durante toda a sua jornada internacional.",
+
+    "member1": {
+      "name": "Paula Juvenal De Oliveira",
+      "bio": "Advogada brasileira e fundadora da Four Bridges Assessoria Internacional, empresa especializada em mobilidade internacional, imigração e preparação documental. Sua trajetória profissional é voltada ao atendimento de pessoas, famílias e empresas que desejam estudar, trabalhar, empreender, regularizar-se ou construir uma nova vida no exterior. Possui formação em Direito, Mestrado em Direitos Humanos, Interculturalidade e Desenvolvimento, especialização profissional em Extranjería e experiência em processos migratórios relacionados à Espanha, Portugal, Itália, Irlanda, Reino Unido, Estados Unidos, Brasil e outros países. Na Four Bridges, coordena cada caso com uma abordagem estratégica, personalizada e transparente, transformando procedimentos complexos em etapas claras e organizadas. Seu trabalho vai além da documentação: busca compreender a realidade de cada cliente, antecipar riscos e encontrar soluções adequadas aos seus objetivos. Acredita que atravessar fronteiras exige mais do que preencher formulários. Exige planejamento, segurança, acolhimento e orientação responsável. É com esse compromisso que ajuda seus clientes a construir novos caminhos internacionais com mais confiança e tranquilidade."
+    },
+
+    "member2": {
+      "name": "Julia Leocadio Rodrigues",
+      "bio": "Integra a equipe da Four Bridges como Chief Information Security Officer, unindo conhecimentos em cibersegurança, tecnologia e processos migratórios internacionais. Possui formação em Ciências da Computação e da Informação, com especialização em Cibersegurança e Mestrado em Cibersegurança pela Universidade de Cádiz. Conta ainda com certificações nas áreas de segurança digital, investigação forense, inteligência artificial aplicada à detecção de anomalias e Ethical Hacking. Sua experiência com processos de imigração, preparação de formulários e organização de expedientes permite que contribua tanto para a qualidade técnica dos serviços quanto para a eficiência e a precisão dos procedimentos internos. Além disso, possui domínio de português, inglês e espanhol, facilitando o atendimento e a análise de documentos em diferentes contextos internacionais. Na Four Bridges, Julia desempenha um papel essencial na proteção das informações sensíveis dos clientes, atuando na prevenção de riscos, gestão de vulnerabilidades, continuidade dos serviços e fortalecimento dos protocolos internos de segurança. Sua presença na equipe proporciona maior proteção de dados, confidencialidade e confiabilidade em todas as etapas do atendimento, garantindo que cada processo seja conduzido com elevado cuidado técnico, organização e responsabilidade."
+    },
+
+    "member3": {
+      "name": "Aline Alves Rodrigues",
+      "bio": "Assistente Administrativa na Four Bridges, atuando no suporte às rotinas administrativas e na organização de processos internos, contribuindo para que as operações da empresa sejam conduzidas com eficiência, organização e excelência. Formada como Técnica em Administração e atualmente graduanda em Administração, acredita no aprendizado contínuo e no desenvolvimento profissional como pilares para oferecer um trabalho cada vez mais estratégico e de qualidade. Em sua atuação, destaca-se pelo comprometimento, responsabilidade, organização e atenção aos detalhes. Seu trabalho é pautado pela ética, profissionalismo e busca constante por soluções que contribuam para a excelência dos processos e para a credibilidade da Four Bridges. Motivada pelo propósito de conectar pessoas a novas oportunidades, Aline busca aperfeiçoar continuamente seus conhecimentos para agregar valor à equipe e contribuir para que cada cliente tenha uma experiência marcada pela confiança, transparência e qualidade."
+    }
   }
 }
