@@ -1,3 +1,4 @@
+import AboutPage from "@/app/[locale]/about/page";
 import ServicesPage from "@/app/[locale]/services/immigration/page";
 import { getRequestConfig } from "next-intl/server";
 
@@ -8,6 +9,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
     navbar: (await import(`../messages/${locale}/navbar.json`)).default,
 
     hero: (await import(`../messages/${locale}/hero.json`)).default,
+
+    about: (await import(`../messages/${locale}/about.json`)).default,
 
     services: (await import(`../messages/${locale}/services.json`)).default,
 

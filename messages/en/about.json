@@ -1,0 +1,15 @@
+{
+    "hero": {
+        "title": "About Four Bridges",
+        "subtitle": "We help individuals, families, students, and professionals achieve their international goals through trusted immigration consulting, visa application preparation, and personalized support.",
+
+        "consultation": "Book a Consultation",
+        "whatsapp": "Chat on WhatsApp",
+
+        "benefits": [
+            "Personalized Guidance",
+            "Multilingual Support",
+            "Trusted International Consultancy"
+        ]
+    }
+}
