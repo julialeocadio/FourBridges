@@ -234,6 +234,21 @@
    "residency": {
     "title": "Permanent Residency",
     "description": "Long-term pathways to build your future abroad.",
+    "subtitle": "Turn you dream of working abroad into reality.",
+    "consultation": "Book a Consultation",
+    "whatsapp": "Chat on WhatsApp",
+    "benefits": [
+      "Residency Visa Guidance",
+      "Multilingual Support",
+      "Document Review"
+    ],
+    "destinations": "Popular Work Destinations",
+    "countries": {
+      "us": "United States",
+      "pt": "Portugal",
+      "au": "Australia",
+      "ca": "Canada"
+    },
     "cta": {
       "title": "Ready to Start Your Residency Journey?",
       "subtitle": "Whether you're exploring the best residency pathway or preparing to submit your application, our team is here to help you.",
