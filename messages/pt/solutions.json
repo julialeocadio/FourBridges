@@ -234,6 +234,21 @@
   "residency": {
     "title": "Residência Permanente",
     "description": "Caminhos de longo prazo para construir seu futuro no exterior.",
+    "subtitle": "Transforme o seu sonho de morar no exterior em realidade.",
+    "consultation": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp",
+    "benefits": [
+      "Assessoria para Vistos de Residência",
+      "Atendimento Multilíngue",
+      "Revisão de Documentação"
+    ],
+    "destinations": "Destinos Populares para Residência",
+    "countries": {
+      "us": "Estados Unidos",
+      "pt": "Portugal",
+      "au": "Austrália",
+      "ca": "Canadá"
+    },
     "cta": {
       "title": "Pronto para iniciar sua jornada de residência?",
       "subtitle": "Seja para encontrar a melhor modalidade de residência ou para preparar sua solicitação, nossa equipe está pronta para ajudar você em cada etapa do processo.",
