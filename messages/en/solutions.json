@@ -249,7 +249,18 @@
 
   "investor": {
     "title": "Investor Visa",
-    "description": "Investment and entrepreneur pathways to live and grow your business abroad."
+    "description": "Investment and entrepreneur pathways to live and grow your business abroad.",
+    "cta": {
+      "title": "Ready to Start Your Investment Journey?",
+      "subtitle": "Whether you're exploring investment visa options or preparing your application, our team is here to guide you through every step of the process.",
+      "consultation": "Book a Consultation",
+      "whatsapp": "Chat on WhatsApp",
+      "benefits": [
+        "Investor Visa Guidance",
+        "Online Consultation Worldwide",
+        "Multilingual Support"
+      ]
+    }
   },
 
   "learnMore": "Learn More"

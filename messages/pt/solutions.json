@@ -249,7 +249,18 @@
 
   "investor": {
     "title": "Visto de Investidor",
-    "description": "Programas de investimento e empreendedorismo para viver e expandir seus negócios no exterior."
+    "description": "Programas de investimento e empreendedorismo para viver e expandir seus negócios no exterior.",
+    "cta": {
+      "title": "Pronto para iniciar sua jornada de investimento?",
+      "subtitle": "Seja para conhecer as opções de visto para investidores ou para preparar sua solicitação, nossa equipe está pronta para orientar você em todas as etapas do processo.",
+      "consultation": "Agendar uma Consulta",
+      "whatsapp": "Conversar pelo WhatsApp",
+      "benefits": [
+        "Assessoria para Vistos de Investidor",
+        "Consultas Online para Todo o Mundo",
+        "Atendimento Multilíngue"
+      ]
+    }
   },
 
   "learnMore": "Saiba Mais"

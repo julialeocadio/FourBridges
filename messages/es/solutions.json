@@ -249,7 +249,18 @@
 
   "investor": {
     "title": "Visado de Inversor",
-    "description": "Programas de inversión y emprendimiento para vivir y hacer crecer tu negocio en el extranjero."
+    "description": "Programas de inversión y emprendimiento para vivir y hacer crecer tu negocio en el extranjero.",
+    "cta": {
+      "title": "¿Listo para comenzar tu proceso de inversión?",
+      "subtitle": "Tanto si estás explorando las opciones de visado para inversores como si ya estás preparando tu solicitud, nuestro equipo está aquí para acompañarte en cada paso del proceso.",
+      "consultation": "Reservar una Consulta",
+      "whatsapp": "Chatear por WhatsApp",
+      "benefits": [
+        "Asesoramiento para Visados de Inversor",
+        "Consultas Online desde Cualquier Lugar",
+        "Atención Multilingüe"
+      ]
+    }
   },
 
   "learnMore": "Más Información"
