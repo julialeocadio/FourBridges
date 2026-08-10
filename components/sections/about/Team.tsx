@@ -20,7 +20,7 @@ export default function Team() {
     },
     {
       id: "member2",
-      image: "/images/team/member2.jpg",
+      image: "/images/team/Julia.jpeg",
     },
     {
       id: "member3",
