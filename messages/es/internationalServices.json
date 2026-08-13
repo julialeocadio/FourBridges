@@ -1,0 +1,67 @@
+{
+  "title": "Servicios Internacionales",
+  "subtitle": "Asistencia profesional con documentación, titulaciones, trámites migratorios y otros servicios internacionales.",
+  "learnMore": "Más información",
+
+  "services": {
+    "higherEducation": {
+      "title": "Homologación de Títulos Universitarios",
+      "description": "Asesoramiento para el reconocimiento de titulaciones de educación superior obtenidas en el extranjero."
+    },
+
+    "cap": {
+      "title": "Certificado de Aptitud Profesional (CAP)",
+      "description": "Asistencia con los trámites relacionados con el Certificado de Aptitud Profesional."
+    },
+
+    "highSchool": {
+      "title": "Homologación de Títulos de Educación Secundaria",
+      "description": "Asesoramiento para el reconocimiento de titulaciones de educación secundaria obtenidas en el extranjero."
+    },
+
+    "europeanCertificates": {
+      "title": "Búsqueda de Certificados Europeos",
+      "description": "Asistencia en la localización de certificados civiles y documentos oficiales europeos."
+    },
+
+    "europeanDescendants": {
+      "title": "Búsqueda de Antecedentes Europeos",
+      "description": "Asistencia en la investigación de ascendencia europea y en la identificación de la documentación correspondiente."
+    },
+
+    "nieSpain": {
+      "title": "NIE España",
+      "description": "Asesoramiento sobre el proceso de obtención del Número de Identidad de Extranjero (NIE) en España."
+    },
+
+    "driversLicense": {
+      "title": "Regularización del Permiso de Conducir",
+      "description": "Asesoramiento sobre la regularización del permiso de conducir para brasileños que viven en el extranjero."
+    },
+
+    "businessPlan": {
+      "title": "Plan de Negocio",
+      "description": "Asistencia en la preparación de planes de negocio para fines internacionales."
+    },
+
+    "foreignJudgment": {
+      "title": "Reconocimiento de Sentencias Extranjeras",
+      "description": "Asesoramiento sobre el reconocimiento de resoluciones judiciales extranjeras."
+    },
+
+    "crnm": {
+      "title": "CRNM / RNM / RNE",
+      "description": "Asistencia con la documentación de registro migratorio brasileño para ciudadanos extranjeros."
+    },
+
+    "arraigo": {
+      "title": "Arraigo Familiar y Social",
+      "description": "Asesoramiento sobre los procedimientos de arraigo familiar y social en España."
+    },
+
+    "criminalRecord": {
+      "title": "Certificado de Antecedentes Penales",
+      "description": "Asistencia en la obtención de certificados de antecedentes penales necesarios para trámites internacionales."
+    }
+  }
+}

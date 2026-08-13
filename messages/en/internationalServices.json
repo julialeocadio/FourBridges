@@ -1,0 +1,67 @@
+{
+    "title": "International Services",
+    "subtitle": "Professional assistance with documentation, qualifications, immigration procedures, and other international services.",
+    "learnMore": "Learn more",
+
+    "services": {
+        "higherEducation": {
+            "title": "Higher Education Diploma Recognition",
+            "description": "Guidance with the recognition of higher-education qualifications obtained abroad."
+        },
+
+        "cap": {
+            "title": "Certificate of Professional Aptitude (CAP)",
+            "description": "Assistance with procedures related to the Certificate of Professional Aptitude."
+        },
+
+        "highSchool": {
+            "title": "High School Diploma Recognition",
+            "description": "Guidance with the recognition of secondary education qualifications obtained abroad."
+        },
+
+        "europeanCertificates": {
+            "title": "European Certificate Searches",
+            "description": "Assistance with locating European civil and official certificates."
+        },
+
+        "europeanDescendants": {
+            "title": "European Ancestry Searches",
+            "description": "Assistance researching European ancestry and identifying relevant documentation."
+        },
+
+        "nieSpain": {
+            "title": "NIE Spain",
+            "description": "Guidance with the process of obtaining a Spanish Foreigner Identification Number."
+        },
+
+        "driversLicense": {
+            "title": "Driver's License Regularization",
+            "description": "Guidance regarding driver's-license regularization for Brazilians living abroad."
+        },
+
+        "businessPlan": {
+            "title": "Business Plan",
+            "description": "Assistance preparing a business plan for international purposes."
+        },
+
+        "foreignJudgment": {
+            "title": "Foreign Judgment Recognition",
+            "description": "Guidance regarding the recognition of foreign court judgments."
+        },
+
+        "crnm": {
+            "title": "CRNM / RNM / RNE",
+            "description": "Assistance with Brazilian immigration registration documentation for foreign nationals."
+        },
+
+        "arraigo": {
+            "title": "Family & Social Arraigo",
+            "description": "Guidance regarding family and social arraigo procedures in Spain."
+        },
+
+        "criminalRecord": {
+            "title": "Criminal Record Certificate",
+            "description": "Assistance obtaining criminal-record certificates required for international procedures."
+        }
+    }
+}

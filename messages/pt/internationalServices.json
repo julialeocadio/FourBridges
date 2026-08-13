@@ -1,0 +1,67 @@
+{
+  "title": "Serviços Internacionais",
+  "subtitle": "Assistência profissional com documentação, reconhecimento de qualificações, processos imigratórios e outros serviços internacionais.",
+  "learnMore": "Saiba mais",
+
+  "services": {
+    "higherEducation": {
+      "title": "Homologação de Diploma de Ensino Superior",
+      "description": "Orientação para a homologação de diplomas de ensino superior obtidos no exterior."
+    },
+
+    "cap": {
+      "title": "Certificado de Aptidão Profissional (CAP)",
+      "description": "Assistência com os procedimentos relacionados ao Certificado de Aptidão Profissional."
+    },
+
+    "highSchool": {
+      "title": "Homologação de Diploma do Ensino Médio",
+      "description": "Orientação para a homologação de diplomas de ensino médio obtidos no exterior."
+    },
+
+    "europeanCertificates": {
+      "title": "Busca de Certidões Europeias",
+      "description": "Assistência na localização de certidões civis e documentos oficiais europeus."
+    },
+
+    "europeanDescendants": {
+      "title": "Pesquisa de Ascendência Europeia",
+      "description": "Assistência na pesquisa de ascendência europeia e na identificação da documentação relevante."
+    },
+
+    "nieSpain": {
+      "title": "NIE Espanha",
+      "description": "Orientação sobre o processo de obtenção do Número de Identidade de Estrangeiro (NIE) na Espanha."
+    },
+
+    "driversLicense": {
+      "title": "Regularização da Carteira de Motorista",
+      "description": "Orientação sobre a regularização da carteira de motorista para brasileiros que vivem no exterior."
+    },
+
+    "businessPlan": {
+      "title": "Plano de Negócios",
+      "description": "Assistência na elaboração de planos de negócios para fins internacionais."
+    },
+
+    "foreignJudgment": {
+      "title": "Homologação de Sentença Estrangeira",
+      "description": "Orientação sobre o reconhecimento de decisões judiciais estrangeiras."
+    },
+
+    "crnm": {
+      "title": "CRNM / RNM / RNE",
+      "description": "Assistência com a documentação de registro migratório brasileiro para cidadãos estrangeiros."
+    },
+
+    "arraigo": {
+      "title": "Arraigo Familiar e Social",
+      "description": "Orientação sobre os procedimentos de arraigo familiar e social na Espanha."
+    },
+
+    "criminalRecord": {
+      "title": "Certidão de Antecedentes Criminais",
+      "description": "Assistência na obtenção de certidões de antecedentes criminais necessárias para processos internacionais."
+    }
+  }
+}
