@@ -73,49 +73,56 @@ export default function GermanyPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/germany/student"
+                    /*href: "/visas/germany/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: PersonStanding,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/germany/au-pair"
+                    /*href: "/visas/germany/au-pair"*/
+                    href: "/contact"
                 },
                 {
                     icon: Laptop,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/germany/freelancer"
+                    /*href: "/visas/germany/freelancer"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/germany/job-seeker"
+                    /*href: "/visas/germany/job-seeker"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work4.title"),
                     description: t("visas.work4.description"),
                     features: t.raw("visas.work4.features") as string[],
-                    href: "/visas/germany/entrepreneur"
+                    /*href: "/visas/germany/entrepreneur"*/
+                    href: "/contact"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/germany/family-reunion-visa"
+                    /*href: "/visas/germany/family-reunion-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/germany/citizenship"
+                    /*href: "/visas/germany/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

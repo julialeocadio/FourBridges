@@ -74,42 +74,48 @@ export default function BrazilPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/brazil/student"
+                    /*href: "/visas/brazil/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/brazil/work"
+                    /*href: "/visas/brazil/work"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/brazil/skilled-independent-visa"
+                    /*href: "/visas/brazil/skilled-independent-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserStar,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/brazil/investor"
+                    /*href: "/visas/brazil/investor"*/
+                    href: "/contact"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/brazil/family-reunion-visa"
+                    /*href: "/visas/brazil/family-reunion-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/brazil/citizenship"
+                    /*href: "/visas/brazil/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

@@ -73,49 +73,56 @@ export default function FrancePage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/france/student"
+                    /*href: "/visas/france/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: PersonStanding,
                     title: t("visas.work4.title"),
                     description: t("visas.work4.description"),
                     features: t.raw("visas.work4.features") as string[],
-                    href: "/visas/france/au-pair"
+                    /*href: "/visas/france/au-pair"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/france/work-visa"
+                    /*href: "/visas/france/work-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/france/talent-passport"
+                    /*href: "/visas/france/talent-passport"*/
+                    href: "/contact"
                 },
                 {
                     icon: MonitorCloud,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/france/entrepreneur-visa"
+                    /*href: "/visas/france/entrepreneur-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/france/family-reunification"
+                    /*href: "/visas/france/family-reunification"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/france/citizenship"
+                    /*href: "/visas/france/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

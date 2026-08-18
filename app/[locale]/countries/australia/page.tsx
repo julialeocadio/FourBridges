@@ -71,42 +71,48 @@ export default function AustraliaPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/australia/student"
+                    /*href: "/visas/australia/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/australia/work"
+                    /*href: "/visas/australia/work"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/australia/skilled-independent-visa"
+                    /*href: "/visas/australia/skilled-independent-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserStar,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/australia/skills-in-demand"
+                    /*href: "/visas/australia/skills-in-demand"*/
+                    href: "/contact"
                 },
                 {
                     icon: Users,
                     title: t("visas.partner.title"),
                     description: t("visas.partner.description"),
                     features: t.raw("visas.partner.features") as string[],
-                    href: "/visas/australia/partner-visa"
+                    /*href: "/visas/australia/partner-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/australia/citizenship"
+                    /*href: "/visas/australia/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

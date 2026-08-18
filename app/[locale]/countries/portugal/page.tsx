@@ -75,63 +75,72 @@ export default function PortugalPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/portugal/student"
+                    /*href: "/visas/portugal/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/portugal/work-visa"
+                    /*href: "/visas/portugal/work-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: Router,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/portugal/tech-visa"
+                    /*href: "/visas/portugal/tech-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserLock,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/portugal/job-seeker-visa"
+                    /*href: "/visas/portugal/job-seeker-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: Laptop,
                     title: t("visas.work4.title"),
                     description: t("visas.work4.description"),
                     features: t.raw("visas.work4.features") as string[],
-                    href: "/visas/portugal/digital-nomad"
+                    /*href: "/visas/portugal/digital-nomad"*/
+                    href: "/contact"
                 },
                 {
                     icon: TrendingUp,
                     title: t("visas.investor.title"),
                     description: t("visas.investor.description"),
                     features: t.raw("visas.investor.features") as string[],
-                    href: "/visas/portugal/golden-visa"
+                    /*href: "/visas/portugal/golden-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.residence.title"),
                     description: t("visas.residence.description"),
                     features: t.raw("visas.residence.features") as string[],
-                    href: "/visas/portugal/retirees-visa"
+                    /*href: "/visas/portugal/retirees-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/portugal/family-reunification-visa"
+                    /*href: "/visas/portugal/family-reunification-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/portugal/citizenship"
+                    /*href: "/visas/portugal/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

@@ -73,63 +73,72 @@ export default function USPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/united-states/student"
+                    /*href: "/visas/united-states/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: PersonStanding,
                     title: t("visas.work7.title"),
                     description: t("visas.work7.description"),
                     features: t.raw("visas.work7.features") as string[],
-                    href: "/visas/united-states/aupair"
+                    /*href: "/visas/united-states/aupair"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserKey,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/united-states/eb1-visa"
+                    /*href: "/visas/united-states/eb1-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/united-states/eb2-visa"
+                    /*href: "/visas/united-states/eb2-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserCog,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/united-states/eb3-visa"
+                    /*href: "/visas/united-states/eb3-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserLock,
                     title: t("visas.work4.title"),
                     description: t("visas.work4.description"),
                     features: t.raw("visas.work4.features") as string[],
-                    href: "/visas/united-states/l-visas"
+                    /*href: "/visas/united-states/l-visas"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work5.title"),
                     description: t("visas.work5.description"),
                     features: t.raw("visas.work5.features") as string[],
-                    href: "/visas/united-states/h1b-visa"
+                    /*href: "/visas/united-states/h1b-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserStar,
                     title: t("visas.work6.title"),
                     description: t("visas.work6.description"),
                     features: t.raw("visas.work6.features") as string[],
-                    href: "/visas/united-states/o1-visa"
+                    /*href: "/visas/united-states/o1-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/united-states/citizenship"
+                    /*href: "/visas/united-states/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

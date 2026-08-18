@@ -72,42 +72,48 @@ export default function IrelandPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/ireland/english-student"
+                    /*href: "/visas/ireland/english-student"*/
+                    href: "/contact"
                 },
                 {
                     icon: GraduationCap,
                     title: t("visas.study2.title"),
                     description: t("visas.study2.description"),
                     features: t.raw("visas.study2.features") as string[],
-                    href: "/visas/ireland/student"
+                    /*href: "/visas/ireland/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/ireland/employment-permit"
+                    /*href: "/visas/ireland/employment-permit"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/ireland/critical-skills-employment-permit"
+                    /*href: "/visas/ireland/critical-skills-employment-permit"*/
+                    href: "/contact"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/ireland/join-family-visa"
+                    /*href: "/visas/ireland/join-family-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/ireland/citizenship"
+                    /*href: "/visas/ireland/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

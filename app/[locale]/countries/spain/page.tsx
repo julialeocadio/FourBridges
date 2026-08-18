@@ -74,56 +74,64 @@ export default function SpainPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/spain/student"
+                    /*href: "/visas/spain/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/spain/work-visa"
+                    /*href: "/visas/spain/work-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserLock,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/spain/highly-qualified-professional-visa"
+                    /*href: "/visas/spain/highly-qualified-professional-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: Laptop,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/spain/digital-nomad"
+                    /*href: "/visas/spain/digital-nomad"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.residence.title"),
                     description: t("visas.residence.description"),
                     features: t.raw("visas.residence.features") as string[],
-                    href: "/visas/spain/retirees-visa"
+                    /*href: "/visas/spain/retirees-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: StickyNoteCheck,
                     title: t("visas.humanitarian.title"),
                     description: t("visas.humanitarian.description"),
                     features: t.raw("visas.humanitarian.features") as string[],
-                    href: "/visas/spain/arraigo"
+                    /*href: "/visas/spain/arraigo"*/
+                    href: "/contact"
                 },
                 {
                     icon: Users,
                     title: t("visas.family.title"),
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
-                    href: "/visas/spain/family-reunification-visa"
+                    /*href: "/visas/spain/family-reunification-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/spain/citizenship"
+                    /*href: "/visas/spain/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

@@ -74,56 +74,64 @@ export default function UAEPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/united-arab-emirates/student"
+                    /*href: "/visas/united-arab-emirates/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/united-arab-emirates/work"
+                    /*href: "/visas/united-arab-emirates/work"*/
+                    href: "/contact"
                 },
                 {
                     icon: Laptop,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/united-arab-emirates/remote-work"
+                    /*href: "/visas/united-arab-emirates/remote-work"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserSearch,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/united-arab-emirates/job-exploration-entry-permit"
+                    /*href: "/visas/united-arab-emirates/job-exploration-entry-permit"*/
+                    href: "/contact"
                 },
                 {
                     icon: User,
                     title: t("visas.green.title"),
                     description: t("visas.green.description"),
                     features: t.raw("visas.green.features") as string[],
-                    href: "/visas/united-arab-emirates/green-visa"
+                    /*href: "/visas/united-arab-emirates/green-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserStar,
                     title: t("visas.golden.title"),
                     description: t("visas.golden.description"),
                     features: t.raw("visas.golden.features") as string[],
-                    href: "/visas/united-arab-emirates/golden-visa"
+                    /*href: "/visas/united-arab-emirates/golden-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: Sprout,
                     title: t("visas.blue.title"),
                     description: t("visas.blue.description"),
                     features: t.raw("visas.blue.features") as string[],
-                    href: "/visas/united-arab-emirates/blue-visa"
+                    /*href: "/visas/united-arab-emirates/blue-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.retirement.title"),
                     description: t("visas.retirement.description"),
                     features: t.raw("visas.retirement.features") as string[],
-                    href: "/visas/united-arab-emirates/retirement"
+                    /*href: "/visas/united-arab-emirates/retirement"*/
+                    href: "/contact"
                 },
             ]}
 

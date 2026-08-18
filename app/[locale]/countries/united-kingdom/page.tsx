@@ -70,42 +70,48 @@ export default function UKPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/united-kingdom/student"
+                    /*href: "/visas/united-kingdom/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCardLanyard,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/united-kingdom/youth-mobility-scheme"
+                    /*href: "/visas/united-kingdom/youth-mobility-scheme"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/united-kingdom/skilled-worker-visa"
+                    /*href: "/visas/united-kingdom/skilled-worker-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserPlus,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/united-kingdom/global-talent-visa"
+                    /*href: "/visas/united-kingdom/global-talent-visa"*/
+                    href: "/contact"
                 },
                 {
                     icon: UserLock,
                     title: t("visas.work4.title"),
                     description: t("visas.work4.description"),
                     features: t.raw("visas.work4.features") as string[],
-                    href: "/visas/united-kingdom/innovator-founder"
+                    /*href: "/visas/united-kingdom/innovator-founder"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/united-kingdom/citizenship"
+                    /*href: "/visas/united-kingdom/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 

@@ -69,35 +69,40 @@ export default function CanadaPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/canada/student"
+                    /*href: "/visas/canada/student"*/
+                    href: "/contact"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/canada/work"
+                    /*href: "/visas/canada/work"*/
+                    href: "/contact"
                 },
                 {
                     icon: HousePlus,
                     title: t("visas.startup.title"),
                     description: t("visas.startup.description"),
                     features: t.raw("visas.startup.features") as string[],
-                    href: "/visas/canada/start-up"
+                    /*href: "/visas/canada/start-up"*/
+                    href: "/contact"
                 },
                 {
                     icon: Plane,
                     title: t("visas.express.title"),
                     description: t("visas.express.description"),
                     features: t.raw("visas.express.features") as string[],
-                    href: "/visas/canada/express-entry"
+                    /*href: "/visas/canada/express-entry"*/
+                    href: "/contact"
                 },
                 {
                     icon: IdCard,
                     title: t("visas.citizenship.title"),
                     description: t("visas.citizenship.description"),
                     features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/canada/citizenship"
+                    /*href: "/visas/canada/citizenship"*/
+                    href: "/contact"
                 },
             ]}
 
