@@ -7,7 +7,8 @@ import {
     House,
     Globe,
     HousePlus,
-    Plane
+    Plane,
+    IdCard
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -90,6 +91,13 @@ export default function CanadaPage() {
                     description: t("visas.express.description"),
                     features: t.raw("visas.express.features") as string[],
                     href: "/visas/canada/express-entry"
+                },
+                {
+                    icon: IdCard,
+                    title: t("visas.citizenship.title"),
+                    description: t("visas.citizenship.description"),
+                    features: t.raw("visas.citizenship.features") as string[],
+                    href: "/visas/canada/citizenship"
                 },
             ]}
 

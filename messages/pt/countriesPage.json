@@ -72,6 +72,16 @@
           "Processamento rápido",
           "Crescimento profissional"
         ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Canadense",
+        "description": "Status permanente para residentes permanentes por meio do processo de naturalização.",
+        "features": [
+          "Passaporte canadense",
+          "Direito ao voto",
+          "Sem obrigações de residência"
+        ]
       }
     },
     "cta": {
@@ -166,6 +176,16 @@
           "Direito total ao trabalho",
           "Estudo sem restrições",
           "Liberdade para viajar"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Australiana",
+        "description": "Status permanente para residentes permanentes por meio do processo de concessão da cidadania.",
+        "features": [
+          "Passaporte australiano",
+          "Direito ao voto",
+          "Proteção consular no exterior"
         ]
       }
     },
@@ -277,6 +297,16 @@
           "Apoio gratuito à integração",
           "Acesso completo aos serviços sociais e educacionais"
         ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Francesa",
+        "description": "Status permanente para residentes estrangeiros elegíveis por meio do processo de naturalização.",
+        "features": [
+          "Passaporte francês",
+          "Livre circulação na UE",
+          "Direito ao voto"
+        ]
       }
     },
 
@@ -387,6 +417,15 @@
           "Acesso ao sistema público de ensino",
           "Caminho para a residência"
         ]
+      },
+      "citizenship": {
+        "title": "Cidadania Alemã",
+        "description": "Status permanente para residentes integrados por meio do processo de naturalização.",
+        "features": [
+          "Passaporte alemão",
+          "Livre circulação na UE",
+          "Possibilidade de manter a dupla cidadania"
+        ]
       }
     },
 
@@ -486,6 +525,16 @@
           "Direito ao trabalho",
           "Acesso ao sistema público de saúde",
           "Caminho para a cidadania"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Irlandesa",
+        "description": "Status permanente para residentes estrangeiros elegíveis por meio do processo de naturalização.",
+        "features": [
+          "Passaporte irlandês",
+          "Livre circulação na UE",
+          "Direitos de residência no Reino Unido (CTA)"
         ]
       }
     },
@@ -606,6 +655,16 @@
           "Direito irrestrito ao trabalho",
           "Mobilidade no Espaço Schengen",
           "Caminho para a residência"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Italiana",
+        "description": "Status permanente para residentes estrangeiros elegíveis por meio do processo de naturalização.",
+        "features": [
+          "Passaporte italiano",
+          "Livre circulação na UE",
+          "Direito ao voto"
         ]
       }
     },
@@ -737,6 +796,16 @@
           "Mobilidade no Espaço Schengen",
           "Caminho para a residência"
         ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Portuguesa",
+        "description": "Status permanente para residentes estrangeiros elegíveis por meio do processo de naturalização.",
+        "features": [
+          "Passaporte português",
+          "Livre circulação na UE",
+          "Direito ao voto"
+        ]
       }
     },
 
@@ -857,6 +926,16 @@
           "Mobilidade no Espaço Schengen",
           "Caminho para a residência"
         ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Espanhola",
+        "description": "Status permanente para residentes estrangeiros elegíveis por meio do processo de naturalização.",
+        "features": [
+          "Passaporte espanhol",
+          "Livre circulação na UE",
+          "Direito ao voto"
+        ]
       }
     },
 
@@ -956,6 +1035,16 @@
           "Sem exigência de investimento mínimo obrigatório",
           "Inclusão de familiares",
           "Caminho acelerado para residência permanente"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Britânica",
+        "description": "Status permanente para residentes estrangeiros elegíveis por meio do processo de naturalização.",
+        "features": [
+          "Passaporte britânico",
+          "Direito ao voto",
+          "Permite ter dupla ou múltiplas cidadanias"
         ]
       }
     },
@@ -1087,6 +1176,16 @@
           "Imersão cultural",
           "Um mês para viajar ao final do programa"
         ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Estadunidense",
+        "description": "Status legal permanente para cidadãos estrangeiros elegíveis por meio do processo de naturalização.",
+        "features": [
+          "Passaporte americano",
+          "Direito ao voto",
+          "Permite ter dupla cidadania"
+        ]
       }
     },
 
@@ -1181,6 +1280,16 @@
           "Acesso ao sistema público de saúde",
           "Acesso ao sistema público de ensino"
         ]
+      },
+
+      "citizenship": {
+        "title": "Cidadania Brasileira",
+        "description": "Status legal permanente para cidadãos estrangeiros integrados por meio do processo de naturalização.",
+        "features": [
+          "Passaporte brasileiro",
+          "Direito ao voto",
+          "Permite ter dupla cidadania"
+        ] 
       }
     },
     "cta": {

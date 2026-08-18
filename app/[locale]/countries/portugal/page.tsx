@@ -13,7 +13,8 @@ import {
     Laptop,
     Coins,
     UserLock,
-    Router
+    Router,
+    IdCard
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -124,6 +125,13 @@ export default function PortugalPage() {
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
                     href: "/visas/portugal/family-reunification-visa"
+                },
+                {
+                    icon: IdCard,
+                    title: t("visas.citizenship.title"),
+                    description: t("visas.citizenship.description"),
+                    features: t.raw("visas.citizenship.features") as string[],
+                    href: "/visas/portugal/citizenship"
                 },
             ]}
 

@@ -9,7 +9,8 @@ import {
     Users,
     UserStar,
     UserPlus,
-    HeartPlus
+    HeartPlus,
+    IdCard
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -99,6 +100,13 @@ export default function AustraliaPage() {
                     description: t("visas.partner.description"),
                     features: t.raw("visas.partner.features") as string[],
                     href: "/visas/australia/partner-visa"
+                },
+                {
+                    icon: IdCard,
+                    title: t("visas.citizenship.title"),
+                    description: t("visas.citizenship.description"),
+                    features: t.raw("visas.citizenship.features") as string[],
+                    href: "/visas/australia/citizenship"
                 },
             ]}
 

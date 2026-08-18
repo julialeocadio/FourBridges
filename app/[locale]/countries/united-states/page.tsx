@@ -11,7 +11,8 @@ import {
     UserStar,
     UserCog,
     UserKey,
-    PersonStanding
+    PersonStanding,
+    IdCard
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -122,6 +123,13 @@ export default function USPage() {
                     description: t("visas.work6.description"),
                     features: t.raw("visas.work6.features") as string[],
                     href: "/visas/united-states/o1-visa"
+                },
+                {
+                    icon: IdCard,
+                    title: t("visas.citizenship.title"),
+                    description: t("visas.citizenship.description"),
+                    features: t.raw("visas.citizenship.features") as string[],
+                    href: "/visas/united-states/citizenship"
                 },
             ]}
 

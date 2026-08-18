@@ -72,6 +72,16 @@
           "Tramitación rápida",
           "Desarrollo profesional"
         ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Canadiense",
+        "description": "Estatus permanente para residentes permanentes mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte canadiense",
+          "Derecho a voto",
+          "Sin obligaciones de residencia"
+        ]
       }
     },
     "cta": {
@@ -166,6 +176,16 @@
           "Derecho pleno a trabajar",
           "Estudios sin restricciones",
           "Libertad para viajar"
+        ]
+      },
+      
+      "citizenship": {
+        "title": "Ciudadanía Australiana",
+        "description": "Estatus permanente para residentes permanentes mediante el proceso de concesión de la ciudadanía.",
+        "features": [
+          "Pasaporte australiano",
+          "Derecho a voto",
+          "Protección consular en el extranjero"
         ]
       }
     },
@@ -277,6 +297,15 @@
           "Apoyo gratuito para la integración",
           "Acceso completo a los servicios sociales y educativos"
         ]
+      },
+      "citizenship": {
+        "title": "Ciudadanía Francesa",
+        "description": "Estatus permanente para residentes extranjeros que cumplen los requisitos mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte francés",
+          "Libre circulación dentro de la UE",
+          "Derecho a voto"
+        ]
       }
     },
 
@@ -387,6 +416,16 @@
           "Acceso al sistema público de educación",
           "Vía hacia la residencia"
         ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Alemana",
+        "description": "Estatus permanente para residentes integrados mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte alemán",
+          "Libre circulación dentro de la UE",
+          "Posibilidad de mantener la doble nacionalidad"
+        ]
       }
     },
 
@@ -486,6 +525,16 @@
           "Derecho a trabajar",
           "Acceso a la sanidad pública",
           "Vía hacia la ciudadanía"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Irlandesa",
+        "description": "Estatus permanente para residentes extranjeros que cumplen los requisitos mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte irlandés",
+          "Libre circulación dentro de la UE",
+          "Derechos de residencia en el Reino Unido (CTA)"
         ]
       }
     },
@@ -606,6 +655,16 @@
           "Derecho ilimitado a trabajar",
           "Movilidad por el Espacio Schengen",
           "Vía hacia la residencia"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Italiana",
+        "description": "Estatus permanente para residentes extranjeros que cumplen los requisitos mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte italiano",
+          "Libre circulación dentro de la UE",
+          "Derecho a voto"
         ]
       }
     },
@@ -737,6 +796,16 @@
           "Movilidad por el Espacio Schengen",
           "Vía hacia la residencia"
         ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Portuguesa",
+        "description": "Estatus permanente para residentes extranjeros que cumplen los requisitos mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte portugués",
+          "Libre circulación dentro de la UE",
+          "Derecho a voto"
+        ]
       }
     },
 
@@ -857,6 +926,16 @@
           "Movilidad por el Espacio Schengen",
           "Vía hacia la residencia"
         ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Española",
+        "description": "Estatus permanente para residentes extranjeros que cumplen los requisitos mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte español",
+          "Libre circulación dentro de la UE",
+          "Derecho a voto"
+        ]
       }
     },
 
@@ -956,6 +1035,16 @@
           "Sin inversión mínima obligatoria",
           "Inclusión de familiares",
           "Acceso acelerado a la residencia permanente"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Británica",
+        "description": "Estatus permanente para residentes extranjeros que cumplen los requisitos mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte británico",
+          "Derecho a voto",
+          "Permite tener doble o múltiple nacionalidad"
         ]
       }
     },
@@ -1087,6 +1176,16 @@
           "Inmersión cultural",
           "Un mes para viajar al finalizar el programa"
         ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Estadounidense",
+        "description": "Estatus legal permanente para ciudadanos extranjeros que cumplen los requisitos mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte estadounidense",
+          "Derecho a voto",
+          "Permite tener doble nacionalidad"
+        ]
       }
     },
 
@@ -1180,6 +1279,16 @@
           "Autorización de trabajo",
           "Acceso al sistema público de salud",
           "Acceso al sistema público de educación"
+        ]
+      },
+
+      "citizenship": {
+        "title": "Ciudadanía Brasileña",
+        "description": "Estatus legal permanente para ciudadanos extranjeros integrados mediante el proceso de naturalización.",
+        "features": [
+          "Pasaporte brasileño",
+          "Derecho a voto",
+          "Permite tener doble nacionalidad"
         ]
       }
     },

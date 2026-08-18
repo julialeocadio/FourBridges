@@ -69,6 +69,15 @@
                     "Fast processing",
                     "Career growth"
                 ]
+            },
+            "citizenship": {
+                "title": "Canadian Citizenship",
+                "description": "Permanent status for permanent residents through naturalization.",
+                "features": [
+                    "Canadian passport",
+                    "Right to vote",
+                    "No residency obligations"
+                ]
             }
         },
         "cta": {
@@ -78,7 +87,7 @@
             "whatsappButton": "Chat on WhatsApp",
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
-        }
+        } 
     },
 
     "australia": {
@@ -158,6 +167,15 @@
                     "Full work rights",
                     "Unrestricted study",
                     "Freedom of travel"
+                ]
+            },
+            "citizenship": {
+                "title": "Australian Citizenship",
+                "description": "Permanent status for permanent residents through conferral.",
+                "features": [
+                    "Australian passport",
+                    "Right to vote",
+                    "Consular protection abroad"
                 ]
             }
         },
@@ -258,6 +276,15 @@
                     "Free integration support",
                     "Full social and educational access"
                 ]
+            },
+            "citizenship": {
+                "title": "French Citizenship",
+                "description": "Permanent status for eligible foreign residents through naturalization.",
+                "features": [
+                    "French passport",
+                    "EU Freedom of movement",
+                    "Right to vote"
+                ]
             }
         },
         "cta": {
@@ -357,6 +384,15 @@
                     "Access to the public education system",
                     "Pathway to residency"
                 ]
+            },
+            "citizenship": {
+                "title": "German Citizenship",
+                "description": "Permanent status for integrated residents through naturalization.",
+                "features": [
+                    "German passport",
+                    "EU Freedom of movement",
+                    "Full dual citizenship allowed"
+                ]
             }
         },
         "cta": {
@@ -446,6 +482,15 @@
                     "Right to work",
                     "Access to public healthcare",
                     "Pathway to citizenship"
+                ]
+            },
+            "citizenship": {
+                "title": "Irish Citizenship",
+                "description": "Permanent status for eligible foreign residents through naturalization.",
+                "features": [
+                    "Irish passport",
+                    "EU Freedom of movement",
+                    "UK residence rights (CTA)"
                 ]
             }
         },
@@ -553,6 +598,15 @@
                     "Unrestricted employment",
                     "Schengen area mobility",
                     "Pathway to residency"
+                ]
+            },
+            "citizenship": {
+                "title": "Italian Citizenship",
+                "description": "Permanent status for eligible foreign residents through naturalization.",
+                "features": [
+                    "Italian passport",
+                    "EU Freedom of movement",
+                    "Right to vote"
                 ]
             }
         },
@@ -670,6 +724,15 @@
                     "Schengen area mobility",
                     "Pathway to residency"
                 ]
+            },
+            "citizenship": {
+                "title": "Portuguese Citizenship",
+                "description": "Permanent status for eligible foreign residents through naturalization.",
+                "features": [
+                    "Portuguese passport",
+                    "EU Freedom of movement",
+                    "Right to vote"
+                ]
             }
         },
         "cta": {
@@ -777,6 +840,15 @@
                     "Schengen area mobility",
                     "Pathway to residency"
                 ]
+            },
+            "citizenship": {
+                "title": "Spanish Citizenship",
+                "description": "Permanent status for eligible foreign residents through naturalization.",
+                "features": [
+                    "Spanish passport",
+                    "EU Freedom of movement",
+                    "Right to vote"
+                ]
             }
         },
         "cta": {
@@ -865,6 +937,15 @@
                     "No mandatory minimum investment capital",
                     "Family inclusion",
                     "Fast-track settlement"
+                ]
+            },
+            "citizenship": {
+                "title": "British Citizenship",
+                "description": "Permanent status for eligible foreign residents through naturalization.",
+                "features": [
+                    "British passport",
+                    "Right to vote",
+                    "Allows for dual or multiple citizenships"
                 ]
             }
         },
@@ -982,6 +1063,15 @@
                     "Cultural immersion",
                     "Travel month"
                 ]
+            },
+            "citizenship": {
+                "title": "United States Citizenship",
+                "description": "Permanent legal status for eligible foreign nationals through naturalization.",
+                "features": [
+                    "U.S. passport",
+                    "Right to vote",
+                    "Allows for dual citizenship"
+                ]
             }
         },
         "cta": {
@@ -1070,6 +1160,15 @@
                     "Work authorization",
                     "Access to public healthcare",
                     "Access to the public education system"
+                ]
+            },
+            "citizenship": {
+                "title": "Brazilian Citizenship",
+                "description": "Permanent legal status for integrated foreign nationals through naturalization.",
+                "features": [
+                    "Brazilian passport",
+                    "Right to vote",
+                    "Allows for dual citizenship"
                 ]
             }
         },

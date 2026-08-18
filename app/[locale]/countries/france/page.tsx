@@ -11,7 +11,8 @@ import {
     Users,
     UserPlus,
     MonitorCloud,
-    PersonStanding
+    PersonStanding,
+    IdCard
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -108,6 +109,13 @@ export default function FrancePage() {
                     description: t("visas.family.description"),
                     features: t.raw("visas.family.features") as string[],
                     href: "/visas/france/family-reunification"
+                },
+                {
+                    icon: IdCard,
+                    title: t("visas.citizenship.title"),
+                    description: t("visas.citizenship.description"),
+                    features: t.raw("visas.citizenship.features") as string[],
+                    href: "/visas/france/citizenship"
                 },
             ]}
 

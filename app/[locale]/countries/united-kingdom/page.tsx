@@ -8,7 +8,8 @@ import {
     UserLock,
     Landmark,
     Microscope,
-    IdCardLanyard
+    IdCardLanyard,
+    IdCard
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -98,6 +99,13 @@ export default function UKPage() {
                     description: t("visas.work4.description"),
                     features: t.raw("visas.work4.features") as string[],
                     href: "/visas/united-kingdom/innovator-founder"
+                },
+                {
+                    icon: IdCard,
+                    title: t("visas.citizenship.title"),
+                    description: t("visas.citizenship.description"),
+                    features: t.raw("visas.citizenship.features") as string[],
+                    href: "/visas/united-kingdom/citizenship"
                 },
             ]}
 
