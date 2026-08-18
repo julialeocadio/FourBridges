@@ -25,7 +25,8 @@
       "it": "Italy",
       "de": "Germany",
       "gb": "United Kingdom",
-      "br": "Brazil"
+      "br": "Brazil",
+      "ae": "United Arab Emirates"
     },
     "why": {
       "title": "Why Study Abroad?",
@@ -176,7 +177,8 @@
       "it": "Italy",
       "de": "Germany",
       "gb": "United Kingdom",
-      "br": "Brazil"
+      "br": "Brazil",
+      "ae": "United Arab Emirates"
     },
     "why": {
       "title": "Why Work Abroad?",
@@ -288,6 +290,21 @@
       "whatsapp": "Chat on WhatsApp",
       "benefits": [
         "Investor Visa Guidance",
+        "Online Consultation Worldwide",
+        "Multilingual Support"
+      ]
+    }
+  },
+  "citizenship": {
+    "title": "Citizenship",
+    "description": "Legal and naturalization pathways to establish your permanent future abroad.",
+    "cta": {
+      "title": "Ready to Start Your Citizenship Journey?",
+      "subtitle": "Whether you're researching your options or preparing your application, our team is here to guide you through every step of the process.",
+      "consultation": "Book a Consultation",
+      "whatsapp": "Chat on WhatsApp",
+      "benefits": [
+        "Citizenship Application Guidance",
         "Online Consultation Worldwide",
         "Multilingual Support"
       ]

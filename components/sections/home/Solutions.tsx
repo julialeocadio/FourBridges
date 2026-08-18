@@ -10,6 +10,7 @@ import {
     House,
     CircleDollarSign,
     PersonStanding,
+    IdCard,
 } from "lucide-react";
 import SolutionCard from "@/components/ui/SolutionCard";
 
@@ -45,6 +46,12 @@ export default function Solutions() {
         title: t("investor.title"),
         description: t("investor.description"),
         href: "/solutions/investor",
+    },
+    {
+        icon: IdCard,
+        title: t("citizenship.title"),
+        description: t("citizenship.description"),
+        href: "/solutions/citizenship",
     },
   ]
 

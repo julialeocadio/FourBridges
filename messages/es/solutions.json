@@ -25,7 +25,8 @@
       "it": "Italia",
       "de": "Alemania",
       "gb": "Reino Unido",
-      "br": "Brasil"
+      "br": "Brasil",
+      "ae": "Emiratos Árabes Unidos"
     },
     "why": {
       "title": "Porqué Estudiar en el Extranjero?",
@@ -103,7 +104,8 @@
       "it": "Italia",
       "de": "Alemania",
       "gb": "Reino Unido",
-      "br": "Brasil"
+      "br": "Brasil",
+      "ae": "Emiratos Árabes Unidos"
     },
     "why": {
       "title": "¿Por qué trabajar en el extranjero?",
@@ -288,6 +290,21 @@
       "whatsapp": "Chatear por WhatsApp",
       "benefits": [
         "Asesoramiento para Visados de Inversor",
+        "Consultas Online desde Cualquier Lugar",
+        "Atención Multilingüe"
+      ]
+    }
+  },
+  "citizenship": {
+    "title": "Ciudadanía",
+    "description": "Vías legales y de naturalización para asegurar tu futuro permanente en el extranjero.",
+    "cta": {
+      "title": "¿Listo para comenzar tu camino hacia la ciudadanía?",
+      "subtitle": "Tanto si estás explorando tus opciones como si estás preparando tu solicitud, nuestro equipo está aquí para acompañarte en cada paso del proceso.",
+      "consultation": "Reservar una Consulta",
+      "whatsapp": "Chatear por WhatsApp",
+      "benefits": [
+        "Asesoramiento para la solicitud de ciudadanía",
         "Consultas Online desde Cualquier Lugar",
         "Atención Multilingüe"
       ]

@@ -25,7 +25,8 @@
       "it": "Itália",
       "de": "Alemanha",
       "gb": "Reino Unido",
-      "br": "Brasil"
+      "br": "Brasil",
+      "ae": "Emirados Árabes Unidos"
     },
     "why": {
       "title": "Porque Estudar no Exterior?",
@@ -103,7 +104,8 @@
       "it": "Itália",
       "de": "Alemanha",
       "gb": "Reino Unido",
-      "br": "Brasil"
+      "br": "Brasil",
+      "ae": "Emirados Árabes Unidos"
     },
     "why": {
       "title": "Por que trabalhar no exterior?",
@@ -288,6 +290,21 @@
       "whatsapp": "Conversar pelo WhatsApp",
       "benefits": [
         "Assessoria para Vistos de Investidor",
+        "Consultas Online para Todo o Mundo",
+        "Atendimento Multilíngue"
+      ]
+    }
+  },
+  "citizenship": {
+    "title": "Cidadania",
+    "description": "Caminhos legais e de naturalização para estabelecer o seu futuro permanente no exterior.",
+    "cta": {
+      "title": "Pronto para iniciar sua jornada de cidadania?",
+      "subtitle": "Seja para conhecer as opções de visto para investidores ou para preparar sua solicitação, nossa equipe está pronta para orientar você em todas as etapas do processo.",
+      "consultation": "Agendar uma Consulta",
+      "whatsapp": "Conversar pelo WhatsApp",
+      "benefits": [
+        "Orientação no Pedido de Cidadania",
         "Consultas Online para Todo o Mundo",
         "Atendimento Multilíngue"
       ]
