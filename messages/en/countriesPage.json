@@ -1180,5 +1180,120 @@
 
             "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
         }
+    },
+    "unitedEmirates": {
+        "learnMore": "Learn More",
+        "hero": {
+            "badge": "United Arab Emirates",
+            "title": "Build Your Future in the United Arab Emirates",
+            "subtitle": "The United Arab Emirates offers a visionary culture, world-class opportunities, and an exceptional quality of life for those looking to live, work, invest, or reunite with family. With a thriving global economy, safe comunities, and a variety of residency pathways, the UAE is an ideal destination to build your future in the heart of the Middle East.",
+            "primaryButton": "Book a Consultation",
+            "secondaryButton": "Contact Us",
+
+            "features": [
+                "Study",
+                "Work",
+                "Family"
+            ],
+
+            "highlights": {
+                "economy": "Vibrant Culture & Lifestyle",
+                "education": "Safe & Family-Friendly Communities",
+                "qualityLife": "Thriving Global Economy",
+                "multicultural": "Dynamic Cities for Every Lifestyle"
+            },
+
+            "benefits": [
+                "Access to a tax-free, thriving global economy",
+                "World-class safety and exceptional quality of life",
+                "Multiple visa pathways for work, investment and family"
+            ]
+        },
+            
+        "visas": {
+            "title": "Immigration Pathways",
+            "subtitle": "Choose the immigration pathway that fits your goals.",
+            
+            "study": {
+                "title": "UAE Student Residence Visa",
+                "description": "Study at universities in the United Arab Emirates while gaining valuable international experience.",
+                "features": [
+                    "Part-time work",
+                    "Tuition-free options",
+                    "Golden Visa Route"
+                ]
+            },
+            "work": {
+                "title": "Standard Employment Visa",
+                "description": "For professional to work and live in United Arab Emirates.",
+                "features": [
+                    "Full employment contract rights",
+                    "Family sponsorship",
+                    "Zero Income Tax"
+                ]
+            },
+            "work2": {
+                "title": "Virtual Work Visa",
+                "description": "For digital nomads, international freelancers, and remote company employees.",
+                "features": [
+                    "No local sponsor needed",
+                    "0% personal Income Tax",
+                    "Unrestricted travel in and out of the UAE"
+                ]
+            },
+            "work3": {
+                "title": "Job Exploration Entry Permit",
+                "description": "Allows qualified professionals to enter the country to interview and network without needing a local sponsor or company host upfront.",
+                "features": [
+                    "In-Person networking",
+                    "Direct status conversion",
+                    "Market assessment"
+                ]
+            },
+            "green": {
+                "title": "Green Visa",
+                "description": "Designed for skilled employees, self-employed individuals, and Investors.",
+                "features": [
+                    "Self-sponsorship",
+                    "Legal self-employment",
+                    "Lower corporate hiring cost"
+                ]
+            },
+            "golden": {
+                "title": "Golden Visa",
+                "description": "Long-term residence permit designed for high-net-worth investors, entreneurs, and exceptional global talent.",
+                "features": [
+                    "Self-sponsorship",
+                    "Esaad privilege card",
+                    "Automatic renewal"
+                ]
+            },
+            "blue": {
+                "title": "Blue Residency Visa",
+                "description": "Designed for individuals who have made exceptional contributions to environmental protection, sustainability, and green technology.",
+                "features": [
+                    "Complete career autonomy",
+                    "No financial investment needed",
+                    "Uncapped support staff"
+                ]
+            },
+            "retirement": {
+                "title": "Retirement Visa",
+                "description": "Designed for expats and global citizens who wish to live in the UAE post-career without needing a corporate or employment sponsor.",
+                "features": [
+                    "Self-sponsorship",
+                    "Standard resident rights",
+                    "Work freedom"
+                ]
+            }
+        },
+        "cta": {
+            "title": "Ready to Start Your Journey to the United Arab Emirates?",
+            "subtitle": "Book a consultation with our immigration specialists and receive personalized guidance for your immigration journey.",
+            "consultationButton": "Book a Consultation",
+            "whatsappButton": "Chat on WhatsApp",
+
+            "benefits": ["Personalized Strategy", "Document Review", "Multilingual Support"]
+        }
     }
 }

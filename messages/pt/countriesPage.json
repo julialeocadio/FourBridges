@@ -1304,5 +1304,132 @@
         "Suporte Multilíngue"
       ]
     }
-  } 
+  },
+  "unitedEmirates": {
+  "learnMore": "Saiba Mais",
+  "hero": {
+    "badge": "Emirados Árabes Unidos",
+    "title": "Construa Seu Futuro nos Emirados Árabes Unidos",
+    "subtitle": "Os Emirados Árabes Unidos oferecem uma cultura inovadora, oportunidades de alto nível e uma qualidade de vida excepcional para quem deseja morar, trabalhar, investir ou se reunir com a família. Com uma economia global próspera, comunidades seguras e diversas opções de residência, os EAU são um destino ideal para construir seu futuro no coração do Oriente Médio.",
+    "primaryButton": "Agende uma Consulta",
+    "secondaryButton": "Entre em Contato",
+
+    "features": [
+      "Estudar",
+      "Trabalhar",
+      "Família"
+    ],
+
+    "highlights": {
+      "economy": "Cultura e Estilo de Vida Vibrantes",
+      "education": "Comunidades Seguras e Ideais para Famílias",
+      "qualityLife": "Economia Global Próspera",
+      "multicultural": "Cidades Dinâmicas para Todos os Estilos de Vida"
+    },
+
+    "benefits": [
+      "Acesso a uma economia global próspera e livre de impostos",
+      "Segurança de alto nível e qualidade de vida excepcional",
+      "Diversas opções de visto para trabalho, investimento e reunião familiar"
+    ]
+  },
+
+  "visas": {
+    "title": "Opções de Imigração",
+    "subtitle": "Escolha a opção de imigração que melhor se adapta aos seus objetivos.",
+
+    "study": {
+      "title": "Visto de Residência para Estudantes nos EAU",
+      "description": "Estude em universidades dos Emirados Árabes Unidos enquanto adquire uma valiosa experiência internacional.",
+      "features": [
+        "Trabalho em período parcial",
+        "Opções sem cobrança de mensalidade",
+        "Possibilidade de Golden Visa"
+      ]
+    },
+
+    "work": {
+      "title": "Visto de Trabalho Padrão",
+      "description": "Para profissionais que desejam trabalhar e morar nos Emirados Árabes Unidos.",
+      "features": [
+        "Direitos decorrentes de contrato de trabalho em período integral",
+        "Patrocínio familiar",
+        "Imposto de renda de 0%"
+      ]
+    },
+
+    "work2": {
+      "title": "Visto de Trabalho Virtual",
+      "description": "Para nômades digitais, profissionais autônomos internacionais e funcionários de empresas estrangeiras que trabalham remotamente.",
+      "features": [
+        "Não requer patrocinador local",
+        "0% de imposto de renda pessoal",
+        "Entrada e saída dos EAU sem restrições"
+      ]
+    },
+
+    "work3": {
+      "title": "Permissão de Entrada para Busca de Oportunidades de Trabalho",
+      "description": "Permite que profissionais qualificados entrem no país para participar de entrevistas e estabelecer contatos profissionais sem precisar de um patrocinador local ou empresa anfitriã inicialmente.",
+      "features": [
+        "Networking presencial",
+        "Conversão direta do status",
+        "Avaliação do mercado de trabalho"
+      ]
+    },
+
+    "green": {
+      "title": "Green Visa",
+      "description": "Destinada a profissionais qualificados, trabalhadores autônomos e investidores.",
+      "features": [
+        "Autopatrocínio",
+        "Trabalho autônomo legal",
+        "Menores custos de contratação empresarial"
+      ]
+    },
+
+    "golden": {
+      "title": "Golden Visa",
+      "description": "Permissão de residência de longa duração destinada a investidores de alto patrimônio, empreendedores e talentos excepcionais de todo o mundo.",
+      "features": [
+        "Autopatrocínio",
+        "Cartão de benefícios Esaad",
+        "Renovação automática"
+      ]
+    },
+
+    "blue": {
+      "title": "Blue Residency Visa",
+      "description": "Destinada a pessoas que fizeram contribuições excepcionais para a proteção ambiental, sustentabilidade e tecnologias verdes.",
+      "features": [
+        "Autonomia profissional completa",
+        "Não exige investimento financeiro",
+        "Equipe de apoio sem limite"
+      ]
+    },
+
+    "retirement": {
+      "title": "Visto de Aposentadoria dos EAU",
+      "description": "Destinada a expatriados e cidadãos de todo o mundo que desejam morar nos EAU após a vida profissional sem a necessidade de um patrocinador empresarial ou empregador.",
+      "features": [
+        "Autopatrocínio",
+        "Direitos padrão de residente",
+        "Liberdade para trabalhar"
+      ]
+    }
+  },
+
+  "cta": {
+    "title": "Pronto para começar sua jornada para os Emirados Árabes Unidos?",
+    "subtitle": "Agende uma consulta com nossos especialistas em imigração e receba orientação personalizada para o seu processo imigratório.",
+    "consultationButton": "Agendar uma Consulta",
+    "whatsappButton": "Conversar no WhatsApp",
+
+    "benefits": [
+      "Estratégia Personalizada",
+      "Revisão de Documentação",
+      "Atendimento Multilíngue"
+    ]
+  }
+}
 }

@@ -4,16 +4,16 @@ import * as Flags from "country-flag-icons/react/3x2";
 import { 
     Briefcase,
     GraduationCap,
-    House,
-    Globe,
-    Users,
     UserStar,
     UserPlus,
-    HeartPlus,
     TrendingUp,
-    Parasol,
     HouseHeart,
-    IdCard
+    Building2,
+    Sparkles,
+    Laptop,
+    Sprout,
+    UserSearch,
+    User
 } from "lucide-react";
 
 import { useTranslations } from "next-intl";
@@ -21,8 +21,8 @@ import CountryHero from "@/components/sections/country/CountryHero";
 import CountryVisaOptions from "@/components/sections/country/CountryVisaOptions";
 import CountryCTA from "@/components/sections/country/CountryCTA";
 
-export default function BrazilPage() {
-    const t = useTranslations("countriesPage.brazil");
+export default function UAEPage() {
+    const t = useTranslations("countriesPage.unitedEmirates");
 
     return (
         <>
@@ -41,14 +41,14 @@ export default function BrazilPage() {
 
             countryName={t("hero.badge")}
 
-            flag={<Flags.BR className="h-10 rounded" />}
+            flag={<Flags.AE className="h-10 rounded" />}
 
             highlights={[{
-                icon: <Parasol size={22} />,
+                icon: <Sparkles size={22} />,
                 text: t("hero.highlights.economy"),
             },
             {
-                icon: <HeartPlus size={22} />,
+                icon: <HouseHeart size={22} />,
                 text: t("hero.highlights.education"),
             },
             {
@@ -56,7 +56,7 @@ export default function BrazilPage() {
                 text: t("hero.highlights.qualityLife"),
             },
             {
-                icon: <HouseHeart size={22} />,
+                icon: <Building2 size={22} />,
                 text: t("hero.highlights.multicultural"),
             },
         ]}
@@ -74,42 +74,56 @@ export default function BrazilPage() {
                     title: t("visas.study.title"),
                     description: t("visas.study.description"),
                     features: t.raw("visas.study.features") as string[],
-                    href: "/visas/brazil/student"
+                    href: "/visas/united-arab-emirates/student"
                 },
                 {
                     icon: Briefcase,
                     title: t("visas.work.title"),
                     description: t("visas.work.description"),
                     features: t.raw("visas.work.features") as string[],
-                    href: "/visas/brazil/work"
+                    href: "/visas/united-arab-emirates/work"
                 },
                 {
-                    icon: UserPlus,
+                    icon: Laptop,
                     title: t("visas.work2.title"),
                     description: t("visas.work2.description"),
                     features: t.raw("visas.work2.features") as string[],
-                    href: "/visas/brazil/skilled-independent-visa"
+                    href: "/visas/united-arab-emirates/remote-work"
                 },
                 {
-                    icon: UserStar,
+                    icon: UserSearch,
                     title: t("visas.work3.title"),
                     description: t("visas.work3.description"),
                     features: t.raw("visas.work3.features") as string[],
-                    href: "/visas/brazil/investor"
+                    href: "/visas/united-arab-emirates/job-exploration-entry-permit"
                 },
                 {
-                    icon: Users,
-                    title: t("visas.family.title"),
-                    description: t("visas.family.description"),
-                    features: t.raw("visas.family.features") as string[],
-                    href: "/visas/brazil/family-reunion-visa"
+                    icon: User,
+                    title: t("visas.green.title"),
+                    description: t("visas.green.description"),
+                    features: t.raw("visas.green.features") as string[],
+                    href: "/visas/united-arab-emirates/green-visa"
                 },
                 {
-                    icon: IdCard,
-                    title: t("visas.citizenship.title"),
-                    description: t("visas.citizenship.description"),
-                    features: t.raw("visas.citizenship.features") as string[],
-                    href: "/visas/brazil/citizenship"
+                    icon: UserStar,
+                    title: t("visas.golden.title"),
+                    description: t("visas.golden.description"),
+                    features: t.raw("visas.golden.features") as string[],
+                    href: "/visas/united-arab-emirates/golden-visa"
+                },
+                {
+                    icon: Sprout,
+                    title: t("visas.blue.title"),
+                    description: t("visas.blue.description"),
+                    features: t.raw("visas.blue.features") as string[],
+                    href: "/visas/united-arab-emirates/blue-visa"
+                },
+                {
+                    icon: UserPlus,
+                    title: t("visas.retirement.title"),
+                    description: t("visas.retirement.description"),
+                    features: t.raw("visas.retirement.features") as string[],
+                    href: "/visas/united-arab-emirates/retirement"
                 },
             ]}
 
