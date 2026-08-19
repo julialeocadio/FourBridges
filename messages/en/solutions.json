@@ -320,6 +320,26 @@
       "gb": "United Kingdom",
       "br": "Brazil"
     },
+    "services": {
+      "title": "How We Help",
+      "subtitle": "We provide comprehensive support throughout your application.",
+      "eligibility": {
+        "title": "Citizenship Eligibility Guidance",
+        "description": "Guidance on citizenship requirements, eligibility criteria, and the application process."
+      },
+      "visa": {
+        "title": "Document Preparation",
+        "description": "Reviewing, organizing, and preparing the required documents for submission."
+      },
+      "translations": {
+        "title": "Certified Translations",
+        "description": "We offer additional support for document translations to meet application requirements."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "Continued assistance throughout your application process."
+      }
+    },
     "cta": {
       "title": "Ready to Start Your Citizenship Journey?",
       "subtitle": "Whether you're researching your options or preparing your application, our team is here to guide you through every step of the process.",

@@ -320,6 +320,26 @@
       "gb": "Reino Unido",
       "br": "Brasil"
     },
+    "services": {
+      "title": "Cómo Podemos Ayudarte",
+      "subtitle": "Ofrecemos apoyo personalizado durante todo tu proceso de solicitud de ciudadanía.",
+      "eligibility": {
+        "title": "Asesoramiento sobre Elegibilidad para la Ciudadanía",
+        "description": "Orientación sobre los requisitos de ciudadanía, los criterios de elegibilidad y el proceso de solicitud."
+      },
+      "visa": {
+        "title": "Preparación de Documentación",
+        "description": "Revisión, organización y preparación de la documentación necesaria para tu solicitud de ciudadanía."
+      },
+      "translations": {
+        "title": "Traducciones Certificadas",
+        "description":"Ofrecemos apoyo adicional para traducciones de documentos para cumplir con los requisitos de solicitud."
+      },
+      "support": {
+        "title": "Acompañamiento durante el Proceso",
+        "description":"Asistencia continua durante todo tu proceso de solicitud."
+      }
+    },
     "cta": {
       "title": "¿Listo para comenzar tu camino hacia la ciudadanía?",
       "subtitle": "Tanto si estás explorando tus opciones como si estás preparando tu solicitud, nuestro equipo está aquí para acompañarte en cada paso del proceso.",

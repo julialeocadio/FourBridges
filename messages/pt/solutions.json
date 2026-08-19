@@ -322,6 +322,26 @@
       "gb": "Reino Unido",
       "br": "Brasil"
     },
+    "services": {
+      "title": "Como Podemos Ajudar",
+      "subtitle": "Oferecemos suporte personalizado durante todo o processo de solicitação de cidadania.",
+      "eligibility": {
+        "title": "Assessoria sobre Eligibilidade para a Cidadania",
+        "description": "Orientação sobre os requisitos de cidadania, critérios de elegibilidade e processo de solicitação."
+      },
+      "visa": {
+        "title": "Preparação de Documentação",
+        "description": "Orientação sobre requisitos de visto e assistência na preparação da documentação necessária."
+      },
+      "translations": {
+        "title": "Traduções Certificadas",
+        "description": "Oferecemos suporte adicional para traduções de documentos para atender aos requisitos de solicitação de cidadania"
+      },
+      "support": {
+        "title": "Acompanhamento do Processo",
+        "description": "Assistência contínua durante todo o processo de aplicação."
+      }
+    },
     "cta": {
       "title": "Pronto para iniciar sua jornada de cidadania?",
       "subtitle": "Seja para conhecer as opções de visto para investidores ou para preparar sua solicitação, nossa equipe está pronta para orientar você em todas as etapas do processo.",
