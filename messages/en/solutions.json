@@ -298,6 +298,28 @@
   "citizenship": {
     "title": "Citizenship",
     "description": "Legal and naturalization pathways to establish your permanent future abroad.",
+    "subtitle": "Turn your dream of obtaining citizenship abroad into reality.",
+    "consultation": "Book a Consultation",
+    "whatsapp": "Chat on WhatsApp",
+    "benefits": [
+      "Citizenship Application Guidance",
+      "Multilingual Support",
+      "Document Review"
+    ],
+    "destinations": "Popular Destinations",
+    "countries": {
+      "us": "United States",
+      "pt": "Portugal",
+      "au": "Australia",
+      "ca": "Canada",
+      "es": "Spain",
+      "fr": "France",
+      "ie": "Ireland",
+      "it": "Italy",
+      "de": "Germany",
+      "gb": "United Kingdom",
+      "br": "Brazil"
+    },
     "cta": {
       "title": "Ready to Start Your Citizenship Journey?",
       "subtitle": "Whether you're researching your options or preparing your application, our team is here to guide you through every step of the process.",

@@ -77,6 +77,11 @@ export default function StudyHero() {
         name: t("countries.gb"),
         href: "/countries/united-kingdom",
     },
+    {
+        code: "AE",
+        name: t("countries.ae"),
+        href: "/countries/united-arab-emirates",
+    },
   ].sort((a,b) => a.name.localeCompare(b.name, locale, {
     sensitivity: "base",
   }));

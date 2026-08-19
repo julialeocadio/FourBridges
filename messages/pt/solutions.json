@@ -298,6 +298,30 @@
   "citizenship": {
     "title": "Cidadania",
     "description": "Caminhos legais e de naturalização para estabelecer o seu futuro permanente no exterior.",
+    "subtitle": "Transforme seu sonho de obter a cidadania no exterior em realidade.",
+    "consultation": "Agendar uma Consulta",
+    "whatsapp": "Conversar pelo WhatsApp",
+    "benefits": [
+      "Assessoria para Solicitação de Cidadania",
+      "Atendimento Multilíngue",
+      "Revisão de Documentação"
+    ],
+
+    "destinations": "Destinos Populares",
+
+    "countries": {
+      "us": "Estados Unidos",
+      "pt": "Portugal",
+      "au": "Austrália",
+      "ca": "Canadá",
+      "es": "Espanha",
+      "fr": "França",
+      "ie": "Irlanda",
+      "it": "Itália",
+      "de": "Alemanha",
+      "gb": "Reino Unido",
+      "br": "Brasil"
+    },
     "cta": {
       "title": "Pronto para iniciar sua jornada de cidadania?",
       "subtitle": "Seja para conhecer as opções de visto para investidores ou para preparar sua solicitação, nossa equipe está pronta para orientar você em todas as etapas do processo.",

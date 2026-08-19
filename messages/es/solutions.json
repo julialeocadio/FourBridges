@@ -298,13 +298,35 @@
   "citizenship": {
     "title": "Ciudadanía",
     "description": "Vías legales y de naturalización para asegurar tu futuro permanente en el extranjero.",
+    "subtitle": "Haz realidad tu sueño de obtener la ciudadanía en el extranjero.",
+    "consultation": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp",
+    "benefits": [
+      "Asesoramiento para Solicitudes de Residencia Permanente",
+      "Atención Multilingüe",
+      "Revisión de Documentación"
+    ],
+    "destinations": "Destinos Populares",
+    "countries": {
+      "us": "Estados Unidos",
+      "pt": "Portugal",
+      "au": "Australia",
+      "ca": "Canadá",
+      "es": "España",
+      "fr": "Francia",
+      "ie": "Irlanda",
+      "it": "Italia",
+      "de": "Alemania",
+      "gb": "Reino Unido",
+      "br": "Brasil"
+    },
     "cta": {
       "title": "¿Listo para comenzar tu camino hacia la ciudadanía?",
       "subtitle": "Tanto si estás explorando tus opciones como si estás preparando tu solicitud, nuestro equipo está aquí para acompañarte en cada paso del proceso.",
       "consultation": "Reservar una Consulta",
       "whatsapp": "Chatear por WhatsApp",
       "benefits": [
-        "Asesoramiento para la solicitud de ciudadanía",
+        "Asesoramiento para Solicitudes de Ciudadanía",
         "Consultas Online desde Cualquier Lugar",
         "Atención Multilingüe"
       ]
