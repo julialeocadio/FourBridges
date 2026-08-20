@@ -30,6 +30,7 @@ export default function LanguageSwitcher() {
   const router = useRouter();
 
   const [open, setOpen] = useState(false);
+
   const ref = useRef<HTMLDivElement>(null);
 
   const current =
@@ -47,23 +48,38 @@ export default function LanguageSwitcher() {
 
     document.addEventListener("mousedown", handleClickOutside);
 
-    return () =>
+    return () => {
       document.removeEventListener(
         "mousedown",
         handleClickOutside
       );
+    };
   }, []);
+
+  const changeLanguage = (newLocale: string) => {
+    setOpen(false);
+
+    router.replace(pathname, {
+      locale: newLocale,
+    });
+  };
 
   return (
     <div
       ref={ref}
-      className="relative"
+      className="relative w-full lg:w-auto"
     >
+      {/* Language Button */}
       <button
-        onClick={() => setOpen(!open)}
+        type="button"
+        onClick={() => setOpen((current) => !current)}
+        aria-expanded={open}
+        aria-haspopup="listbox"
         className="
           flex
+          w-full
           items-center
+          justify-between
           gap-2
           rounded-full
           border
@@ -74,48 +90,53 @@ export default function LanguageSwitcher() {
           shadow-sm
           transition
           hover:border-[var(--color-accent)]
+          lg:w-auto
+          lg:justify-start
         "
       >
-        <current.Flag className="h-4 w-6 rounded-sm" />
+        <span className="flex items-center gap-2">
+          <current.Flag className="h-4 w-6 rounded-sm" />
 
-        <span className="text-sm font-medium">
-          {current.name}
+          <span className="text-sm font-medium">
+            {current.name}
+          </span>
         </span>
 
         <ChevronDown
           size={16}
-          className={`transition ${
+          className={`transition-transform duration-200 ${
             open ? "rotate-180" : ""
           }`}
         />
       </button>
 
+      {/* Dropdown */}
       {open && (
         <div
           className="
             absolute
+            left-0
             right-0
+            top-full
+            z-[100]
             mt-2
-            w-48
             overflow-hidden
             rounded-2xl
             border
             border-[var(--color-border)]
             bg-white
             shadow-xl
-            z-50
+            lg:left-auto
+            lg:right-0
+            lg:w-48
           "
+          role="listbox"
         >
           {languages.map((lang) => (
             <button
+              type="button"
               key={lang.locale}
-              onClick={() => {
-                router.replace(pathname, {
-                  locale: lang.locale,
-                });
-
-                setOpen(false);
-              }}
+              onClick={() => changeLanguage(lang.locale)}
               className="
                 flex
                 w-full
@@ -123,6 +144,7 @@ export default function LanguageSwitcher() {
                 gap-3
                 px-4
                 py-3
+                text-left
                 transition
                 hover:bg-[var(--color-surface)]
               "
