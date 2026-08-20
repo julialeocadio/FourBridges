@@ -90,8 +90,8 @@ export default function LanguageSwitcher() {
           shadow-sm
           transition
           hover:border-[var(--color-accent)]
-          lg:w-auto
-          lg:justify-start
+          md:w-auto
+          md:justify-start
         "
       >
         <span className="flex items-center gap-2">
@@ -126,9 +126,9 @@ export default function LanguageSwitcher() {
             border-[var(--color-border)]
             bg-white
             shadow-xl
-            lg:left-auto
-            lg:right-0
-            lg:w-48
+            md:left-auto
+            md:right-0
+            md:w-48
           "
           role="listbox"
         >

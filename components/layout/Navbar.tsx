@@ -140,7 +140,7 @@ export default function Navbar() {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden items-center gap-8 lg:flex">
+          <nav className="hidden items-center gap-8 md:flex">
             {navigation.map((item) =>
               item.Children ? (
                 <div
@@ -244,7 +244,7 @@ export default function Navbar() {
           </nav>
 
           {/* Desktop Actions */}
-          <div className="hidden items-center gap-4 lg:flex">
+          <div className="hidden items-center gap-4 md:flex">
             <LanguageSwitcher />
 
             <Button
@@ -271,7 +271,7 @@ export default function Navbar() {
               text-[var(--navbar-link)]
               transition-colors
               hover:bg-black/5
-              lg:hidden
+              md:hidden
             "
           >
             {isMobileMenuOpen ? (
@@ -289,7 +289,7 @@ export default function Navbar() {
               border-t
               border-[var(--navbar-border)]
               py-4
-              lg:hidden
+              md:hidden
             "
           >
             <nav className="flex flex-col">
