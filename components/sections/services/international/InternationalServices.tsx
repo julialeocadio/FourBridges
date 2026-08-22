@@ -13,51 +13,51 @@ export default function InternationalServices() {
   const services = [
     {
       id: "higherEducation",
-      href: "/services/international/higher-education-diploma-validation",
+      href: "/services/international-services/higher-education-diploma-validation",
     },
     {
       id: "highSchool",
-      href: "/services/international/high-school-diploma-validation",
+      href: "/services/international-services/high-school-diploma-validation",
     },
     {
       id: "cap",
-      href: "/services/international/cap",
+      href: "/services/international-services/cap",
     },
     {
       id: "europeanCertificates",
-      href: "/services/international/european-certificates-search",
+      href: "/services/international-services/european-certificates-search",
     },
     {
       id: "europeanDescendants",
-      href: "/services/international/european-descendants-search",
+      href: "/services/international-services/european-descendants-search",
     },
     {
       id: "nieSpain",
-      href: "/services/international/nie-spain",
+      href: "/services/international-services/nie-spain",
     },
     {
       id: "driversLicense",
-      href: "/services/international/drivers-license-regularization",
+      href: "/services/international-services/drivers-license-regularization",
     },
     {
       id: "businessPlan",
-      href: "/services/international/business-plan",
+      href: "/services/international-services/business-plan",
     },
     {
       id: "foreignJudgment",
-      href: "/services/international/foreign-judgment-validation",
+      href: "/services/international-services/foreign-judgment-validation",
     },
     {
       id: "crnm",
-      href: "/services/international/crnm-rnm-rne",
+      href: "/services/international-services/crnm-rnm-rne",
     },
     {
       id: "arraigo",
-      href: "/services/international/arraigo",
+      href: "/services/international-services/arraigo",
     },
     {
       id: "criminalRecord",
-      href: "/services/international/criminal-record",
+      href: "/services/international-services/criminal-record",
     },
   ];
 
