@@ -8,6 +8,31 @@
       "Suporte para Brasileiros no Exterior"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+
+  "assistance": {
+    "title": "Com o Que Podemos Ajudar",
+    "subtitle": "Ajudamos você a compreender e orientar-se em questões relacionadas à CNH que podem surgir enquanto você vive fora do Brasil.",
+
+    "licenseStatus": {
+      "title": "Situação e Regularização da CNH",
+      "description": "Orientação para compreender a situação atual da sua CNH e as etapas que podem ser necessárias para sua regularização."
+    },
+
+    "documentation": {
+      "title": "Documentação e Requisitos",
+      "description": "Assistência para identificar os documentos, informações e requisitos relevantes para sua situação específica."
+    },
+
+    "administrativeProcedures": {
+      "title": "Procedimentos Administrativos",
+      "description": "Orientação sobre os procedimentos administrativos aplicáveis e como lidar com os requisitos estabelecidos pelas autoridades competentes."
+    },
+
+    "livingAbroad": {
+      "title": "Questões para Quem Vive no Exterior",
+      "description": "Suporte para brasileiros que precisam resolver questões relacionadas à CNH enquanto residem fora do Brasil."
+    }
   }
 }
 

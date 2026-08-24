@@ -8,5 +8,30 @@
       "Apoyo para Brasileños en el Extranjero"
     ],
     "consultation": "Solicitar una Consulta"
+  },
+
+  "assistance": {
+    "title": "En Qué Podemos Ayudar",
+    "subtitle": "Le ayudamos a comprender y gestionar cuestiones relacionadas con la licencia de conducir brasileña que pueden surgir mientras vive fuera de Brasil.",
+
+    "licenseStatus": {
+      "title": "Situación y Regularización de la Licencia",
+      "description": "Orientación para comprender la situación actual de su licencia de conducir brasileña y los pasos que pueden ser necesarios para su regularización."
+    },
+
+    "documentation": {
+      "title": "Documentación y Requisitos",
+      "description": "Asistencia para identificar los documentos, la información y los requisitos relevantes para su situación específica."
+    },
+
+    "administrativeProcedures": {
+      "title": "Procedimientos Administrativos",
+      "description": "Orientación sobre los procedimientos administrativos aplicables y cómo gestionar los requisitos establecidos por las autoridades competentes."
+    },
+
+    "livingAbroad": {
+      "title": "Asuntos para Brasileños en el Extranjero",
+      "description": "Apoyo para brasileños que necesitan gestionar cuestiones relacionadas con su licencia de conducir mientras residen fuera de Brasil."
+    }
   }
 }

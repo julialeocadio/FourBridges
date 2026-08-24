@@ -8,5 +8,30 @@
       "Support for Brazilians Abroad"
     ],
     "consultation": "Request a Consultation"
+  },
+
+  "assistance": {
+    "title": "What We Can Assist With",
+    "subtitle": "We help you understand and navigate driver's license matters that may arise while living outside Brazil.",
+
+    "licenseStatus": {
+      "title": "CNH Status & Regularization",
+      "description": "Guidance on understanding the current status of your Brazilian driver's license and the steps that may be required for regularization."
+    },
+
+    "documentation": {
+      "title": "Documentation & Requirements",
+      "description": "Assistance identifying the documents, information, and requirements relevant to your specific situation."
+    },
+
+    "administrativeProcedures": {
+      "title": "Administrative Procedures",
+      "description": "Guidance on applicable administrative procedures and how to navigate the requirements established by the relevant authorities."
+    },
+
+    "livingAbroad": {
+      "title": "Matters While Living Abroad",
+      "description": "Support for Brazilians who need to address driver's license matters while residing outside Brazil."
+    }
   }
 }
