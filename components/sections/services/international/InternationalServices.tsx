@@ -57,7 +57,7 @@ export default function InternationalServices() {
     },
     {
       id: "criminalRecord",
-      href: "/services/international-services/criminal-record",
+      href: "/services/international-services/criminal-record-certificate",
     },
   ];
 

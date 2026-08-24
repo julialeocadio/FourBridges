@@ -40,6 +40,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
     
     cap: (await import(`../messages/${locale}/cap.json`)).default,
 
+    criminalRecordCertificate: (await import(`../messages/${locale}/criminalRecordCertificate.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
