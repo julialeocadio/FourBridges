@@ -38,7 +38,7 @@ export default function ExpertWitnessCTA() {
           </Text>
 
           <div className="mt-10 flex flex-wrap justify-center gap-4">
-            <Button href="/contact">
+            <Button href="/contact" variant="ghost">
               {t("button")}
             </Button>
 

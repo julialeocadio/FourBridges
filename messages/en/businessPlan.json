@@ -43,5 +43,12 @@
       "title": "Financial Projections",
       "description": "Financial planning and projections that present the expected costs, revenues, and overall financial outlook of the business."
     }
+  },
+
+  "cta": {
+    "title": "Ready to Build Your Business Plan?",
+    "subtitle": "Turn your business idea into a clear, structured plan. Contact our team to discuss your goals and learn how we can help.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
   }
 }

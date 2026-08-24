@@ -43,5 +43,12 @@
       "title": "Proyecciones Financieras",
       "description": "Planificación y proyecciones financieras que presentan los costes, ingresos y perspectivas financieras generales esperadas del negocio."
     }
+  },
+
+  "cta": {
+    "title": "¿Listo para Desarrollar su Plan de Negocios?",
+    "subtitle": "Convierta su idea de negocio en un plan claro y estructurado. Póngase en contacto con nuestro equipo para hablar sobre sus objetivos y descubrir cómo podemos ayudarle.",
+    "button": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp"
   }
 }
