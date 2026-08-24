@@ -9,6 +9,41 @@
       "Informes claros y profesionales"
     ],
     "consultation": "Solicitar una Consulta"
+  },
+
+  "helps": {
+    "title": "Cómo Ayudan Nuestros Informes de Perito",
+    "subtitle": "Ofrecemos análisis técnicos objetivos y bien estructurados para ayudar a profesionales jurídicos y clientes a comprender cuestiones técnicas complejas y las evidencias relacionadas con el caso.",
+
+    "technicalAnalysis": {
+      "title": "Análisis Técnico",
+      "description": "Examinamos las evidencias y la información técnica relevante mediante un enfoque estructurado y profesional."
+    },
+
+    "independentAssessment": {
+      "title": "Evaluación Independiente",
+      "description": "Proporcionamos una evaluación objetiva basada en las evidencias disponibles, sin conclusiones predeterminadas."
+    },
+
+    "evidenceReview": {
+      "title": "Revisión de Evidencias",
+      "description": "Revisamos y organizamos documentos, registros, evidencias digitales y otros materiales relevantes para el caso."
+    },
+
+    "clearDocumentation": {
+      "title": "Documentación Clara",
+      "description": "Convertimos hallazgos técnicos complejos en una documentación clara, organizada y fácil de comprender."
+    },
+
+    "legalSupport": {
+      "title": "Apoyo en Procedimientos Legales",
+      "description": "Nuestros informes pueden respaldar procesos judiciales, reclamaciones, audiencias y otros procedimientos que requieran conocimientos especializados."
+    },
+
+    "professionalConclusions": {
+      "title": "Conclusiones Profesionales",
+      "description": "Presentamos conclusiones claras basadas en el análisis realizado y en las evidencias disponibles."
+    }
   }
 }
 

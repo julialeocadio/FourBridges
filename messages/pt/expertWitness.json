@@ -1,4 +1,3 @@
-
 {
   "hero": {
     "title": "Laudos e Relatórios de Perito Especialista",
@@ -9,6 +8,41 @@
       "Relatórios claros e profissionais"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+
+  "helps": {
+    "title": "Como Nossos Laudos de Perito Ajudam",
+    "subtitle": "Oferecemos análises técnicas objetivas e bem estruturadas para ajudar profissionais jurídicos e clientes a compreender questões técnicas complexas e as evidências relacionadas ao caso.",
+
+    "technicalAnalysis": {
+      "title": "Análise Técnica",
+      "description": "Examinamos evidências e informações técnicas relevantes por meio de uma abordagem estruturada e profissional."
+    },
+
+    "independentAssessment": {
+      "title": "Avaliação Independente",
+      "description": "Oferecemos uma avaliação objetiva com base nas evidências disponíveis, sem conclusões previamente determinadas."
+    },
+
+    "evidenceReview": {
+      "title": "Análise de Evidências",
+      "description": "Analisamos e organizamos documentos, registros, evidências digitais e outros materiais relevantes para o caso."
+    },
+
+    "clearDocumentation": {
+      "title": "Documentação Clara",
+      "description": "Transformamos informações e conclusões técnicas complexas em uma documentação clara, organizada e de fácil compreensão."
+    },
+
+    "legalSupport": {
+      "title": "Suporte a Processos Jurídicos",
+      "description": "Nossos laudos podem auxiliar em processos judiciais, reivindicações, audiências e outros procedimentos que exijam conhecimento especializado."
+    },
+
+    "professionalConclusions": {
+      "title": "Conclusões Profissionais",
+      "description": "Apresentamos conclusões claras com base na análise realizada e nas evidências disponíveis."
+    }
   }
 }
 

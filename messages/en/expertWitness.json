@@ -9,5 +9,40 @@
       "Clear and professional reporting"
     ],
     "consultation": "Request a Consultation"
+  },
+  
+  "helps": {
+    "title": "How Our Expert Witness Reports Help",
+    "subtitle": "We provide objective and well-structured expert analysis to help legal professionals and clients better understand complex technical matters and supporting evidence.",
+
+    "technicalAnalysis": {
+      "title": "Technical Analysis",
+      "description": "We examine relevant evidence and technical information using a structured and professional approach."
+    },
+
+    "independentAssessment": {
+      "title": "Independent Assessment",
+      "description": "We provide an objective assessment based on the available evidence, without bias or predetermined conclusions."
+    },
+
+    "evidenceReview": {
+      "title": "Evidence Review",
+      "description": "We review and organize relevant documents, records, digital evidence, and other materials related to the matter."
+    },
+
+    "clearDocumentation": {
+      "title": "Clear Documentation",
+      "description": "We transform complex technical findings into clear, organized, and easy-to-understand documentation."
+    },
+
+    "legalSupport": {
+      "title": "Legal Proceedings Support",
+      "description": "Our reports can support claims, hearings, and other legal proceedings where specialized expertise is required."
+    },
+
+    "professionalConclusions": {
+      "title": "Professional Conclusions",
+      "description": "We present clear findings and conclusions based on the analysis performed and the evidence available."
+    }
   }
 }
