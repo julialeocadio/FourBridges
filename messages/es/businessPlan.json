@@ -8,5 +8,40 @@
       "Planificación de Mercado y Financiera",
       "Orientación Personalizada"
     ]
+  },
+  
+  "includes": {
+    "title": "¿Qué incluye tu Plan de Negocio?",
+    "subtitle": "Desarrollamos un plan de negocio estructurado que abarca los elementos clave necesarios para comunicar claramente la estrategia y el potencial de tu negocio.",
+
+    "executiveSummary": {
+      "title": "Resumen Ejecutivo",
+      "description": "Una visión general concisa de tu negocio, sus objetivos, estrategia y principales datos financieros."
+    },
+
+    "businessDescription": {
+      "title": "Descripción del Negocio",
+      "description": "Una presentación detallada de tu negocio, sus actividades, objetivos, estructura y propuesta de valor."
+    },
+
+    "marketAnalysis": {
+      "title": "Análisis de Mercado",
+      "description": "Un análisis del mercado objetivo, el sector, los clientes, la competencia y las oportunidades de mercado relevantes."
+    },
+
+    "marketingStrategy": {
+      "title": "Estrategia de Marketing",
+      "description": "Una estrategia que define cómo tu negocio llegará a sus clientes objetivo, se posicionará y promocionará sus productos o servicios."
+    },
+
+    "operationalPlan": {
+      "title": "Plan Operativo",
+      "description": "Una visión general de cómo funcionará el negocio, incluyendo sus actividades, recursos, procesos y estructura organizativa."
+    },
+
+    "financialProjections": {
+      "title": "Proyecciones Financieras",
+      "description": "Planificación y proyecciones financieras que presentan los costes, ingresos y perspectivas financieras generales esperadas del negocio."
+    }
   }
 }

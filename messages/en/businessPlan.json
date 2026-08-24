@@ -2,13 +2,46 @@
   "hero": {
     "title": "Business Plan",
     "subtitle": "Professional business plan preparation designed to help you clearly present your business idea, strategy, market, and financial projections.",
-
     "consultation": "Request a Consultation",
-
     "benefits": [
       "Structured Business Strategy",
       "Market & Financial Planning",
       "Personalized Guidance"
     ]
+  },
+
+  "includes": {
+    "title": "What's Included in Your Business Plan?",
+    "subtitle": "We develop a structured business plan covering the key elements needed to clearly communicate your business strategy and potential.",
+
+    "executiveSummary": {
+      "title": "Executive Summary",
+      "description": "A concise overview of your business, its objectives, strategy, and key financial information."
+    },
+
+    "businessDescription": {
+      "title": "Business Description",
+      "description": "A detailed presentation of your business, its activities, objectives, structure, and value proposition."
+    },
+
+    "marketAnalysis": {
+      "title": "Market Analysis",
+      "description": "An analysis of the target market, industry, customers, competitors, and relevant market opportunities."
+    },
+
+    "marketingStrategy": {
+      "title": "Marketing Strategy",
+      "description": "A strategy outlining how your business will reach its target customers, position itself, and promote its products or services."
+    },
+
+    "operationalPlan": {
+      "title": "Operational Plan",
+      "description": "An overview of how the business will operate, including its activities, resources, processes, and organizational structure."
+    },
+
+    "financialProjections": {
+      "title": "Financial Projections",
+      "description": "Financial planning and projections that present the expected costs, revenues, and overall financial outlook of the business."
+    }
   }
 }

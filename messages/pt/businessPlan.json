@@ -8,5 +8,40 @@
       "Planejamento de Mercado e Financeiro",
       "Orientação Personalizada"
     ]
+  },
+
+  "includes": {
+    "title": "O que está incluído no seu Plano de Negócios?",
+    "subtitle": "Desenvolvemos um plano de negócios estruturado que abrange os principais elementos necessários para comunicar claramente a estratégia e o potencial do seu negócio.",
+
+    "executiveSummary": {
+      "title": "Resumo Executivo",
+      "description": "Uma visão geral concisa do seu negócio, seus objetivos, estratégia e principais informações financeiras."
+    },
+
+    "businessDescription": {
+      "title": "Descrição do Negócio",
+      "description": "Uma apresentação detalhada do seu negócio, suas atividades, objetivos, estrutura e proposta de valor."
+    },
+
+    "marketAnalysis": {
+      "title": "Análise de Mercado",
+      "description": "Uma análise do mercado-alvo, setor, clientes, concorrentes e oportunidades de mercado relevantes."
+    },
+
+    "marketingStrategy": {
+      "title": "Estratégia de Marketing",
+      "description": "Uma estratégia que define como seu negócio alcançará seus clientes-alvo, se posicionará no mercado e promoverá seus produtos ou serviços."
+    },
+
+    "operationalPlan": {
+      "title": "Plano Operacional",
+      "description": "Uma visão geral de como o negócio funcionará, incluindo suas atividades, recursos, processos e estrutura organizacional."
+    },
+
+    "financialProjections": {
+      "title": "Projeções Financeiras",
+      "description": "Planejamento e projeções financeiras que apresentam os custos, receitas e perspectivas financeiras gerais esperadas do negócio."
+    }
   }
 }

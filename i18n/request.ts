@@ -34,6 +34,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     businessPlan: (await import(`../messages/${locale}/businessPlan.json`)).default,
 
+    expertWitness: (await import(`../messages/${locale}/expertWitness.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
