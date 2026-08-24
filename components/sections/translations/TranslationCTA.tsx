@@ -17,14 +17,15 @@ export default function TranslationCTA() {
         <Section>
             <Container size="md">
                 <div className="
-                    rounded-3xl
-                    border
-                    border-[var(--card-border)]
-                    bg-[var(--surface-secondary)]
+                    rounded-[var(--radius-lg)]
+                    bg-gradient-to-br
+                    from-[var(--color-primary)]
+                    to-[var(--color-secondary)]
                     px-8
                     py-16
                     text-center
-                    shadow-sm">
+                    shadow-[var(--shadow-md)]
+                    lg:px-16">
 
                     <Heading className="text-white">
                         {t("title")}
