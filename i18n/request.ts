@@ -37,6 +37,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
     expertWitness: (await import(`../messages/${locale}/expertWitness.json`)).default,
 
     driverLicense: (await import(`../messages/${locale}/driverLicense.json`)).default,
+    
+    cap: (await import(`../messages/${locale}/cap.json`)).default,
 
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
