@@ -33,6 +33,13 @@
       "title": "Questões para Quem Vive no Exterior",
       "description": "Suporte para brasileiros que precisam resolver questões relacionadas à CNH enquanto residem fora do Brasil."
     }
+  },
+
+    "cta": {
+    "title": "Precisa de Ajuda com a Sua CNH?",
+    "subtitle": "Converse com nossa equipe e saiba como podemos ajudar você a compreender os requisitos e as etapas para regularizar sua CNH enquanto vive no exterior.",
+    "button": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp"
   }
 }
 

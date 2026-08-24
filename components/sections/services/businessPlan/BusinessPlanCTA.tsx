@@ -10,7 +10,7 @@ import Text from "@/components/ui/Text";
 import Button from "@/components/ui/Button";
 
 export default function businessPlanCTA() {
-  const t = useTranslations("expertWitness.cta");
+  const t = useTranslations("businessPlan.cta");
 
   const phone = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER;
 

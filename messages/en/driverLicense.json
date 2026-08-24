@@ -1,22 +1,22 @@
 {
   "hero": {
     "title": "Driver’s License Regularization",
-    "subtitle": "Guidance and support for Brazilians living abroad who need assistance understanding and regularizing their Brazilian driver’s license documentation and requirements.",
+    "subtitle": "Guidance and support for individuals living abroad who need assistance understanding and regularizing their driver’s license documentation and requirements.",
     "benefits": [
       "Personalized Guidance",
       "Document & Requirement Review",
-      "Support for Brazilians Abroad"
+      "Support for Individuals Abroad"
     ],
     "consultation": "Request a Consultation"
   },
 
   "assistance": {
     "title": "What We Can Assist With",
-    "subtitle": "We help you understand and navigate driver's license matters that may arise while living outside Brazil.",
+    "subtitle": "We help you understand and navigate driver's license matters that may arise while living abroad.",
 
     "licenseStatus": {
       "title": "CNH Status & Regularization",
-      "description": "Guidance on understanding the current status of your Brazilian driver's license and the steps that may be required for regularization."
+      "description": "Guidance on understanding the current status of your driver's license and the steps that may be required for regularization."
     },
 
     "documentation": {
@@ -31,7 +31,14 @@
 
     "livingAbroad": {
       "title": "Matters While Living Abroad",
-      "description": "Support for Brazilians who need to address driver's license matters while residing outside Brazil."
+      "description": "Support for individuals who need to address driver's license matters while residing outside of their country."
     }
-  }
+  },
+
+    "cta": {
+        "title": "Need Help with Your Driver’s License?",
+        "subtitle": "Discuss your situation with our team and learn how we can help you understand the requirements and steps for regularizing your driver's license while living abroad.",
+        "button": "Request a Consultation",
+        "whatsapp": "Chat on WhatsApp"
+    }
 }

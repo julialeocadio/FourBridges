@@ -1,22 +1,22 @@
 {
   "hero": {
-    "title": "Regularización de la Licencia de Conducir",
-    "subtitle": "Orientación y apoyo para brasileños que viven en el extranjero y necesitan asistencia para comprender y regularizar la documentación y los requisitos relacionados con su licencia de conducir brasileña.",
+    "title": "Regularización del Permiso de Conducir",
+    "subtitle": "Orientación y apoyo para personas que viven en el extranjero y necesitan asistencia para regularizar la documentación y los requisitos relacionados con su permiso de conducir.",
     "benefits": [
       "Orientación Personalizada",
       "Revisión de Documentos y Requisitos",
-      "Apoyo para Brasileños en el Extranjero"
+      "Apoyo para personas en el Extranjero"
     ],
     "consultation": "Solicitar una Consulta"
   },
 
   "assistance": {
     "title": "En Qué Podemos Ayudar",
-    "subtitle": "Le ayudamos a comprender y gestionar cuestiones relacionadas con la licencia de conducir brasileña que pueden surgir mientras vive fuera de Brasil.",
+    "subtitle": "Le ayudamos a comprender y gestionar cuestiones relacionadas con el permiso de conducir que pueden surgir mientras vive en el extranjero.",
 
     "licenseStatus": {
       "title": "Situación y Regularización de la Licencia",
-      "description": "Orientación para comprender la situación actual de su licencia de conducir brasileña y los pasos que pueden ser necesarios para su regularización."
+      "description": "Orientación para comprender la situación actual de su permiso de conducir y los pasos que pueden ser necesarios para su regularización."
     },
 
     "documentation": {
@@ -31,7 +31,14 @@
 
     "livingAbroad": {
       "title": "Asuntos para Brasileños en el Extranjero",
-      "description": "Apoyo para brasileños que necesitan gestionar cuestiones relacionadas con su licencia de conducir mientras residen fuera de Brasil."
+      "description": "Apoyo para personas que necesitan gestionar cuestiones relacionadas con su licencia de conducir mientras residen en el extranjero."
     }
+  },
+
+  "cta": {
+    "title": "¿Necesita Ayuda con su Permiso de Conducir?",
+    "subtitle": "Hable con nuestro equipo y descubra cómo podemos ayudarle a comprender los requisitos y los pasos necesarios para regularizar su permiso de conducir mientras reside en el extranjero",
+    "button": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp"
   }
 }
