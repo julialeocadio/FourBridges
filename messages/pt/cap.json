@@ -8,5 +8,26 @@
       "Suporte com os Procedimentos do CAP"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+
+  "assistance": {
+    "title": "Com o Que Podemos Ajudar",
+    "subtitle": "Ajudamos profissionais a compreender a documentação, os requisitos e os procedimentos administrativos relacionados ao CAP na Espanha.",
+    "requirements": {
+      "title": "Requisitos e Elegibilidade para o CAP",
+      "description": "Orientação sobre os requisitos e as condições de elegibilidade que podem se aplicar à sua situação profissional."
+    },
+    "documentation": {
+      "title": "Documentação e Qualificações",
+      "description": "Assistência para identificar e organizar a documentação e as qualificações profissionais relevantes para o processo do CAP."
+    },
+    "administrativeProcedures": {
+      "title": "Orientação sobre os Procedimentos",
+      "description": "Orientação sobre os procedimentos administrativos aplicáveis e as etapas exigidas pelas autoridades espanholas competentes."
+    },
+    "foreignQualifications": {
+      "title": "Qualificações e Experiência Profissional no Exterior",
+      "description": "Suporte para profissionais com qualificações ou experiência profissional obtidas fora da Espanha que precisam de orientação sobre sua situação relacionada ao CAP."
+    }
   }
 }

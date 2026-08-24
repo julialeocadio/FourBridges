@@ -8,5 +8,26 @@
       "Support with CAP Procedures"
     ],
     "consultation": "Request a Consultation"
+  },
+
+  "assistance": {
+    "title": "What We Can Assist With",
+    "subtitle": "We help professionals navigate the documentation, requirements, and administrative steps related to the CAP in Spain.",
+    "requirements": {
+      "title": "CAP Requirements & Eligibility",
+      "description": "Guidance on the requirements and eligibility conditions that may apply to your professional situation."
+    },
+    "documentation": {
+      "title": "Documentation & Qualifications",
+      "description": "Assistance identifying and organizing the documentation and professional qualifications relevant to your CAP process."
+    },
+    "administrativeProcedures": {
+      "title": "Administrative Procedures",
+      "description": "Guidance on the applicable administrative procedures and steps required by the relevant Spanish authorities."
+    },
+    "foreignQualifications": {
+      "title": "Foreign Qualifications & Professional Background",
+      "description": "Support for professionals with qualifications or professional experience obtained outside Spain who need guidance regarding their CAP situation."
+    }
   }
 }
