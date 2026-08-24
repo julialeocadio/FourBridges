@@ -44,5 +44,40 @@
       "title": "Professional Conclusions",
       "description": "We present clear findings and conclusions based on the analysis performed and the evidence available."
     }
+  },
+
+  "matters": {
+    "title": "Matters We Can Support",
+    "subtitle": "Our expert reports and technical affidavits provide specialized analysis and supporting documentation for immigration and humanitarian matters.",
+
+    "immigrationCourt": {
+      "title": "Immigration Court Expert Declarations",
+      "description": "Preparation of expert declarations providing specialized opinions and analysis to support immigration court proceedings."
+    },
+
+    "humanRights": {
+      "title": "Human Rights Declarations",
+      "description": "Preparation of declarations addressing relevant human rights conditions and circumstances in support of asylum proceedings."
+    },
+
+    "structuralViolence": {
+      "title": "Structural Violence & Vulnerability",
+      "description": "Technical opinions addressing structural violence, vulnerability, and related social or contextual factors relevant to a case."
+    },
+
+    "vawaTVisa": {
+      "title": "VAWA & T-Visa Supporting Documentation",
+      "description": "Expert documentation and technical opinions supporting VAWA and T-Visa petitions."
+    },
+
+    "countryConditions": {
+      "title": "Country Conditions & Governance Analysis",
+      "description": "Analysis of the political situation, governance, institutional conditions, and relevant country circumstances in the country of origin."
+    },
+
+    "humanitarianAssessment": {
+      "title": "Humanitarian & Social Risk Assessment",
+      "description": "Documentation of violence, persecution, and social risks; assessment of state treatment of vulnerable groups; and analysis of the humanitarian context using primary and secondary sources."
+    }
   }
 }

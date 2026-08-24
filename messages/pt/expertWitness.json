@@ -43,6 +43,41 @@
       "title": "Conclusões Profissionais",
       "description": "Apresentamos conclusões claras com base na análise realizada e nas evidências disponíveis."
     }
+  },
+
+  "matters": {
+    "title": "Casos que Podemos Apoiar",
+    "subtitle": "Nossos laudos de especialistas e declarações técnicas oferecem análises especializadas e documentação de apoio para questões de imigração e humanitárias.",
+
+    "immigrationCourt": {
+      "title": "Declarações de Especialistas para Tribunais de Imigração",
+      "description": "Elaboração de declarações de especialistas com opiniões e análises especializadas para apoiar processos perante tribunais de imigração."
+    },
+
+    "humanRights": {
+      "title": "Declarações sobre Direitos Humanos",
+      "description": "Elaboração de declarações que abordam condições e circunstâncias relacionadas aos direitos humanos para apoiar processos de asilo."
+    },
+
+    "structuralViolence": {
+      "title": "Violência Estrutural e Vulnerabilidade",
+      "description": "Opiniões técnicas sobre violência estrutural, vulnerabilidade e fatores sociais ou contextuais relevantes para o caso."
+    },
+
+    "vawaTVisa": {
+      "title": "Documentação de Apoio para VAWA e T-Visa",
+      "description": "Documentação especializada e opiniões técnicas para apoiar petições VAWA e T-Visa."
+    },
+
+    "countryConditions": {
+      "title": "Análise das Condições do País e da Governança",
+      "description": "Análise da situação política, da governança, das condições institucionais e de outros fatores relevantes no país de origem."
+    },
+
+    "humanitarianAssessment": {
+      "title": "Avaliação de Riscos Humanitários e Sociais",
+      "description": "Documentação de violência, perseguição e riscos sociais; avaliação do tratamento de grupos vulneráveis pelo Estado; e análise do contexto humanitário com base em fontes primárias e secundárias."
+    }
   }
 }
 
