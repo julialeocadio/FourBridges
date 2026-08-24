@@ -29,5 +29,12 @@
       "title": "Foreign Qualifications & Professional Background",
       "description": "Support for professionals with qualifications or professional experience obtained outside Spain who need guidance regarding their CAP situation."
     }
+  },
+
+  "cta": {
+    "title": "Need Help with Your CAP?",
+    "subtitle": "Discuss your situation with our team and learn how we can help you understand the requirements and procedures related to the Certificate of Professional Aptitude in Spain.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
   }
 }

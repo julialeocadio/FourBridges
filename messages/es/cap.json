@@ -29,5 +29,12 @@
       "title": "Cualificaciones y Experiencia Profesional en el Extranjero",
       "description": "Apoyo para profesionales con cualificaciones o experiencia profesional obtenidas fuera de España que necesitan orientación sobre su situación relacionada con el CAP."
     }
+  },
+
+  "cta": {
+    "title": "¿Necesita Ayuda con su CAP?",
+    "subtitle": "Hable con nuestro equipo y descubra cómo podemos ayudarle a comprender los requisitos y procedimientos relacionados con el Certificado de Aptitud Profesional en España.",
+    "button": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp"
   }
 }

@@ -29,5 +29,12 @@
       "title": "Qualificações e Experiência Profissional no Exterior",
       "description": "Suporte para profissionais com qualificações ou experiência profissional obtidas fora da Espanha que precisam de orientação sobre sua situação relacionada ao CAP."
     }
+  },
+
+  "cta": {
+    "title": "Precisa de Ajuda com o seu CAP?",
+    "subtitle": "Converse com nossa equipe e saiba como podemos ajudar você a compreender os requisitos e procedimentos relacionados ao Certificado de Aptidão Profissional na Espanha.",
+    "button": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp"
   }
 }
