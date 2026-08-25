@@ -29,5 +29,12 @@
       "title": "International Procedures",
       "description": "Support with criminal record documentation required for immigration, residency, nationality, and other international procedures."
     }
+  },
+
+  "cta": {
+    "title": "Need Help Obtaining a Criminal Record Certificate?",
+    "subtitle": "Discuss situation with our team and learn how we can help you understand the requirements and steps for obtaining the documentation needed for your international procedure.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
   }
 }

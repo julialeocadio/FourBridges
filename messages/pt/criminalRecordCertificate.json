@@ -9,7 +9,7 @@
     ],
     "consultation": "Solicite uma Consulta"
   },
-  
+
   "assistance": {
     "title": "Com o Que Podemos Ajudar",
     "subtitle": "Oferecemos orientação sobre a documentação e os procedimentos que podem ser necessários para obter e utilizar certidões de antecedentes criminais internacionalmente.",
@@ -29,5 +29,12 @@
       "title": "Procedimentos Internacionais",
       "description": "Suporte com documentação de antecedentes criminais necessária para processos de imigração, residência, nacionalidade e outros procedimentos internacionais."
     }
+  },
+
+   "cta": {
+    "title": "Precisa de Ajuda para Obter uma Certidão de Antecedentes Criminais?",
+    "subtitle": "Converse com nossa equipe e saiba como podemos ajudar você a compreender os requisitos e as etapas para obter a documentação necessária para seu procedimento internacional.",
+    "button": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp"
   }
 }
