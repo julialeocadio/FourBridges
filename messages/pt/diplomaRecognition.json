@@ -1,5 +1,5 @@
 {
-  "hero": {
+  "heroHigh": {
     "title": "Reconhecimento de Diploma de Ensino Médio",
     "subtitle": "Orientação e suporte para pessoas que precisam reconhecer ou validar um diploma de ensino médio obtido no exterior para fins educacionais, profissionais ou administrativos.",
     "benefits": [
@@ -8,5 +8,26 @@
       "Suporte para Procedimentos Educacionais Internacionais"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+
+  "assistanceHigh": {
+    "title": "Com o Que Podemos Ajudar",
+    "subtitle": "Oferecemos orientação sobre a documentação e as formalidades que podem ser necessárias para o reconhecimento de qualificações de ensino médio obtidas no exterior.",
+    "recognition": {
+      "title": "Reconhecimento e Validação",
+      "description": "Orientação sobre o procedimento aplicável de reconhecimento, homologação ou validação da sua formação de ensino médio obtida no exterior."
+    },
+    "documentation": {
+      "title": "Diploma e Histórico Escolar",
+      "description": "Assistência para identificar e organizar diplomas, históricos escolares, registros acadêmicos e outros documentos de apoio."
+    },
+    "authentication": {
+      "title": "Apostilamento e Legalização",
+      "description": "Orientação sobre apostilamento, legalização, autenticação e outras formalidades que podem ser necessárias para documentos educacionais estrangeiros."
+    },
+    "translations": {
+      "title": "Traduções Certificadas",
+      "description": "Orientação sobre os requisitos de tradução certificada ou oficial quando os documentos educacionais precisam ser apresentados em outro idioma."
+    }
   }
 }

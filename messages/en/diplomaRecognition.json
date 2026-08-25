@@ -1,5 +1,5 @@
 {
-  "hero": {
+  "heroHigh": {
     "title": "High School Diploma Recognition",
     "subtitle": "Guidance and support for individuals who need to recognize or validate a high school diploma obtained abroad for education, professional, or administrative purposes.",
     "benefits": [
@@ -8,5 +8,26 @@
       "International Education Support"
     ],
     "consultation": "Request a Consultation"
+  },
+
+  "assistanceHigh": {
+    "title": "What We Can Assist With",
+    "subtitle": "We provide guidance on the documentation and formalities that may be required to recognize foreign secondary education qualifications.",
+    "recognition": {
+      "title": "Recognition & Validation",
+      "description": "Guidance on the applicable recognition, homologation, or validation procedure for your foreign secondary education qualification."
+    },
+    "documentation": {
+      "title": "Diploma & Academic Records",
+      "description": "Assistance identifying and organizing diplomas, transcripts, academic records, and other supporting documents."
+    },
+    "authentication": {
+      "title": "Apostille & Legalization",
+      "description": "Guidance on apostille, legalization, authentication, and other formalities that may be required for foreign educational documents."
+    },
+    "translations": {
+      "title": "Certified Translations",
+      "description": "Guidance regarding certified or official translation requirements when educational documents need to be submitted in another language."
+    }
   }
 }

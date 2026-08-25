@@ -10,7 +10,7 @@ import Text from "@/components/ui/Text";
 import Button from "@/components/ui/Button";
 
 export default function HighSchoolDiplomaHero() {
-  const t = useTranslations("diplomaRecognition.hero");
+  const t = useTranslations("diplomaRecognition.heroHigh");
 
   const benefits = t.raw("benefits") as string[];
 
