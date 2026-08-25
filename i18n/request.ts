@@ -42,6 +42,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     criminalRecordCertificate: (await import(`../messages/${locale}/criminalRecordCertificate.json`)).default,
 
+    foreignJudgment: (await import(`../messages/${locale}/foreignJudgment.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
