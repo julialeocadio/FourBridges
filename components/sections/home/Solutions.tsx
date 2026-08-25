@@ -6,7 +6,6 @@ import {useTranslations} from "next-intl";
 import {
     GraduationCap,
     Briefcase,
-    Users,
     House,
     CircleDollarSign,
     PersonStanding,
