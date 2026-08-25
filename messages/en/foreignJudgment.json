@@ -29,5 +29,12 @@
       "title": "Recognition Procedures",
       "description": "Support in understanding the applicable recognition procedures and documentation required by the relevant authority or court."
     }
-  }
+  },
+
+  "cta": {
+    "title": "Need Help with a Foreign Judgment?",
+    "subtitle": "Discuss your situation with our team and learn how we can help you understand the documentation, requirements, and procedures involved in having a foreign judgment recognized.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
+    }
 }

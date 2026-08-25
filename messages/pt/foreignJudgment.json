@@ -29,5 +29,12 @@
       "title": "Procedimentos de Reconhecimento",
       "description": "Suporte para compreender os procedimentos de reconhecimento aplicáveis e a documentação exigida pela autoridade ou tribunal competente."
     }
+  },
+
+  "cta": {
+    "title": "Precisa de Ajuda com uma Sentença Estrangeira?",
+    "subtitle": "Converse com nossa equipe e saiba como  como podemos ajudar você a compreender a documentação, os requisitos e os procedimentos envolvidos no reconhecimento de uma sentença estrangeira.",
+    "button": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp"
   }
 }
