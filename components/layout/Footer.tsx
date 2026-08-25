@@ -18,6 +18,7 @@ export default function Footer() {
 
     services: [
       {label: t("immigration"), href: "/services/immigration"},
+      {label: t("international"), href: "/services/international-services"},
       {label: t("translations"), href: "/services/translations"},
     ],
 
@@ -51,10 +52,11 @@ export default function Footer() {
             links={footerData.company}
           />
 
+
           <FooterColumn
             title={t("services")}
             links={footerData.services}
-          />
+          /> 
 
           <FooterColumn
             title={t("resources")}
