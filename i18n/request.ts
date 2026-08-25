@@ -46,6 +46,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     foreignJudgment: (await import(`../messages/${locale}/foreignJudgment.json`)).default,
 
+    diplomaRecognition: (await import(`../messages/${locale}/diplomaRecognition.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
