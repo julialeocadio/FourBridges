@@ -8,5 +8,26 @@
       "Apoyo para Procedimientos Internacionales"
     ],
     "consultation": "Solicitar una Consulta"
+  },
+
+  "assistance": {
+    "title": "En Qué Podemos Ayudar",
+    "subtitle": "Ofrecemos orientación sobre la documentación y los procedimientos que pueden ser necesarios para obtener y utilizar certificados de antecedentes penales a nivel internacional.",
+    "certificateRequests": {
+      "title": "Solicitud de Certificados",
+      "description": "Asistencia para comprender cómo y dónde solicitar el certificado de antecedentes penales adecuado para su situación."
+    },
+    "countryRequirements": {
+      "title": "Requisitos Específicos por País",
+      "description": "Orientación sobre los requisitos que pueden aplicarse dependiendo del país en el que se vaya a presentar el certificado."
+    },
+    "authentication": {
+      "title": "Autenticación y Legalización",
+      "description": "Orientación sobre autenticación, legalización, apostilla u otras formalidades que puedan ser necesarias para el uso internacional."
+    },
+    "internationalProcedures": {
+      "title": "Procedimientos Internacionales",
+      "description": "Apoyo con la documentación de antecedentes penales necesaria para procesos de inmigración, residencia, nacionalidad y otros procedimientos internacionales."
+    }
   }
 }

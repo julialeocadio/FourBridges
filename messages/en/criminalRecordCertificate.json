@@ -8,5 +8,26 @@
       "Support with International Procedures"
     ],
     "consultation": "Request a Consultation"
+  },
+
+  "assistance": {
+    "title": "What We Can Assist With",
+    "subtitle": "We provide guidance on the documentation and procedures that may be required when obtaining and using criminal record certificates internationally.",
+    "certificateRequests": {
+      "title": "Criminal Record Certificate Requests",
+      "description": "Assistance understanding how and where to request the appropriate criminal record certificate for your situation."
+    },
+    "countryRequirements": {
+      "title": "Country-Specific Requirements",
+      "description": "Guidance on the requirements that may apply depending on the country where the certificate will be submitted."
+    },
+    "authentication": {
+      "title": "Authentication & Legalization",
+      "description": "Guidance on authentication, legalization, apostille, or other formalities that may be required for international use."
+    },
+    "internationalProcedures": {
+      "title": "International Procedures",
+      "description": "Support with criminal record documentation required for immigration, residency, nationality, and other international procedures."
+    }
   }
 }

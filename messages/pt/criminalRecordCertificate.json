@@ -8,5 +8,26 @@
       "Suporte para Procedimentos Internacionais"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+  
+  "assistance": {
+    "title": "Com o Que Podemos Ajudar",
+    "subtitle": "Oferecemos orientação sobre a documentação e os procedimentos que podem ser necessários para obter e utilizar certidões de antecedentes criminais internacionalmente.",
+    "certificateRequests": {
+      "title": "Solicitação de Certidões",
+      "description": "Assistência para compreender como e onde solicitar a certidão de antecedentes criminais adequada para sua situação."
+    },
+    "countryRequirements": {
+      "title": "Requisitos Específicos por País",
+      "description": "Orientação sobre os requisitos que podem se aplicar dependendo do país onde a certidão será apresentada."
+    },
+    "authentication": {
+      "title": "Autenticação e Legalização",
+      "description": "Orientação sobre autenticação, legalização, apostilamento ou outras formalidades que podem ser necessárias para uso internacional."
+    },
+    "internationalProcedures": {
+      "title": "Procedimentos Internacionais",
+      "description": "Suporte com documentação de antecedentes criminais necessária para processos de imigração, residência, nacionalidade e outros procedimentos internacionais."
+    }
   }
 }
