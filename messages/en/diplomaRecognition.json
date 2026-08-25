@@ -29,5 +29,12 @@
       "title": "Certified Translations",
       "description": "Guidance regarding certified or official translation requirements when educational documents need to be submitted in another language."
     }
+  },
+
+  "ctaHigh": {
+    "title": "Need Help Recognizing Your High School Diploma?",
+    "subtitle": "Discuss your situation with our team and learn how we can help you with the procedures involved in recognizing your foreign secondary education.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
   }
 }

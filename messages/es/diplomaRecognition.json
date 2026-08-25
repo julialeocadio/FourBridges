@@ -29,5 +29,12 @@
       "title": "Traducciones Juradas",
       "description": "Orientación sobre los requisitos de traducción jurada u oficial cuando los documentos educativos deben presentarse en otro idioma."
     }
+  },
+
+  "ctaHigh": {
+    "title": "¿Necesita Ayuda para Reconocer sus Estudios de Educación Secundaria?",
+    "subtitle": "Hable con nuestro equipo y descubra cómo podemos ayudarle con los procedimientos necesarios para el reconocimiento de sus estudios de educación secundaria realizados en el extranjero.",
+    "button": "Solicitar una Consulta",
+    "whatsapp": "Hablar por WhatsApp"
   }
 }

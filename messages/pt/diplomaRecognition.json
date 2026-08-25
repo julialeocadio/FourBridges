@@ -29,5 +29,12 @@
       "title": "Traduções Certificadas",
       "description": "Orientação sobre os requisitos de tradução certificada ou oficial quando os documentos educacionais precisam ser apresentados em outro idioma."
     }
-  }
+  },
+
+  "ctaHigh": {
+    "title": "Precisa de Ajuda para Reconhecer seu Diploma de Ensino Médio?",
+    "subtitle": "Converse com nossa equipe e saiba como podemos ajudar você a compreender com os procedimentos envolvidos no reconhecimento da sua formação de ensino médio obtida no exterior.",
+    "button": "Solicite uma Consulta",
+    "whatsapp": "Fale Conosco pelo WhatsApp"
+}
 }
