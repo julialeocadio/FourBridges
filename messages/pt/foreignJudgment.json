@@ -8,5 +8,26 @@
       "Suporte em Procedimentos Internacionais"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+
+  "assistance": {
+    "title": "Com o Que Podemos Ajudar",
+    "subtitle": "Oferecemos orientação sobre a documentação, as formalidades e os procedimentos que podem ser necessários para o reconhecimento de uma sentença estrangeira.",
+    "documentation": {
+      "title": "Sentença e Documentos de Apoio",
+      "description": "Assistência para identificar e organizar a sentença estrangeira e a documentação de apoio necessária para o processo de reconhecimento."
+    },
+    "authentication": {
+      "title": "Autenticação e Legalização",
+      "description": "Orientação sobre apostilamento, legalização, autenticação e outras formalidades que podem ser necessárias para documentos estrangeiros."
+    },
+    "translations": {
+      "title": "Traduções Certificadas",
+      "description": "Orientação sobre os requisitos de tradução certificada ou oficial quando os documentos precisam ser apresentados em outro idioma."
+    },
+    "recognitionProcedures": {
+      "title": "Procedimentos de Reconhecimento",
+      "description": "Suporte para compreender os procedimentos de reconhecimento aplicáveis e a documentação exigida pela autoridade ou tribunal competente."
+    }
   }
 }

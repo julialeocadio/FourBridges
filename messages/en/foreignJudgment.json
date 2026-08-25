@@ -8,5 +8,26 @@
       "International Procedural Support"
     ],
     "consultation": "Request a Consultation"
+  },
+
+  "assistance": {
+    "title": "What We Can Assist With",
+    "subtitle": "We provide guidance on the documentation, formalities, and procedures that may be required when seeking recognition of a foreign judgment.",
+    "documentation": {
+      "title": "Judgment & Supporting Documents",
+      "description": "Assistance identifying and organizing the foreign judgment and supporting documentation required for the recognition process."
+    },
+    "authentication": {
+      "title": "Authentication & Legalization",
+      "description": "Guidance on apostille, legalization, authentication, and other formalities that may be required for foreign documents."
+    },
+    "translations": {
+      "title": "Certified Translations",
+      "description": "Guidance regarding certified or official translation requirements when documents need to be submitted in another language."
+    },
+    "recognitionProcedures": {
+      "title": "Recognition Procedures",
+      "description": "Support in understanding the applicable recognition procedures and documentation required by the relevant authority or court."
+    }
   }
 }

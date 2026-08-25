@@ -8,5 +8,26 @@
       "Apoyo en Procedimientos Internacionales"
     ],
     "consultation": "Solicitar una Consulta"
+  },
+
+  "assistance": {
+    "title": "En Qué Podemos Ayudar",
+    "subtitle": "Ofrecemos orientación sobre la documentación, las formalidades y los procedimientos que pueden ser necesarios para el reconocimiento de una resolución judicial extranjera.",
+    "documentation": {
+      "title": "Resolución Judicial y Documentación de Apoyo",
+      "description": "Asistencia para identificar y organizar la resolución judicial extranjera y la documentación de apoyo necesaria para el proceso de reconocimiento."
+    },
+    "authentication": {
+      "title": "Autenticación y Legalización",
+      "description": "Orientación sobre apostilla, legalización, autenticación y otras formalidades que puedan ser necesarias para documentos extranjeros."
+    },
+    "translations": {
+      "title": "Traducciones Juradas",
+      "description": "Orientación sobre los requisitos de traducción jurada u oficial cuando los documentos deben presentarse en otro idioma."
+    },
+    "recognitionProcedures": {
+      "title": "Procedimientos de Reconocimiento",
+      "description": "Apoyo para comprender los procedimientos de reconocimiento aplicables y la documentación requerida por la autoridad o el tribunal competente."
+    }
   }
 }
