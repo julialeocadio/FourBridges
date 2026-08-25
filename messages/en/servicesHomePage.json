@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "subtitle": "Explore our range of immigration, international mobility, education, and documentation services designed to help you achieve your goals abroad.",
+    "consultation": "Book a Consultation"
+  },
+
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Explore our services and find the support that best fits your international needs.",
+    "learnMore": "Learn More",
+
+    "apostille": {
+      "title": "Apostille",
+      "description": "Assistance with document apostille procedures for international use."
+    },
+
+    "expertWitness": {
+      "title": "Expert Witness Report",
+      "description": "Specialized reports providing professional analysis and supporting documentation for legal and immigration matters."
+    },
+
+    "familyLaw": {
+      "title": "Family Law",
+      "description": "Support with family law matters in Brazil."
+    },
+
+    "genealogy": {
+      "title": "Genealogy",
+      "description": "Research and documentation assistance for family history and European ancestry."
+    },
+
+    "immigration": {
+      "title": "Immigration Consulting",
+      "description": "Guidance and support for individuals navigating international immigration processes and opportunities."
+    },
+
+    "internationalServices": {
+      "title": "International Services",
+      "description": "Assistance with documentation, qualifications, certificates, and other international procedures."
+    },
+
+    "translation": {
+      "title": "Translation Services",
+      "description": "Professional translation support for documents required for international applications and procedures."
+    }
+  }
+}

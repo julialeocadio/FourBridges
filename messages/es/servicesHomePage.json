@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Descubre nuestra amplia gama de servicios de inmigración, movilidad internacional, educación y documentación, diseñados para ayudarte a alcanzar tus objetivos en el extranjero.",
+    "consultation": "Reservar una Consulta"
+  },
+
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Descubre nuestros servicios y encuentra el apoyo que mejor se adapte a tus necesidades internacionales.",
+    "learnMore": "Más Información",
+
+    "apostille": {
+      "title": "Apostilla",
+      "description": "Asistencia con los procedimientos de apostilla de documentos para su uso internacional."
+    },
+
+    "expertWitness": {
+      "title": "Informe de Perito Experto",
+      "description": "Informes especializados que proporcionan análisis profesional y documentación de apoyo para asuntos legales y de inmigración."
+    },
+
+    "familyLaw": {
+      "title": "Derecho de Familia",
+      "description": "Asistencia en asuntos de derecho de familia en Brasil."
+    },
+
+    "genealogy": {
+      "title": "Genealogía",
+      "description": "Asistencia en la investigación y documentación de antecedentes familiares y ascendencia europea."
+    },
+
+    "immigration": {
+      "title": "Consultoría de Inmigración",
+      "description": "Orientación y apoyo para personas que gestionan procesos y oportunidades de inmigración internacional."
+    },
+
+    "internationalServices": {
+      "title": "Servicios Internacionales",
+      "description": "Asistencia con documentación, homologación de títulos, certificados y otros procedimientos internacionales."
+    },
+
+    "translation": {
+      "title": "Servicios de Traducción",
+      "description": "Asistencia profesional en la traducción de documentos necesarios para solicitudes y procedimientos internacionales."
+    }
+  }
+}

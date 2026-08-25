@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Nossos Serviços",
+    "subtitle": "Conheça nossa variedade de serviços de imigração, mobilidade internacional, educação e documentação, desenvolvidos para ajudar você a alcançar seus objetivos no exterior.",
+    "consultation": "Agendar uma Consulta"
+  },
+
+  "services": {
+    "title": "Nossos Serviços",
+    "subtitle": "Conheça nossos serviços e encontre o suporte que melhor atende às suas necessidades internacionais.",
+    "learnMore": "Saiba mais",
+
+    "apostille": {
+      "title": "Apostilamento",
+      "description": "Assistência com os procedimentos de apostilamento de documentos para uso internacional."
+    },
+
+    "expertWitness": {
+      "title": "Laudo de Perito Especializado",
+      "description": "Laudos especializados que fornecem análise profissional e documentação de apoio para questões jurídicas e de imigração."
+    },
+
+    "familyLaw": {
+      "title": "Direito de Família",
+      "description": "Suporte em questões de direito de família."
+    },
+
+    "genealogy": {
+      "title": "Genealogia",
+      "description": "Pesquisa e assistência documental para história familiar e ascendência europeia."
+    },
+
+    "immigration": {
+      "title": "Consultoria de Imigração",
+      "description": "Orientação e suporte para pessoas que estão lidando com processos e oportunidades de imigração internacional."
+    },
+
+    "internationalServices": {
+      "title": "Serviços Internacionais",
+      "description": "Assistência com documentação, homologação de diplomas, certidões e outros procedimentos internacionais."
+    },
+
+    "translation": {
+      "title": "Serviços de Tradução",
+      "description": "Suporte profissional com a tradução de documentos necessários para solicitações e procedimentos internacionais."
+    }
+  }
+}
