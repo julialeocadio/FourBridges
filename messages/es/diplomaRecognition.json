@@ -36,5 +36,16 @@
     "subtitle": "Hable con nuestro equipo y descubra cómo podemos ayudarle con los procedimientos necesarios para el reconocimiento de sus estudios de educación secundaria realizados en el extranjero.",
     "button": "Solicitar una Consulta",
     "whatsapp": "Hablar por WhatsApp"
+  },
+
+  "heroHigher": {
+    "title": "Reconocimiento de Títulos de Educación Superior",
+    "subtitle": "Orientación y apoyo para personas que necesitan reconocer o validar una titulación de educación superior obtenida en el extranjero para fines profesionales, académicos o administrativos.",
+    "benefits": [
+      "Orientación Personalizada",
+      "Revisión de Documentación y Requisitos",
+      "Apoyo en Procedimientos Educativos Internacionales"
+    ],
+    "consultation": "Solicitar una Consulta"
   }
 }

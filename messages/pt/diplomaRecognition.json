@@ -36,5 +36,16 @@
     "subtitle": "Converse com nossa equipe e saiba como podemos ajudar você a compreender com os procedimentos envolvidos no reconhecimento da sua formação de ensino médio obtida no exterior.",
     "button": "Solicite uma Consulta",
     "whatsapp": "Fale Conosco pelo WhatsApp"
-}
+  },
+
+  "heroHigher": {
+    "title": "Reconhecimento de Diploma de Ensino Superior",
+    "subtitle": "Orientação e suporte para pessoas que precisam reconhecer ou validar uma qualificação de ensino superior obtida no exterior para fins profissionais, acadêmicos ou administrativos.",
+    "benefits": [
+      "Orientação Personalizada",
+      "Análise de Documentos e Requisitos",
+      "Suporte para Procedimentos Educacionais Internacionais"
+    ],
+    "consultation": "Solicite uma Consulta"
+  }
 }
