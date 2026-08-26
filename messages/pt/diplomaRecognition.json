@@ -47,5 +47,26 @@
       "Suporte para Procedimentos Educacionais Internacionais"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+
+  "assistanceHigher": {
+    "title": "Com o Que Podemos Ajudar",
+    "subtitle": "Oferecemos orientação sobre a documentação e as formalidades que podem ser necessárias para o reconhecimento de qualificações de ensino superior obtidas no exterior.",
+    "recognition": {
+      "title": "Reconhecimento e Equivalência",
+      "description": "Orientação sobre o procedimento aplicável de reconhecimento, homologação ou equivalência da sua qualificação de ensino superior obtida no exterior."
+    },
+    "documentation": {
+      "title": "Diploma e Histórico Acadêmico",
+      "description": "Assistência para identificar e organizar diplomas, históricos acadêmicos, registros acadêmicos e outros documentos de apoio."
+    },
+    "authentication": {
+      "title": "Apostilamento e Legalização",
+      "description": "Orientação sobre apostilamento, legalização, autenticação e outras formalidades que podem ser necessárias para documentos educacionais estrangeiros."
+    },
+    "translations": {
+      "title": "Traduções Certificadas",
+      "description": "Orientação sobre os requisitos de tradução certificada ou oficial quando os documentos educacionais precisam ser apresentados em outro idioma."
+    }
   }
 }

@@ -47,5 +47,26 @@
       "International Education Support"
     ],
     "consultation": "Request a Consultation"
+  },
+
+  "assistanceHigher": {
+    "title": "What We Can Assist With",
+    "subtitle": "We provide guidance on the documentation and formalities that may be required to recognize higher education qualifications obtained abroad.",
+    "recognition": {
+      "title": "Recognition & Equivalence",
+      "description": "Guidance on the applicable recognition, homologation, or equivalence procedure for your foreign higher education qualification."
+    },
+    "documentation": {
+      "title": "Diploma & Academic Records",
+      "description": "Assistance identifying and organizing diplomas, transcripts, academic records, and other supporting documents."
+    },
+    "authentication": {
+      "title": "Apostille & Legalization",
+      "description": "Guidance on apostille, legalization, authentication, and other formalities that may be required for foreign educational documents."
+    },
+    "translations": {
+      "title": "Certified Translations",
+      "description": "Guidance regarding certified or official translation requirements when educational documents need to be submitted in another language."
+    }
   }
 }

@@ -47,5 +47,26 @@
       "Apoyo en Procedimientos Educativos Internacionales"
     ],
     "consultation": "Solicitar una Consulta"
+  },
+
+  "assistanceHigher": {
+    "title": "En Qué Podemos Ayudar",
+    "subtitle": "Ofrecemos orientación sobre la documentación y las formalidades que pueden ser necesarias para reconocer titulaciones de educación superior obtenidas en el extranjero.",
+    "recognition": {
+      "title": "Reconocimiento y Equivalencia",
+      "description": "Orientación sobre el procedimiento aplicable de reconocimiento, homologación o equivalencia de su titulación de educación superior obtenida en el extranjero."
+    },
+    "documentation": {
+      "title": "Título y Expediente Académico",
+      "description": "Asistencia para identificar y organizar títulos, expedientes académicos y otros documentos de apoyo."
+    },
+    "authentication": {
+      "title": "Apostilla y Legalización",
+      "description": "Orientación sobre apostilla, legalización, autenticación y otras formalidades que puedan ser necesarias para documentos educativos extranjeros."
+    },
+    "translations": {
+      "title": "Traducciones Juradas",
+      "description": "Orientación sobre los requisitos de traducción jurada u oficial cuando los documentos educativos deben presentarse en otro idioma."
+    }
   }
 }
