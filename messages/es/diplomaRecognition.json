@@ -68,5 +68,12 @@
       "title": "Traducciones Juradas",
       "description": "Orientación sobre los requisitos de traducción jurada u oficial cuando los documentos educativos deben presentarse en otro idioma."
     }
+  },
+
+  "ctaHigher": {
+    "title": "¿Necesita Ayuda para Reconocer sus Estudios de Educación Superior?",
+    "subtitle": "Hable con nuestro equipo y descubra cómo podemos ayudarle con los procedimientos necesarios para el reconocimiento de su titulación de educación superior obtenida en el extranjero.",
+    "button": "Solicitar una Consulta",
+    "whatsapp": "Hablar por WhatsApp"
   }
 }

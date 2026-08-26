@@ -68,5 +68,12 @@
       "title": "Certified Translations",
       "description": "Guidance regarding certified or official translation requirements when educational documents need to be submitted in another language."
     }
+  },
+
+  "ctaHigher": {
+    "title": "Need Help Recognizing Your Higher Education Diploma?",
+    "subtitle": "Discuss your situation with our team and learn how we can help you with the documentation, requirements, and procedures involved in recognizing your foreign higher education qualification.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
   }
 }
