@@ -48,6 +48,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     diplomaRecognition: (await import(`../messages/${locale}/diplomaRecognition.json`)).default,
 
+    arraigo: (await import(`../messages/${locale}/arraigo.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
