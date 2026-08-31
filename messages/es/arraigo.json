@@ -8,5 +8,33 @@
       "Orientación sobre el Procedimiento de Extranjería"
     ],
     "consultation": "Solicitar una Consulta"
+  },
+
+  "helps": {
+    "title": "¿Cómo podemos ayudarte con tu arraigo?",
+    "subtitle": "Te ofrecemos asesoramiento personalizado durante todo el proceso de arraigo, desde la evaluación de tu situación hasta la preparación y presentación de tu solicitud.",
+    "eligibility": {
+      "title": "Evaluación de Elegibilidad",
+      "description": "Analizamos tus circunstancias personales y te ayudamos a identificar la vía de arraigo que mejor se adapta a tu situación."
+    },
+    "documentation": {
+      "title": "Preparación de Documentación",
+      "description": "Te orientamos sobre la documentación necesaria y te ayudamos a preparar correctamente la documentación de respaldo."
+    },
+    "application": {
+      "title": "Asistencia con la Solicitud",
+      "description": "Te ayudamos a preparar y presentar tu solicitud de arraigo y a cumplir con los requisitos administrativos correspondientes."
+    },
+    "followUp": {
+      "title": "Seguimiento del Expediente",
+      "description": "Te ayudamos a mantenerte informado durante el proceso y te orientamos sobre los siguientes pasos después de presentar tu solicitud."
+    }
+  },
+
+  "cta": {
+    "title": "¿Listo para iniciar tu proceso de arraigo?",
+    "subtitle": "Da el siguiente paso para regularizar tu situación en España. Contacta con nuestro equipo para conocer tu caso y saber cómo podemos ayudarte durante todo el proceso de arraigo.",
+    "button": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp"
   }
 }

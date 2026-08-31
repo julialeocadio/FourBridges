@@ -8,5 +8,33 @@
       "Orientação sobre o Procedimento Migratório"
     ],
     "consultation": "Solicite uma Consulta"
+  },
+
+  "helps": {
+    "title": "Como Podemos Ajudar com o seu Arraigo",
+    "subtitle": "Oferecemos orientação personalizada durante todo o processo de arraigo, desde a análise da sua situação até a preparação e apresentação do pedido.",
+    "eligibility": {
+      "title": "Avaliação de Elegibilidade",
+      "description": "Analisamos suas circunstâncias pessoais e ajudamos a identificar a modalidade de arraigo que melhor se adapta à sua situação."
+    },
+    "documentation": {
+      "title": "Preparação da Documentação",
+      "description": "Orientamos você sobre a documentação necessária e ajudamos a preparar corretamente os documentos comprobatórios."
+    },
+    "application": {
+      "title": "Assistência com o Pedido",
+      "description": "Ajudamos na preparação e apresentação do pedido de arraigo e no cumprimento dos requisitos administrativos correspondentes."
+    },
+    "followUp": {
+      "title": "Acompanhamento do Processo",
+      "description": "Ajudamos você a acompanhar o andamento do processo e orientamos sobre os próximos passos após a apresentação do pedido."
+    }
+  },
+
+  "cta": {
+    "title": "Pronto para iniciar seu processo de arraigo?",
+    "subtitle": "Dê o próximo passo para regularizar sua situação na Espanha. Entre em contato com nossa equipe para conversar sobre o seu caso e saber como podemos ajudar você durante todo o processo de arraigo.",
+    "button": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp"
   }
 }

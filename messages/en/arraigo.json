@@ -8,5 +8,33 @@
       "Immigration Procedure Guidance"
     ],
     "consultation": "Request a Consultation"
+  },
+
+  "helps": {
+    "title": "How We Can Help With Your Arraigo",
+    "subtitle": "We provide personalized guidance throughout the arraigo process, from assessing your eligibility to preparing and submitting your application.",
+    "eligibility": {
+      "title": "Eligibility Assessment",
+      "description": "We review your personal circumstances and help identify the arraigo pathway that best fits your situation."
+    },
+    "documentation": {
+      "title": "Document Preparation",
+      "description": "We guide you through the required documentation and help ensure your supporting evidence is properly prepared."
+    },
+    "application": {
+      "title": "Application Assistance",
+      "description": "We assist with the preparation and submission of your arraigo application and help you navigate the administrative requirements."
+    },
+    "followUp": {
+      "title": "Case Follow-Up",
+      "description": "We help you stay informed throughout the process and provide guidance on the next steps after submitting your application."
+    }
+  },
+
+  "cta": {
+    "title": "Ready to Start Your Arraigo Process?",
+    "subtitle": "Take the next step toward regularizing your situation in Spain. Contact our team to discuss your circumstances and learn how we can assist you throughout the arraigo process.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
   }
 }
