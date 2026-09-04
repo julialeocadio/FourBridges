@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "CRNM / RNM / RNE no Brasil",
+        "subtitle": "Orientação e assistência para estrangeiros que precisam obter, renovar, atualizar ou regularizar seu registro migratório e documento de identificação no Brasil.",
+        "benefits": [
+            "Análise Personalizada do Caso",
+            "Análise de Documentos e Requisitos",
+            "Orientação sobre o Procedimento"
+        ],
+        "consultation": "Solicite uma Consulta"
+    },
+
+    "helps": {
+        "title": "Como Podemos Ajudar com seu CRNM / RNM / RNE",
+        "subtitle": "Oferecemos orientação personalizada durante todo o processo, desde a análise da sua situação e dos requisitos aplicáveis até a preparação da documentação e apresentação da solicitação.",
+        "eligibility": {
+            "title": "Análise do Caso",
+            "description": "Analisamos a sua situação e ajudamos a identificar o procedimento adequado de acordo com sua condição migratória e suas necessidades de documentação no Brasil."
+        },
+        "documentation": {
+            "title": "Preparação da Documentação",
+            "description": "Orientamos você sobre os formulários, documentos e comprovantes necessários para ajudar a garantir que sua solicitação esteja corretamente preparada."
+        },
+        "application": {
+            "title": "Assistência com a Solicitação",
+            "description": "Ajudamos na preparação da sua solicitação e orientamos você sobre os procedimentos aplicáveis junto às autoridades migratórias brasileiras."
+        },
+        "translation": {
+            "title": "Assistência com Traduções",
+            "description": "Oferecemos orientação sobre a tradução de documentos estrangeiros que possam ser necessários para o seu procedimento no Brasil."
+        }
+    },
+
+    "cta": {
+        "title": "Precisa de Ajuda com seu CRNM / RNM / RNE?",
+        "subtitle": "Dê o próximo passo para obter ou atualizar seu registro migratório e documento de identificação no Brasil. Entre em contato com nossa equipe para conversar sobre o seu caso e saber como podemos ajudar durante todo o processo.",
+        "button": "Agendar uma Consulta",
+        "whatsapp": "Conversar no WhatsApp"
+    }
+}

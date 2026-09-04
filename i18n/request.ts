@@ -57,6 +57,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     europeanAncestrySearch: (await import(`../messages/${locale}/europeanAncestrySearch.json`)).default,
 
+    crnm: (await import(`../messages/${locale}/crnm.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };

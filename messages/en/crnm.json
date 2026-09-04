@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "CRNM / RNM / RNE in Brazil",
+        "subtitle": "Guidance and assistance for foreign nationals who need to obtain, renew, update, or regularize their foreigner registration and identity documentation in Brazil.",
+        "benefits": [
+            "Personalized Case Assessment",
+            "Document & Requirement Review",
+            "Application Procedure Guidance"
+        ],
+        "consultation": "Request a Consultation"
+    },
+
+    "helps": {
+        "title": "How We Can Help With Your CRNM / RNM / RNE",
+        "subtitle": "We provide personalized guidance throughout the process, from assessing your situation and reviewing the applicable requirements to preparing your documentation and submitting your request.",
+        "eligibility": {
+            "title": "Case Assessment",
+            "description": "We review your circumstances and help identify the appropriate procedure based on your immigration status and documentation needs in Brazil."
+        },
+        "documentation": {
+            "title": "Document Preparation",
+            "description": "We guide you through the required forms, documents, and supporting evidence to help ensure your application is properly prepared."
+        },
+        "application": {
+            "title": "Application Assistance",
+            "description": "We assist with preparing your request and guide you through the applicable procedures with the Brazilian immigration authorities."
+        },
+        "translation": {
+            "title": "Translation Assistance",
+            "description": "We provide guidance on the translation of foreign documents that may be required for your procedure in Brazil."
+        }
+    },
+
+    "cta": {
+        "title": "Need Assistance With Your CRNM / RNM / RNE?",
+        "subtitle": "Take the next step toward obtaining or updating your foreigner registration and identity documentation in Brazil. Contact our team to discuss your circumstances and learn how we can assist you throughout the process.",
+        "button": "Request a Consultation",
+        "whatsapp": "Chat on WhatsApp"
+    }
+}

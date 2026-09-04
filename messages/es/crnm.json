@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "CRNM / RNM / RNE en Brasil",
+        "subtitle": "Orientación y asistencia para extranjeros que necesitan obtener, renovar, actualizar o regularizar su registro migratorio y documento de identidad en Brasil.",
+        "benefits": [
+            "Análisis Personalizado del Caso",
+            "Revisión de Documentos y Requisitos",
+            "Orientación sobre el Procedimiento"
+        ],
+        "consultation": "Solicitar una Consulta"
+    },
+
+    "helps": {
+        "title": "¿Cómo podemos ayudarte con tu CRNM / RNM / RNE?",
+        "subtitle": "Ofrecemos orientación personalizada durante todo el proceso, desde el análisis de tu situación y los requisitos aplicables hasta la preparación de la documentación y la presentación de la solicitud.",
+        "eligibility": {
+            "title": "Análisis del Caso",
+            "description": "Analizamos tu situación y te ayudamos a identificar el procedimiento adecuado según tu situación migratoria y tus necesidades de documentación en Brasil."
+        },
+        "documentation": {
+            "title": "Preparación de la Documentación",
+            "description": "Te orientamos sobre los formularios, documentos y comprobantes necesarios para ayudar a garantizar que tu solicitud esté correctamente preparada."
+        },
+        "application": {
+            "title": "Asistencia con la Solicitud",
+            "description": "Te ayudamos a preparar tu solicitud y te orientamos sobre los procedimientos correspondientes ante las autoridades migratorias brasileñas."
+        },
+        "translation": {
+            "title": "Asistencia con Traducciones",
+            "description": "Ofrecemos orientación sobre la traducción de documentos extranjeros que puedan ser necesarios para tu procedimiento en Brasil."
+        }
+    },
+
+    "cta": {
+        "title": "¿Necesitas ayuda con tu CRNM / RNM / RNE?",
+        "subtitle": "Da el siguiente paso para obtener o actualizar tu registro migratorio y documento de identidad en Brasil. Contacta con nuestro equipo para hablar sobre tu caso y saber cómo podemos ayudarte durante todo el proceso.",
+        "button": "Reservar una Consulta",
+        "whatsapp": "Chatear por WhatsApp"
+    }
+}
