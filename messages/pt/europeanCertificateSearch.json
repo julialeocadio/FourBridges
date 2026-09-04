@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "Busca de Certidões Europeias",
+        "subtitle": "Assistência profissional na localização e obtenção de certidões e registros civis históricos em países europeus para pesquisas de ancestralidade, história familiar, processos de nacionalidade e outras finalidades legais ou pessoais.",
+        "benefits": [
+            "Análise Personalizada da Busca",
+            "Pesquisa de Documentos e Registros",
+            "Orientação durante todo o Processo"
+        ],
+        "consultation": "Solicite uma Consulta"
+    },
+
+    "helps": {
+        "title": "Como Podemos Ajudar na Busca por Certidões",
+        "subtitle": "Oferecemos assistência personalizada na pesquisa e localização de registros civis europeus, ajudando você a identificar os documentos necessários e a entender o processo para obtê-los.",
+        "eligibility": {
+            "title": "Análise do Caso e da Busca",
+            "description": "Analisamos as informações disponíveis sobre a sua história familiar e ajudamos a identificar quais registros e certidões podem ser relevantes para o seu caso."
+        },
+        "documentation": {
+            "title": "Pesquisa de Documentos e Registros",
+            "description": "Auxiliamos na identificação e pesquisa de registros civis relevantes, incluindo certidões de nascimento, casamento e óbito, com base nas informações disponíveis."
+        },
+        "application": {
+            "title": "Assistência na Solicitação das Certidões",
+            "description": "Orientamos você sobre o processo de solicitação e obtenção das certidões identificadas junto às autoridades ou instituições responsáveis."
+        },
+        "followUp": {
+            "title": "Acompanhamento da Busca",
+            "description": "Acompanhamos o andamento das solicitações e orientamos você sobre os próximos passos caso sejam necessárias informações ou documentos adicionais."
+        }
+    },
+
+    "cta": {
+        "title": "Pronto para iniciar sua busca por certidões?",
+        "subtitle": "Dê o primeiro passo para encontrar os registros europeus de que você precisa. Entre em contato com nossa equipe para conversar sobre o seu caso, entender quais informações podem ser necessárias e saber como podemos ajudar na sua busca.",
+        "button": "Agendar uma Consulta",
+        "whatsapp": "Conversar no WhatsApp"
+    }
+}

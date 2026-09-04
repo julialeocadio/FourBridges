@@ -1,3 +1,4 @@
+import EuropeanCertificateSearchHero from "@/components/sections/services/europeanCertificateSearch/europeanCertificateHero";
 import { getRequestConfig } from "next-intl/server";
 
 export default getRequestConfig(async ({ requestLocale }) => {
@@ -51,6 +52,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
     arraigo: (await import(`../messages/${locale}/arraigo.json`)).default,
 
     nieSpain: (await import(`../messages/${locale}/nieSpain.json`)).default,
+
+    europeanCertificateSearch: (await import(`../messages/${locale}/europeanCertificateSearch.json`)).default,
 
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 

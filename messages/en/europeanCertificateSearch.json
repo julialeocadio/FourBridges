@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "European Certificate Searches",
+        "subtitle": "Professional assistance in locating and obtaining civil and historical certificates from European countries for ancestry research, family history, nationality applications, and other legal or personal purposes.",
+        "benefits": [
+            "Personalized Search Assessment",
+            "Document & Record Research",
+            "Guidance Throughout the Search Process"
+        ],
+        "consultation": "Request a Consultation"
+    },
+
+    "helps": {
+        "title": "How We Can Help With Your Certificate Search",
+        "subtitle": "We provide personalized assistance in researching and locating European civil records, helping you identify the documents you need and navigate the process of obtaining them.",
+        "eligibility": {
+            "title": "Case & Search Assessment",
+            "description": "We review the information available about your family history and help determine which records and certificates may be relevant to your case."
+        },
+        "documentation": {
+            "title": "Document & Record Research",
+            "description": "We assist in identifying and researching relevant civil records, including birth, marriage, and death certificates, based on the information available."
+        },
+        "application": {
+            "title": "Certificate Request Assistance",
+            "description": "We guide you through the process of requesting and obtaining the identified certificates from the relevant authorities or institutions."
+        },
+        "followUp": {
+            "title": "Search Follow-Up",
+            "description": "We help monitor the progress of your requests and provide guidance on the next steps when additional information or documentation is required."
+        }
+    },
+
+    "cta": {
+        "title": "Ready to Start Your Certificate Search?",
+        "subtitle": "Take the first step toward finding the European records you need. Contact our team to discuss your case, understand what information may be required, and learn how we can assist with your search.",
+        "button": "Request a Consultation",
+        "whatsapp": "Chat on WhatsApp"
+    }
+}

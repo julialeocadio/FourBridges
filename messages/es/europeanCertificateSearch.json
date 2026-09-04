@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "Búsqueda de Certificados Europeos",
+        "subtitle": "Asistencia profesional en la localización y obtención de certificados y registros civiles históricos en países europeos para investigaciones de ascendencia, historia familiar, solicitudes de nacionalidad y otros fines legales o personales.",
+        "benefits": [
+            "Análisis Personalizado de la Búsqueda",
+            "Investigación de Documentos y Registros",
+            "Orientación durante todo el Proceso"
+        ],
+        "consultation": "Solicitar una Consulta"
+    },
+
+    "helps": {
+        "title": "¿Cómo podemos ayudarte con la búsqueda de certificados?",
+        "subtitle": "Ofrecemos asistencia personalizada en la investigación y localización de registros civiles europeos, ayudándote a identificar los documentos que necesitas y a gestionar el proceso para obtenerlos.",
+        "eligibility": {
+            "title": "Análisis del Caso y de la Búsqueda",
+            "description": "Analizamos la información disponible sobre tu historia familiar y te ayudamos a identificar qué registros y certificados pueden ser relevantes para tu caso."
+        },
+        "documentation": {
+            "title": "Investigación de Documentos y Registros",
+            "description": "Te ayudamos a identificar e investigar registros civiles relevantes, incluidos certificados de nacimiento, matrimonio y defunción, a partir de la información disponible."
+        },
+        "application": {
+            "title": "Asistencia en la Solicitud de Certificados",
+            "description": "Te orientamos sobre el proceso de solicitud y obtención de los certificados identificados ante las autoridades o instituciones correspondientes."
+        },
+        "followUp": {
+            "title": "Seguimiento de la Búsqueda",
+            "description": "Te ayudamos a realizar el seguimiento de las solicitudes y te orientamos sobre los siguientes pasos cuando sea necesario aportar información o documentación adicional."
+        }
+    },
+
+    "cta": {
+        "title": "¿Listo para iniciar tu búsqueda de certificados?",
+        "subtitle": "Da el primer paso para encontrar los registros europeos que necesitas. Contacta con nuestro equipo para hablar sobre tu caso, conocer qué información puede ser necesaria y saber cómo podemos ayudarte durante la búsqueda.",
+        "button": "Reservar una Consulta",
+        "whatsapp": "Chatear por WhatsApp"
+    }
+}
