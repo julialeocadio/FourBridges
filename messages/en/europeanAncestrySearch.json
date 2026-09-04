@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "European Ancestry Searches",
+        "subtitle": "Professional assistance in researching your European ancestry, tracing family origins, identifying ancestors, and locating historical records that help uncover your family history.",
+        "benefits": [
+            "Personalized Ancestry Assessment",
+            "Family History & Record Research",
+            "Guidance Throughout the Research Process"
+        ],
+        "consultation": "Request a Consultation"
+    },
+
+    "helps": {
+        "title": "How We Can Help With Your Ancestry Search",
+        "subtitle": "We provide personalized assistance in researching your family history, from analyzing the information you already have to identifying ancestors, tracing family lines, and locating relevant historical records.",
+        "eligibility": {
+            "title": "Ancestry Assessment",
+            "description": "We review the information you have about your family and help determine the most appropriate starting points and research paths for your case."
+        },
+        "documentation": {
+            "title": "Genealogical Research",
+            "description": "We research relevant civil, church, historical, and archival records to help identify ancestors and establish connections between generations."
+        },
+        "application": {
+            "title": "Record & Document Search",
+            "description": "We assist in locating documents and records that can support your family history research, including birth, marriage, death, immigration, and other historical records."
+        },
+        "followUp": {
+            "title": "Translation Assistance",
+            "description": "We provide guidance on the translation of relevant documents and records identified during the research, helping you understand and prepare them for their intended legal or administrative purpose."
+        }
+    },
+
+    "cta": {
+        "title": "Ready to Discover Your European Ancestry?",
+        "subtitle": "Take the first step toward uncovering your family history. Contact our team to discuss the information you already have and learn how we can help trace your European ancestry and locate relevant historical records.",
+        "button": "Request a Consultation",
+        "whatsapp": "Chat on WhatsApp"
+    }
+}

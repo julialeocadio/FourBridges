@@ -29,7 +29,7 @@ export default function InternationalServices() {
     },
     {
       id: "europeanDescendants",
-      href: "/services/international-services/european-descendants-search",
+      href: "/services/international-services/european-ancestry-search",
     },
     {
       id: "nieSpain",

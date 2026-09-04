@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "Búsqueda de Ascendencia Europea",
+        "subtitle": "Asistencia profesional en la investigación de tu ascendencia europea, la identificación de antepasados, el estudio de los orígenes familiares y la localización de registros históricos que ayuden a reconstruir la historia de tu familia.",
+        "benefits": [
+            "Análisis Personalizado de la Ascendencia",
+            "Investigación de Historia Familiar y Registros",
+            "Orientación durante todo el Proceso de Investigación"
+        ],
+        "consultation": "Solicitar una Consulta"
+    },
+
+    "helps": {
+        "title": "¿Cómo podemos ayudarte con tu búsqueda de ascendencia?",
+        "subtitle": "Ofrecemos asistencia personalizada en la investigación de tu historia familiar, desde el análisis de la información que ya tienes hasta la identificación de antepasados, el seguimiento de líneas familiares y la localización de registros históricos relevantes.",
+        "eligibility": {
+            "title": "Análisis de la Ascendencia",
+            "description": "Analizamos la información disponible sobre tu familia y te ayudamos a identificar los puntos de partida y las líneas de investigación más adecuadas para tu caso."
+        },
+        "documentation": {
+            "title": "Investigación Genealógica",
+            "description": "Investigamos registros civiles, religiosos, históricos y de archivo para ayudar a identificar antepasados y establecer conexiones entre generaciones."
+        },
+        "application": {
+            "title": "Búsqueda de Registros y Documentos",
+            "description": "Te ayudamos a localizar documentos y registros que puedan contribuir a la investigación de tu historia familiar, incluidos registros de nacimiento, matrimonio, defunción, inmigración y otros documentos históricos."
+        },
+        "followUp": {
+            "title": "Asistencia con Traducciones",
+            "description": "Ofrecemos orientación sobre la traducción de los documentos y registros relevantes identificados durante la investigación, ayudándote a prepararlos para la finalidad legal o administrativa correspondiente."
+        }
+    },
+
+    "cta": {
+        "title": "¿Listo para descubrir tu ascendencia europea?",
+        "subtitle": "Da el primer paso para descubrir más sobre la historia de tu familia. Contacta con nuestro equipo para hablar sobre la información que ya tienes y saber cómo podemos ayudarte a investigar tu ascendencia europea y localizar registros históricos relevantes.",
+        "button": "Reservar una Consulta",
+        "whatsapp": "Chatear por WhatsApp"
+    }
+}

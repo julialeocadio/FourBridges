@@ -55,6 +55,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     europeanCertificateSearch: (await import(`../messages/${locale}/europeanCertificateSearch.json`)).default,
 
+    europeanAncestrySearch: (await import(`../messages/${locale}/europeanAncestrySearch.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };

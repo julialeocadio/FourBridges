@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "Pesquisa de Ancestralidade Europeia",
+        "subtitle": "Assistência profissional na pesquisa da sua ancestralidade europeia, na identificação de antepassados, na investigação das origens familiares e na localização de registros históricos que ajudam a reconstruir a história da sua família.",
+        "benefits": [
+            "Análise Personalizada da Ancestralidade",
+            "Pesquisa de História Familiar e Registros",
+            "Orientação durante todo o Processo de Pesquisa"
+        ],
+        "consultation": "Solicite uma Consulta"
+    },
+
+    "helps": {
+        "title": "Como Podemos Ajudar na sua Pesquisa de Ancestralidade",
+        "subtitle": "Oferecemos assistência personalizada na pesquisa da sua história familiar, desde a análise das informações que você já possui até a identificação de antepassados, investigação das linhagens familiares e localização de registros históricos relevantes.",
+        "eligibility": {
+            "title": "Análise da Ancestralidade",
+            "description": "Analisamos as informações disponíveis sobre a sua família e ajudamos a identificar os melhores pontos de partida e caminhos de pesquisa para o seu caso."
+        },
+        "documentation": {
+            "title": "Pesquisa Genealógica",
+            "description": "Pesquisamos registros civis, religiosos, históricos e de arquivos para ajudar a identificar antepassados e estabelecer conexões entre diferentes gerações."
+        },
+        "application": {
+            "title": "Busca de Registros e Documentos",
+            "description": "Auxiliamos na localização de documentos e registros que possam contribuir para a pesquisa da sua história familiar, incluindo registros de nascimento, casamento, óbito, imigração e outros documentos históricos."
+        },
+        "followUp": {
+            "title": "Assistência com Traduções",
+            "description": "Oferecemos orientação sobre a tradução dos documentos e registros relevantes identificados durante a pesquisa, ajudando você a prepará-los para a finalidade legal ou administrativa pretendida."
+        }
+    },
+
+    "cta": {
+        "title": "Pronto para descobrir sua ancestralidade europeia?",
+        "subtitle": "Dê o primeiro passo para descobrir mais sobre a história da sua família. Entre em contato com nossa equipe para conversar sobre as informações que você já possui e saber como podemos ajudar a pesquisar sua ancestralidade europeia e localizar registros históricos relevantes.",
+        "button": "Agendar uma Consulta",
+        "whatsapp": "Conversar no WhatsApp"
+    }
+}
