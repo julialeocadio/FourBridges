@@ -50,6 +50,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     arraigo: (await import(`../messages/${locale}/arraigo.json`)).default,
 
+    nieSpain: (await import(`../messages/${locale}/nieSpain.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };

@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "NIE in Spain",
+        "subtitle": "Guidance and assistance for obtaining your Foreigner Identity Number (NIE) in Spain for professional, economic, academic, or other legitimate purposes.",
+        "benefits": [
+            "Personalized Case Assessment",
+            "Document & Requirement Review",
+            "Application Procedure Guidance"
+        ],
+        "consultation": "Request a Consultation"
+    },
+
+    "helps": {
+        "title": "How We Can Help With Your NIE",
+        "subtitle": "We provide personalized guidance throughout the NIE application process, from assessing your circumstances and applicable requirements to preparing the necessary documentation.",
+        "eligibility": {
+            "title": "Case Assessment",
+            "description": "We review the reason for your application and guide you through the requirements and documentation needed to obtain your NIE."
+        },
+        "documentation": {
+            "title": "Document Preparation",
+            "description": "We guide you through the required forms, documents, and supporting evidence to help ensure your application is properly prepared."
+        },
+        "application": {
+            "title": "Application Assistance",
+            "description": "We assist with preparing your application and guide you through the appropriate procedure for applying for an NIE in Spain."
+            },
+        "followUp": {
+            "title": "Process Guidance",
+            "description": "We provide guidance throughout the process and help you understand the next steps after your application has been submitted."
+        }
+    },
+
+    "cta": {
+        "title": "Ready to Apply for Your NIE?",
+        "subtitle": "Take the next step toward obtaining your Foreigner Identity Number in Spain. Contact our team to discuss your circumstances, understand the applicable requirements, and receive guidance throughout the process.",
+        "button": "Request a Consultation",
+        "whatsapp": "Chat on WhatsApp"
+    }
+}

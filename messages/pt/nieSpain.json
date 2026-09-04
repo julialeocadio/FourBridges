@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "NIE na Espanha",
+        "subtitle": "Orientação e assistência para obter o seu Número de Identidade de Estrangeiro (NIE) na Espanha, seja por motivos profissionais, econômicos, acadêmicos ou outros interesses legítimos.",
+        "benefits": [
+            "Análise Personalizada do Caso",
+            "Análise de Documentos e Requisitos",
+            "Orientação sobre o Procedimento"
+        ],
+        "consultation": "Solicite uma Consulta"
+    },
+
+    "helps": {
+        "title": "Como Podemos Ajudar com o seu NIE",
+        "subtitle": "Oferecemos orientação personalizada durante todo o processo de solicitação do NIE, desde a análise da sua situação e dos requisitos aplicáveis até a preparação da documentação necessária.",
+        "eligibility": {
+            "title": "Análise da sua Situação",
+            "description": "Analisamos o motivo da sua solicitação e orientamos você sobre os requisitos e documentos necessários para obter o seu NIE."
+        },
+        "documentation": {
+            "title": "Preparação da Documentação",
+            "description": "Orientamos você sobre os formulários, documentos e comprovantes necessários para apresentar corretamente a sua solicitação."
+        },
+        "application": {
+            "title": "Assistência com a Solicitação",
+            "description": "Ajudamos na preparação da sua solicitação e orientamos você sobre o procedimento adequado para solicitar o NIE na Espanha."
+        },
+        "followUp": {
+            "title": "Orientação durante o Processo",
+            "description": "Oferecemos orientação durante o processo e ajudamos você a entender os próximos passos após a apresentação da solicitação."
+        }
+    },
+
+    "cta": {
+        "title": "Pronto para solicitar o seu NIE?",
+        "subtitle": "Dê o próximo passo para obter o seu Número de Identidade de Estrangeiro na Espanha. Entre em contato com nossa equipe para conversar sobre o seu caso, entender os requisitos aplicáveis e receber orientação durante todo o processo.",
+        "button": "Agendar uma Consulta",
+        "whatsapp": "Conversar no WhatsApp"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "NIE en España",
+        "subtitle": "Orientación y asistencia para obtener tu Número de Identidad de Extranjero (NIE) en España, ya sea por motivos profesionales, económicos, académicos u otros intereses legítimos.",
+        "benefits": [
+            "Evaluación Personalizada de tu Caso",
+            "Revisión de Documentación y Requisitos",
+            "Orientación durante el Procedimiento"
+        ],
+        "consultation": "Solicitar una Consulta"
+    },
+
+    "helps": {
+        "title": "¿Cómo podemos ayudarte con tu NIE?",
+        "subtitle": "Te ofrecemos asesoramiento personalizado durante el proceso de solicitud del NIE, desde la evaluación de tu situación y los requisitos aplicables hasta la preparación de la documentación necesaria.",
+        "eligibility": {
+            "title": "Evaluación de tu Situación",
+            "description": "Analizamos el motivo de tu solicitud y te orientamos sobre los requisitos y la documentación que necesitas para obtener tu NIE."
+        },
+        "documentation": {
+            "title": "Preparación de Documentación",
+            "description": "Te orientamos sobre los formularios, documentos y justificantes necesarios para presentar correctamente tu solicitud."
+        },
+        "application": {
+            "title": "Asistencia con la Solicitud",
+            "description": "Te ayudamos a preparar tu solicitud y te orientamos sobre el procedimiento correspondiente para solicitar tu NIE en España."
+        },
+        "followUp": {
+            "title": "Orientación durante el Proceso",
+            "description": "Te acompañamos durante el proceso y te orientamos sobre los siguientes pasos una vez presentada la solicitud."
+        }
+    },
+
+    "cta": {
+        "title": "¿Listo para solicitar tu NIE?",
+        "subtitle": "Da el siguiente paso para obtener tu Número de Identidad de Extranjero en España. Contacta con nuestro equipo para conocer los requisitos aplicables a tu caso y recibir orientación durante el proceso.",
+        "button": "Reservar una Consulta",
+        "whatsapp": "Chatear por WhatsApp"
+    }
+}
