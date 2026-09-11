@@ -1,9 +1,9 @@
 export const articles = [
   {
-    slug: "canada-student-visa-guide",
+    slug: "EB-2-visa-guide",
     image: "/images/blog/canada.jpg",
-    publishedAt: "July 30, 2026",
-    readingTime: "6 min",
+    publishedAt: "September 9, 2026",
+    readingTime: "8 min",
 
     related: [
       "australia-skilled-migration"
