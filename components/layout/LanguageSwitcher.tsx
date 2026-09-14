@@ -59,6 +59,18 @@ export default function LanguageSwitcher() {
   const changeLanguage = (newLocale: string) => {
     setOpen(false);
 
+    const isBlogArticle = 
+    pathname.startsWith("/blog/") &&
+    pathname !== "/blog";
+
+    if (isBlogArticle) {
+      router.replace("/blog", {
+        locale: newLocale,
+      });
+
+      return;
+    }
+
     router.replace(pathname, {
       locale: newLocale,
     });
