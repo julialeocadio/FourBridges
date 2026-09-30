@@ -25,7 +25,7 @@ export default function Footer() {
     resources: [
       {label: t("blog"), href: "/blog"},
       {label: t("privacy"), href: "/privacy-policy"},
-      {label: t("terms"), href: "/terms-of-service"},
+      {label: t("terms"), href: "/terms"},
     ],
   };
   return (
