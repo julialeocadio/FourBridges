@@ -37,6 +37,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     terms: (await import(`../messages/${locale}/terms.json`)).default,
 
+    privacyPolicy: (await import(`../messages/${locale}/privacyPolicy.json`)).default,
+
     businessPlan: (await import(`../messages/${locale}/businessPlan.json`)).default,
 
     expertWitness: (await import(`../messages/${locale}/expertWitness.json`)).default,
