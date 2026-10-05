@@ -8,5 +8,15 @@
             "Personalized assistance"
         ],
         "consultation": "Request assistance"
+    },
+
+    "about": {
+        "title": "What is the Hague Apostille?",
+        "description": "The Hague Apostille is a certificate that authenticates the origin of certain public documents so that they can be used in another country that is a party to the Hague Convention.",
+        "additionalInfo": "In immigration, study, marriage, document recognition, and other international proceedings, certain documents may need to be apostilled before being submitted to the authorities of the destination country.",
+        "important": {
+            "title": "Important",
+            "text": "The apostille certifies the authenticity of the signature, seal, or stamp appearing on the document. It does not certidy the content of the document or replace a translation when one is required."
+        }
     }
 }

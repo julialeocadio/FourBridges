@@ -8,5 +8,15 @@
       "Atención personalizada"
     ],
     "consultation": "Solicitar atención"
+  },
+
+  "about": {
+    "title": "¿Qué es la Apostilla de La Haya?",
+    "description": "La Apostilla de La Haya es un certificado que permite autenticar el origen de determinados documentos públicos para que puedan utilizarse en otro país que sea parte del Convenio de La Haya.",
+    "additionalInfo": "En procedimientos de inmigración, estudios, matrimonio, reconocimiento de documentos y otros trámites internacionales, algunos documentos pueden necesitar ser apostillados antes de presentarse ante las autoridades del país de destino.",
+    "important": {
+      "title": "Importante",
+      "text": "La apostilla certifica la autenticidad de la firma, el sello o el cuño que constan en el documento. No certifica el contenido del documento ni sustituye, cuando sea necesaria, una traducción."
+    }
   }
 }

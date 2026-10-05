@@ -8,5 +8,15 @@
       "Atendimento personalizado"
     ],
     "consultation": "Solicitar atendimento"
+  },
+
+  "about": {
+    "title": "O que é a Apostila de Haia?",
+    "description": "A Apostila de Haia é um certificado que permite autenticar a origem de determinados documentos públicos para que possam ser utilizados em outro país que faça parte da Convenção da Haia.",
+    "additionalInfo": "Em processos de imigração, estudos, casamento, reconhecimento de documentos e outros procedimentos internacionais, alguns documentos podem precisar ser apostilados antes de serem apresnetados às autoridades do país de destino.",
+    "important": {
+      "title": "Importante",
+      "text": "A apostila certifica a autenticidade da assiantura, do selo ou do carimbo que constam no documento. Ela não certifica o conteúdo do documento nem substitui, quando necessária, uma tradução."
+    }
   }
 }
