@@ -1,0 +1,118 @@
+{
+    "services": {
+      "title": "Áreas de práctica",
+      "subtitle": "Orientación y asistencia en asuntos de Derecho de Familia con elementos internacionales.",
+
+      "learnMore": "Más información",
+
+      "internationalDivorce": {
+        "title": "Divorcio internacional",
+        "description": "Orientación en asuntos de divorcio que involucran diferentes países, incluidos ciudadanos brasileños residentes en el extranjero y matrimonios internacionales.",
+        "areas": [
+          "Divorcio de ciudadanos brasileños residentes en el extranjero",
+          "Reconocimiento de divorcios extranjeros en Brasil",
+          "Reparto de bienes situados en diferentes países",
+          "Jurisdicción y legislación aplicable"
+        ]
+      },
+
+      "internationalCustody": {
+        "title": "Guarda y custodia internacional y responsabilidad parental",
+        "description": "Asistencia en asuntos de guarda y custodia, régimen de visitas y responsabilidad parental cuando los progenitores o los hijos se encuentran en diferentes países.",
+        "areas": [
+          "Guarda y custodia de hijos cuando los progenitores viven en diferentes países",
+          "Regulación del régimen de visitas internacional",
+          "Autorización para viajes internacionales de menores",
+          "Traslado de la residencia del menor a otro país"
+        ]
+      },
+
+      "internationalChildAbduction": {
+        "title": "Sustracción internacional de menores",
+        "description": "Análisis y orientación en situaciones relacionadas con el traslado o la retención internacional de menores.",
+        "areas": [
+          "Análisis preliminar del caso",
+          "Determinación de la residencia habitual del menor",
+          "Traslado o retención ilícita",
+          "Cooperación con las Autoridades Centrales"
+        ]
+      },
+
+      "internationalChildSupport": {
+        "title": "Pensión de alimentos internacional",
+        "description": "Orientación en asuntos de alimentos cuando la persona obligada al pago o el beneficiario reside en otro país.",
+        "areas": [
+          "Reclamación de alimentos a personas residentes en el extranjero",
+          "Ejecución internacional de obligaciones alimentarias",
+          "Reconocimiento de resoluciones extranjeras",
+          "Localización del deudor"
+        ]
+      },
+
+      "foreignFamilyDecisions": {
+        "title": "Reconocimiento de resoluciones extranjeras de familia",
+        "description": "Orientación para que las resoluciones judiciales en materia de familia sean reconocidas y puedan producir efectos en otro país.",
+        "areas": [
+          "Reconocimiento de resoluciones extranjeras de divorcio",
+          "Resoluciones sobre guarda y custodia y alimentos",
+          "Resoluciones sobre adopción y filiación",
+          "Apostilla, traducción y documentación"
+        ]
+      },
+
+      "internationalMarriage": {
+        "title": "Matrimonio internacional",
+        "description": "Orientación para matrimonios que involucran diferentes países, nacionalidades o efectos jurídicos internacionales.",
+        "areas": [
+          "Matrimonio entre ciudadanos brasileños y extranjeros",
+          "Matrimonio celebrado en Brasil con efectos en el extranjero",
+          "Matrimonio celebrado en el extranjero",
+          "Régimen económico matrimonial y capitulaciones matrimoniales"
+        ]
+      },
+
+      "internationalProperty": {
+        "title": "Régimen económico matrimonial y patrimonio internacional",
+        "description": "Análisis individualizado de cuestiones patrimoniales relacionadas con matrimonios y familias con vínculos en diferentes países.",
+        "areas": [
+          "Ley aplicable al régimen económico matrimonial",
+          "Localización de los bienes",
+          "Jurisdicción y reconocimiento de resoluciones",
+          "Documentación y efectos patrimoniales internacionales"
+        ]
+      },
+
+      "internationalFiliation": {
+        "title": "Filiación internacional",
+        "description": "Orientación en cuestiones de filiación y documentación relacionadas con vínculos familiares o nacimientos en diferentes países.",
+        "areas": [
+          "Reconocimiento de la filiación establecida en el extranjero",
+          "Inscripción de partidas de nacimiento extranjeras en Brasil",
+          "Procedimientos de determinación de paternidad o maternidad",
+          "Documentación de menores nacidos en el extranjero"
+        ]
+      },
+
+      "internationalAdoption": {
+        "title": "Adopción internacional",
+        "description": "Orientación en procesos de adopción internacional que involucren a ciudadanos brasileños y en cuestiones relacionadas con sus efectos en Brasil.",
+        "areas": [
+          "Adopción internacional de ciudadanos brasileños",
+          "Documentación",
+          "Convenio de La Haya sobre adopción internacional",
+          "Reconocimiento de resoluciones y efectos en Brasil"
+        ]
+      },
+
+      "transnationalDomesticViolence": {
+        "title": "Violencia doméstica en contexto transnacional",
+        "description": "Orientación en situaciones de violencia doméstica que involucran diferentes países y que pueden afectar cuestiones de custodia, retorno o protección.",
+        "areas": [
+          "Violencia doméstica ocurrida en el extranjero",
+          "Retorno a Brasil con hijos",
+          "Medidas de protección y cuestiones transnacionales",
+          "Violencia doméstica en procedimientos internacionales de guarda y custodia"
+        ]
+      }
+    }
+  }

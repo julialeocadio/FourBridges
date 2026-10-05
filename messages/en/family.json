@@ -1,0 +1,118 @@
+{
+  "services": {
+    "title": "Areas of Practice",
+    "subtitle": "Guidance and assistance in family law matters involving international elements.",
+
+    "learnMore": "Learn More",
+
+    "internationalDivorce": {
+      "title": "International Divorce",
+      "description": "Guidance on divorce matters involving different countries, including Brazilian nationals living abroad and international marriages.",
+      "areas": [
+        "Divorce for Brazilian nationals living abroad",
+        "Recognition of foreign divorces in Brazil",
+        "Division of assets located in different countries",
+        "Jurisdiction and applicable law"
+      ]
+    },
+
+    "internationalCustody": {
+      "title": "International Custody & Parental Responsibility",
+      "description": "Assistance with custody, visitation, and parental responsibility matters when parents or children are located in different countries.",
+      "areas": [
+        "Child custody when parents live in different countries",
+        "International visitation arrangements",
+        "International travel authorization for minors",
+        "Relocation of a child to another country"
+      ]
+    },
+
+    "internationalChildAbduction": {
+      "title": "International Child Abduction",
+      "description": "Analysis and guidance in situations involving the international removal or retention of children.",
+      "areas": [
+        "Preliminary case assessment",
+        "Determination of the child's habitual residence",
+        "Wrongful removal or retention",
+        "Cooperation with Central Authorities"
+      ]
+    },
+
+    "internationalChildSupport": {
+      "title": "International Child Support",
+      "description": "Guidance on support matters when the responsible party or beneficiary resides in another country.",
+      "areas": [
+        "Collection of support from a person living abroad",
+        "International enforcement of support obligations",
+        "Recognition of foreign decisions",
+        "Locating the debtor"
+      ]
+    },
+
+    "foreignFamilyDecisions": {
+      "title": "Recognition of Foreign Family Decisions",
+      "description": "Guidance on having family court decisions recognized and given effect in another country.",
+      "areas": [
+        "Recognition of foreign divorce decisions",
+        "Custody and support judgments",
+        "Adoption and filiation decisions",
+        "Apostille, translation, and documentation"
+      ]
+    },
+
+    "internationalMarriage": {
+      "title": "International Marriage",
+      "description": "Guidance for marriages involving different countries, nationalities, or international legal effects.",
+      "areas": [
+        "Marriage between Brazilian and foreign nationals",
+        "Marriage celebrated in Brazil with effects abroad",
+        "Marriage celebrated abroad",
+        "Matrimonial property regimes and prenuptial agreements"
+      ]
+    },
+
+    "internationalProperty": {
+      "title": "International Property & Matrimonial Regimes",
+      "description": "Case-by-case analysis of property matters involving marriages and families with connections to different countries.",
+      "areas": [
+        "Law applicable to the matrimonial property regime",
+        "Location of assets",
+        "Jurisdiction and recognition of decisions",
+        "International documentation and property effects"
+      ]
+    },
+
+    "internationalFiliation": {
+      "title": "International Filiation",
+      "description": "Guidance on parentage and documentation matters involving family or birth connections across different countries.",
+      "areas": [
+        "Recognition of parentage established abroad",
+        "Registration of foreign birth records in Brazil",
+        "Paternity or maternity proceedings",
+        "Documentation for children born abroad"
+      ]
+    },
+
+    "internationalAdoption": {
+      "title": "International Adoption",
+      "description": "Guidance on international adoption involving Brazilian nationals and matters concerning its effects in Brazil.",
+      "areas": [
+        "International adoption involving Brazilian nationals",
+        "Documentation",
+        "Hague Convention on Intercountry Adoption",
+        "Recognition of decisions and effects in Brazil"
+      ]
+    },
+
+    "transnationalDomesticViolence": {
+      "title": "Domestic Violence in a Transnational Context",
+      "description": "Guidance in domestic violence situations involving different countries and potentially affecting custody, return, or protection matters.",
+      "areas": [
+        "Domestic violence occurring abroad",
+        "Returning to Brazil with children",
+        "Protective measures and transnational matters",
+        "Domestic violence in international custody disputes"
+      ]
+    }
+  }
+}

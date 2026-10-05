@@ -65,6 +65,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     apostille: (await import(`../messages/${locale}/apostille.json`)).default,
 
+    family: (await import(`../messages/${locale}/family.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
