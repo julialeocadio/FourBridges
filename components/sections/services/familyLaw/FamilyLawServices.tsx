@@ -27,7 +27,7 @@ export default function FamilyLawServices() {
   ] as const;
 
   return (
-    <Section>
+    <Section className="pt-8 md:pt-8">
       <Container>
         <div className="mx-auto max-w-2xl text-center">
           <Heading className="mt-3">
