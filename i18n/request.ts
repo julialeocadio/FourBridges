@@ -63,6 +63,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     crnm: (await import(`../messages/${locale}/crnm.json`)).default,
 
+    apostille: (await import(`../messages/${locale}/apostille.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
