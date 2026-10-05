@@ -18,5 +18,36 @@
             "title": "Important",
             "text": "The apostille certifies the authenticity of the signature, seal, or stamp appearing on the document. It does not certidy the content of the document or replace a translation when one is required."
         }
+    },
+
+    "documents": {
+        "title": "Which documents may need an apostille?",
+        "subtitle": "The need to apostille a document depends on the country where it was issued, the country where it will be used, and the type of procedure.",
+        "items": [
+        {
+            "title": "Civil certificates",
+            "description": "Birth, marriage, death certificates, and other civil registry documents."
+        },
+        {
+            "title": "Academic documents",
+            "description": "Diplomas, certificates, academic transcripts, and other documents related to academic qualifications."
+        },
+        {
+            "title": "Notarial documents",
+            "description": "Powers of attorney, declarations, and other documents formalized before a notary."
+        },
+        {
+            "title": "Judicial documents",
+            "description": "Certain documents and certificates issued by judicial authorities."
+        },
+        {
+            "title": "Public certificates",
+            "description": "Certificates and documents issued by public bodies or authorities."
+        },
+        {
+            "title": "Other documents",
+            "description": "Depending on the procedure, other documents may also be subject to apostille requirements."
+        }
+        ]
     }
 }

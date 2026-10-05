@@ -18,5 +18,36 @@
       "title": "Importante",
       "text": "A apostila certifica a autenticidade da assiantura, do selo ou do carimbo que constam no documento. Ela não certifica o conteúdo do documento nem substitui, quando necessária, uma tradução."
     }
+  },
+
+  "documents": {
+    "title": "Quais documentos podem precisar de apostila?",
+    "subtitle": "A necessidade de apostilar um documento depende do país onde foi emitido, do país onde será utilizado e do tipo de procedimento.",
+    "items": [
+      {
+        "title": "Certidões civis",
+        "description": "Certidões de nascimento, casamento, óbito e outros documentos do registro civil."
+      },
+      {
+        "title": "Documentos acadêmicos",
+        "description": "Diplomas, certificados, históricos escolares e outros documentos relacionados à formação acadêmica."
+      },
+      {
+        "title": "Documentos notariais",
+        "description": "Procurações, declarações e outros documentos formalizados perante um tabelião ou notário."
+      },
+      {
+        "title": "Documentos judiciais",
+        "description": "Determinados documentos e certidões emitidos por autoridades judiciais."
+      },
+      {
+        "title": "Certificados públicos",
+        "description": "Certificados e documentos emitidos por órgãos ou autoridades públicas."
+      },
+      {
+        "title": "Outros documentos",
+        "description": "Dependendo do procedimento, outros documentos também podem estar sujeitos ao apostilamento."
+      }
+    ]
   }
 }

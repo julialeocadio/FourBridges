@@ -18,5 +18,36 @@
       "title": "Importante",
       "text": "La apostilla certifica la autenticidad de la firma, el sello o el cuño que constan en el documento. No certifica el contenido del documento ni sustituye, cuando sea necesaria, una traducción."
     }
+  },
+
+  "documents": {
+    "title": "¿Qué documentos pueden necesitar una apostilla?",
+    "subtitle": "La necesidad de apostillar un documento depende del país en el que fue expedido, del país en el que se utilizará y del tipo de trámite.",
+    "items": [
+      {
+        "title": "Certificados civiles",
+        "description": "Certificados de nacimiento, matrimonio, defunción y otros documentos del registro civil."
+      },
+      {
+        "title": "Documentos académicos",
+        "description": "Títulos, certificados, expedientes académicos y otros documentos relacionados con la formación académica."
+      },
+      {
+        "title": "Documentos notariales",
+        "description": "Poderes notariales, declaraciones y otros documentos formalizados ante un notario."
+      },
+      {
+        "title": "Documentos judiciales",
+        "description": "Determinados documentos y certificados emitidos por autoridades judiciales."
+      },
+      {
+        "title": "Certificados públicos",
+        "description": "Certificados y documentos emitidos por organismos o autoridades públicas."
+      },
+      {
+        "title": "Otros documentos",
+        "description": "Dependiendo del trámite, otros documentos también pueden estar sujetos a apostilla."
+      }
+    ]
   }
 }
