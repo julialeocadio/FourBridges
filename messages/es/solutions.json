@@ -251,6 +251,46 @@
       "au": "Australia",
       "ca": "Canadá"
     },
+    "why": {
+      "title": "¿Por qué considerar la residencia permanente?",
+      "subtitle": "Conozca las posibilidades, los requisitos y los beneficios relacionados con la obtención de una residencia de larga duración.",
+      "stability": {
+        "title": "Mayor estabilidad",
+        "description": "Disfrute de una mayor estabilidad para vivir, trabajar y planificar su futuro en el país de residencia, de acuerdo con las normas aplicables."
+      },
+      "mobility": {
+        "title": "Movilidad internacional",
+        "description": "Mantenga su residencia de larga duración mientras disfruta de las posibilidades de viaje y movilidad internacional permitidas."
+      },
+      "family": {
+        "title": "Posibilidades para la familia",
+        "description": "Dependiendo de las normas aplicables, la residencia permanente puede ofrecer vías y beneficios adicionales para los familiares."
+      },
+      "guidance": {
+        "title": "Orientación durante el proceso",
+        "description": "Cuente con orientación para comprender los requisitos, organizar la documentación y realizar el seguimiento de cada etapa del proceso."
+      }
+    },
+    "services": {
+      "title": "¿Cómo podemos ayudarle?",
+      "subtitle": "Cuente con orientación en las diferentes etapas del proceso de residencia permanente, desde la evaluación inicial hasta la preparación de la documentación.",
+      "eligibility": {
+        "title": "Evaluación de elegibilidad",
+        "description": "Evaluación de la información y las circunstancias de su caso para identificar posibles vías para obtener la residencia permanente."
+      },
+      "application": {
+        "title": "Preparación de la documentación",
+        "description": "Orientación para reunir, organizar y preparar los documentos necesarios para el proceso."
+      },
+      "translations": {
+        "title": "Traducción de documentos",
+        "description": "Asistencia con la traducción de los documentos necesarios para su utilización durante el proceso."
+      },
+      "support": {
+        "title": "Acompañamiento y orientación",
+        "description": "Orientación durante las diferentes etapas del proceso y resolución de dudas que puedan surgir a lo largo del procedimiento."
+      }
+    },
     "cta": {
       "title": "¿Listo para comenzar tu proceso de residencia?",
       "subtitle": "Tanto si estás explorando la vía de residencia que mejor se adapta a tu situación como si ya estás preparando tu solicitud, nuestro equipo está aquí para ayudarte.",
@@ -293,6 +333,26 @@
         "Consultas Online desde Cualquier Lugar",
         "Atención Multilingüe"
       ]
+    },
+    "why": {
+      "title": "¿Por qué considerar invertir en el extranjero?",
+      "subtitle": "Cuente con orientación para conocer las oportunidades, los requisitos y las posibilidades de inversión internacional.",
+      "international": {
+        "title": "Perspectiva internacional",
+        "description": "Explore posibilidades de inversión y expansión en diferentes mercados internacionales."
+      },
+      "opportunities": {
+        "title": "Nuevas oportunidades",
+        "description": "Identifique oportunidades alineadas con sus objetivos de inversión y planes de expansión."
+      },
+      "guidance": {
+        "title": "Orientación especializada",
+        "description": "Reciba orientación durante el proceso y obtenga mayor claridad sobre los requisitos y las etapas involucradas."
+      },
+      "personalized": {
+        "title": "Atención personalizada",
+        "description": "Cuente con una atención adaptada a su perfil, objetivos y necesidades."
+      }
     }
   },
   "citizenship": {
@@ -338,6 +398,26 @@
       "support": {
         "title": "Acompañamiento durante el Proceso",
         "description":"Asistencia continua durante todo tu proceso de solicitud."
+      }
+    },
+    "why": {
+      "title": "¿Por qué considerar la ciudadanía?",
+      "subtitle": "Conozca las posibilidades, los requisitos y los beneficios relacionados con la obtención de la ciudadanía en otro país.",
+      "mobility": {
+        "title": "Mayor movilidad internacional",
+        "description": "Acceda a nuevas posibilidades de viaje, residencia y movilidad internacional, de acuerdo con los derechos asociados a la ciudadanía."
+      },
+      "opportunities": {
+        "title": "Nuevas oportunidades",
+        "description": "Explore oportunidades de estudio, trabajo y desarrollo personal o profesional en diferentes países."
+      },
+      "family": {
+        "title": "Posibilidades para la familia",
+        "description": "Dependiendo de las normas aplicables, la ciudadanía puede ofrecer posibilidades adicionales para familiares y futuras generaciones."
+      },
+      "guidance": {
+        "title": "Orientación durante el proceso",
+        "description": "Cuente con orientación para comprender los requisitos, organizar la documentación y realizar el seguimiento de las distintas etapas del proceso."
       }
     },
     "cta": {

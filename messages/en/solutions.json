@@ -251,6 +251,46 @@
       "au": "Australia",
       "ca": "Canada"
     },
+    "why": {
+      "title": "Why consider permanent residency?",
+      "subtitle": "Understand the possibilities, requirements, and benefits associated with obtaining long-term residency.",
+      "stability": {
+        "title": "Greater stability",
+        "description": "Gain greater stability to live, work, and plan your future in your country of residence, in accordance with the applicable rules."
+      },
+      "mobility": {
+        "title": "International mobility",
+        "description": "Maintain your long-term residency while taking advantage of permitted travel and international mobility opportunities."
+      },
+      "family": {
+        "title": "Possibilities for your family",
+        "description": "Depending on the applicable rules, permanent residency may offer additional pathways and benefits for family members."
+      },
+      "guidance": {
+        "title": "Guidance throughout the process",
+        "description": "Receive guidance to understand the requirements, organize your documentation, and follow each stage of the process."
+      }
+    },
+    "services": {
+      "title": "How can we help?",
+      "subtitle": "Receive guidance at different stages of the permanent residency process, from the initial assessment to document preparation.",
+      "eligibility": {
+        "title": "Eligibility assessment",
+        "description": "Assessment of the information and circumstances of your case to identify potential pathways to permanent residency."
+      },
+      "application": {
+        "title": "Document preparation",
+        "description": "Guidance on gathering, organizing, and preparing the documents required for the process."
+      },
+      "translations": {
+        "title": "Document translation",
+        "description": "Assistance with translating documents required for use during the process."
+      },
+      "support": {
+        "title": "Support and guidance",
+        "description": "Guidance throughout the different stages of the process and assistance with questions that may arise during the procedure."
+      }
+    },
     "cta": {
       "title": "Ready to Start Your Residency Journey?",
       "subtitle": "Whether you're exploring the best residency pathway or preparing to submit your application, our team is here to help you.",
@@ -282,6 +322,26 @@
       "gb": "United Kingdom",
       "ca": "Canada",
       "br": "Brazil"
+    },
+    "why": {
+      "title": "Why consider investing abroad?",
+      "subtitle": "Get guidance to understand opportunities, requirements, and possibilities for international investment.",
+      "international": {
+        "title": "International perspective",
+        "description": "Explore investment and expansion opportunities across different international markets."
+      },
+      "opportunities": {
+        "title": "New opportunities",
+        "description": "Identify opportunities aligned with your investment objectives and expansion plans."
+      },
+      "guidance": {
+        "title": "Specialized guidance",
+        "description": "Receive guidance throughout the process and gain greater clarity about the requirements and steps involved."
+      },
+      "personalized": {
+        "title": "Personalized assistance",
+        "description": "Receive assistance tailored to your profile, objectives, and needs."
+      }
     },
     "cta": {
       "title": "Ready to Start Your Investment Journey?",
@@ -338,6 +398,26 @@
       "support": {
         "title": "Ongoing Support",
         "description": "Continued assistance throughout your application process."
+      }
+    },
+    "why": {
+      "title": "Why consider citizenship?",
+      "subtitle": "Understand the possibilities, requirements, and benefits associated with obtaining citizenship in another country.",
+      "mobility": {
+        "title": "Greater international mobility",
+        "description": "Gain access to new possibilities for travel, residence, and international mobility, depending on the rights associated with citizenship."
+      },
+      "opportunities": {
+        "title": "New opportunities",
+        "description": "Explore opportunities for study, work, and personal or professional development in different countries."
+      },
+      "family": {
+        "title": "Possibilities for your family",
+        "description": "Depending on the applicable rules, citizenship may offer additional possibilities for family members and future generations."
+      },
+      "guidance": {
+        "title": "Guidance throughout the process",
+        "description": "Receive guidance to understand the requirements, organize your documentation, and follow the steps of the process."
       }
     },
     "cta": {
