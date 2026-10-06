@@ -323,6 +323,26 @@
       "pt": "Portugal",
       "ca": "Canadá"
     },
+    "services": {
+      "title": "¿Cómo podemos ayudarle?",
+      "subtitle": "Cuente con orientación para conocer las posibilidades de inversión y organizar las diferentes etapas del proceso.",
+      "assessment": {
+        "title": "Evaluación del perfil",
+        "description": "Evaluación de sus objetivos y circunstancias para identificar posibilidades de inversión y residencia compatibles con su perfil."
+      },
+      "opportunities": {
+        "title": "Orientación sobre oportunidades",
+        "description": "Información sobre posibilidades de inversión y los requisitos relacionados con las diferentes vías de residencia."
+      },
+      "documentation": {
+        "title": "Preparación de la documentación",
+        "description": "Orientación para reunir, organizar y preparar los documentos necesarios para el proceso."
+      },
+      "support": {
+        "title": "Acompañamiento y orientación",
+        "description": "Acompañamiento durante las diferentes etapas del proceso, desde la preparación inicial hasta el seguimiento del procedimiento."
+      }
+    },
     "cta": {
       "title": "¿Listo para comenzar tu proceso de inversión?",
       "subtitle": "Tanto si estás explorando las opciones de visado para inversores como si ya estás preparando tu solicitud, nuestro equipo está aquí para acompañarte en cada paso del proceso.",

@@ -343,6 +343,26 @@
         "description": "Conte com um atendimento adaptado ao seu perfil, objetivos e necessidades."
       }
     },
+    "services": {
+      "title": "Como podemos ajudar?",
+      "subtitle": "Conte com orientação para compreender as possibilidades de investimento e organizar as diferentes etapas do processo.",
+      "assessment": {
+        "title": "Análise do perfil",
+        "description": "Avaliação dos seus objetivos e circunstâncias para identificar possibilidades de investimento e residência compatíveis com o seu perfil."
+      },
+      "opportunities": {
+        "title": "Orientação sobre oportunidades",
+        "description": "Informações sobre possibilidades de investimento e os requisitos relacionados a diferentes caminhos de residência."
+      },
+      "documentation": {
+        "title": "Preparação da documentação",
+        "description": "Orientação para reunir, organizar e preparar os documentos necessários para o processo."
+      },
+      "support": {
+        "title": "Acompanhamento e orientação",
+        "description": "Suporte durante as diferentes etapas do processo, desde a preparação inicial até o acompanhamento do procedimento."
+      }
+    },
     "cta": {
       "title": "Pronto para iniciar sua jornada de investimento?",
       "subtitle": "Seja para conhecer as opções de visto para investidores ou para preparar sua solicitação, nossa equipe está pronta para orientar você em todas as etapas do processo.",

@@ -343,6 +343,26 @@
         "description": "Receive assistance tailored to your profile, objectives, and needs."
       }
     },
+    "services": {
+      "title": "How can we help?",
+      "subtitle": "Receive guidance to understand investment opportunities and organize the different stages of the process.",
+      "assessment": {
+        "title": "Profile assessment",
+        "description": "Assessment of your objectives and circumstances to identify investment and residency possibilities that are compatible with your profile."
+      },
+      "opportunities": {
+        "title": "Guidance on opportunities",
+        "description": "Information about investment opportunities and the requirements associated with different residency pathways."
+      },
+      "documentation": {
+        "title": "Document preparation",
+        "description": "Guidance on gathering, organizing, and preparing the documents required for the process."
+      },
+      "support": {
+        "title": "Support and guidance",
+        "description": "Support throughout the different stages of the process, from initial preparation to follow-up on the procedure."
+      }
+    },
     "cta": {
       "title": "Ready to Start Your Investment Journey?",
       "subtitle": "Whether you're exploring investment visa options or preparing your application, our team is here to guide you through every step of the process.",
