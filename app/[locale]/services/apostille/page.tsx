@@ -1,6 +1,7 @@
 import ApostilleHero from "@/components/sections/services/apostille/ApostlleHero";
 import ApostilleAbout from "@/components/sections/services/apostille/ApostilleAbout";
 import ApostilleDocuments from "@/components/sections/services/apostille/ApostilleDocuments";
+import ApostilleCTA from "@/components/sections/services/apostille/ApostlleCTA";
 
 export default function ApostillePage(){
     return(
@@ -8,6 +9,7 @@ export default function ApostillePage(){
         <ApostilleHero />
         <ApostilleAbout />
         <ApostilleDocuments />
+        <ApostilleCTA />
         </>
     )
 }

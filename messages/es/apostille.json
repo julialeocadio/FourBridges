@@ -49,5 +49,12 @@
         "description": "Dependiendo del trámite, otros documentos también pueden estar sujetos a apostilla."
       }
     ]
+  },
+
+  "cta": {
+    "title": "¿Necesita apostillar sus documentos?",
+    "subtitle": "Cuente con nuestra orientación para preparar sus documentos para su uso en procedimientos internacionales.",
+    "button": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp"
   }
 }

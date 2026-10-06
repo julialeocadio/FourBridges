@@ -49,5 +49,12 @@
         "description": "Dependendo do procedimento, outros documentos também podem estar sujeitos ao apostilamento."
       }
     ]
+  },
+
+  "cta": {
+    "title":"Precisa apostilar seus documentos?",
+    "subtitle": "Conte com nossa orientação para preparar seus documentos para utilização em procedimentos internacionais.",
+    "button": "Agendar uma Consulta",
+    "whatsapp": "Conversar no WhatsApp"
   }
 }

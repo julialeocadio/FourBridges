@@ -49,5 +49,12 @@
             "description": "Depending on the procedure, other documents may also be subject to apostille requirements."
         }
         ]
+    },
+
+    "cta": {
+        "title": "Do you need to apostille your documents?",
+        "subtitle": "Get guidance on preparing your documents for use in international proceedings.",
+        "button": "Request a Consultation",
+        "whatsapp": "Chat on WhatsApp"
     }
 }
