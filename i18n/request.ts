@@ -67,6 +67,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
     family: (await import(`../messages/${locale}/family.json`)).default,
 
+    genealogy: (await import(`../messages/${locale}/genealogy.json`)).default,
+
     footer: (await import(`../messages/${locale}/footer.json`)).default,
 
   };
