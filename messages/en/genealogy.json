@@ -18,5 +18,36 @@
       "title": "Important",
       "text": "Each research project is unique. The availability of documents and information may vary depending on the historical period, country, region, and existing sources."
     }
+  },
+
+  "research": {
+    "title": "What can we research?",
+    "subtitle": "Research can cover different types of historical records and sources, depending on the information available and the objectives of each case.",
+    "items": [
+      {
+        "title": "Birth records",
+        "description": "Locating certificates and records that can help identify dates, places, and family connections."
+      },
+      {
+        "title": "Marriage records",
+        "description": "Researching marriage records to identify family relationships and information about ancestors."
+      },
+      {
+        "title": "Death records",
+        "description": "Locating death records and information that may contribute to reconstructing family history."
+      },
+      {
+        "title": "Religious records",
+        "description": "Researching baptism, marriage, and other records maintained by religious institutions."
+      },
+      {
+        "title": "Origin and residence",
+        "description": "Investigating places of birth, residence, migration, and other information related to the family's history."
+      },
+      {
+        "title": "Family history",
+        "description": "Gathering and organizing information from different sources to help reconstruct family history and relationships."
+      }
+    ]
   }
 }

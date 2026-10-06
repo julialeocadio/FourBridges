@@ -18,5 +18,36 @@
       "title": "Importante",
       "text": "Cada investigación es única. La disponibilidad de documentos e información puede variar en función del período histórico, el país, la región y las fuentes existentes."
     }
+  },
+
+  "research": {
+    "title": "¿Qué podemos investigar?",
+    "subtitle": "La investigación puede abarcar diferentes tipos de registros y fuentes históricas, según la información disponible y los objetivos de cada caso.",
+    "items": [
+      {
+        "title": "Registros de nacimiento",
+        "description": "Localización de certificados y registros que ayuden a identificar fechas, lugares y vínculos familiares."
+      },
+      {
+        "title": "Registros de matrimonio",
+        "description": "Investigación de registros matrimoniales para identificar relaciones familiares e información sobre los antepasados."
+      },
+      {
+        "title": "Registros de defunción",
+        "description": "Localización de registros de fallecimiento e información que pueda contribuir a reconstruir la historia familiar."
+      },
+      {
+        "title": "Registros religiosos",
+        "description": "Investigación de registros de bautismo, matrimonio y otros documentos conservados por instituciones religiosas."
+      },
+      {
+        "title": "Origen y residencia",
+        "description": "Investigación de lugares de nacimiento, residencia, migración y otra información relacionada con la trayectoria familiar."
+      },
+      {
+        "title": "Historia familiar",
+        "description": "Recopilación y organización de información procedente de diferentes fuentes para ayudar a reconstruir la historia y las relaciones familiares."
+      }
+    ]
   }
 }

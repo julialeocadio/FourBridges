@@ -1,7 +1,7 @@
 {
     "hero": {
         "title": "Pesquisa genealógica e história familiar",
-        "susbtitle": "Conte com orientação para pesquisar sua história familiar, localizar documentos e reunir informações sobre seus antepassados.",
+        "subtitle": "Conte com orientação para pesquisar sua história familiar, localizar documentos e reunir informações sobre seus antepassados.",
         "benefits": [
             "Pesquisa de registros históricos",
             "Localização de documentos",
@@ -18,5 +18,36 @@
             "title": "Importante",
             "text": "Cada pesquisa é única. A disponibilidade de documentos e informações pode variar de acordo com o período histórico, o pais, a região e as fontes existentes."
         }
+    },
+
+    "research": {
+        "title": "O que podemos pesquisar?",
+        "subtitle": "A pesquisa pode abranger diferentes tipos de registros e fontes históricas, de acordo com as informações disponíveis e os objetivos de cada caso.",
+        "items": [
+        {
+            "title": "Registros de nascimento",
+            "description": "Localização de certidões e registros que ajudem a identificar datas, locais e vínculos familiares."
+        },
+        {
+            "title": "Registros de casamento",
+            "description": "Pesquisa de registros matrimoniais para identificar relações familiares e informações sobre os antepassados."
+        },
+        {
+        "title": "Registros de óbito",
+        "description": "Localização de registros de falecimento e informações que possam contribuir para a reconstrução da história familiar."
+        },
+        {
+            "title": "Registros religiosos",
+            "description": "Pesquisa em registros de batismo, casamento e outros registros mantidos por instituições religiosas."
+        },
+        {
+            "title": "Origem e residência",
+            "description": "Investigação de locais de nascimento, residência, migração e outras informações relacionadas à trajetória familiar."
+        },
+        {
+            "title": "Histórico familiar",
+            "description": "Reunião e organização de informações de diferentes fontes para ajudar a reconstruir a história e as relações familiares."
+        }
+        ]
     }
 }
