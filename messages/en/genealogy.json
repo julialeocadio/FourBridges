@@ -49,5 +49,12 @@
         "description": "Gathering and organizing information from different sources to help reconstruct family history and relationships."
       }
     ]
+  },
+
+  "cta": {
+    "title": "Ready to start your family history research?",
+    "subtitle": "Get guidance researching records and information that can help reconstruct your family history.",
+    "button": "Request a Consultation",
+    "whatsapp": "Chat on WhatsApp"
   }
 }

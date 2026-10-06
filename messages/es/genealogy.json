@@ -49,5 +49,12 @@
         "description": "Recopilación y organización de información procedente de diferentes fuentes para ayudar a reconstruir la historia y las relaciones familiares."
       }
     ]
+  },
+
+  "cta": {
+    "title": "¿Quiere comenzar su investigación genealógica?",
+    "subtitle": "Cuente con nuestra orientación para investigar registros e información que ayuden a reconstruir la historia de su familia.",
+    "button": "Reservar una Consulta",
+    "whatsapp": "Chatear por WhatsApp"
   }
 }
