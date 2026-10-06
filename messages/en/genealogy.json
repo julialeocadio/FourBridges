@@ -8,5 +8,15 @@
       "Personalized assistance"
     ],
     "consultation": "Request assistance"
+  },
+
+  "about": {
+    "title": "What is genealogical research?",
+    "description": "Genealogical research is the process of investigating historical documents and records to reconstruct a family's history and understand the origins of their ancestors.",
+    "additionalInfo": "Based on the information available, the research may involve locating civil, religious, historical, and other records that can help identify family relationships, places of origin, and different generations.",
+    "important": {
+      "title": "Important",
+      "text": "Each research project is unique. The availability of documents and information may vary depending on the historical period, country, region, and existing sources."
+    }
   }
 }

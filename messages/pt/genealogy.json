@@ -8,5 +8,15 @@
             "Atendimento personalizado"
         ],
         "consultation": "Solicitar atendimento"
+    },
+
+    "about": {
+        "title": "O que é a pesquisa genealógica?",
+        "description": "A pesquisa genealógica é o processo de investigar documentos e registros históricos para reconstruir a história de uma família e compreeder a origem de seus antepassados.",
+        "additionalInfo": "A partir das informações disponíveis, a pesquisa pode envolver a localização de registro civis, religiosos, históricos e outros documentos que ajudem a identificar relações familiares, locais de origem e diferentes gerações.",
+        "important": {
+            "title": "Importante",
+            "text": "Cada pesquisa é única. A disponibilidade de documentos e informações pode variar de acordo com o período histórico, o pais, a região e as fontes existentes."
+        }
     }
 }

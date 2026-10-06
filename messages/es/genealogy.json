@@ -8,5 +8,15 @@
       "Atención personalizada"
     ],
     "consultation": "Solicitar atención"
+  },
+
+  "about": {
+    "title": "¿Qué es la investigación genealógica?",
+    "description": "La investigación genealógica es el proceso de investigar documentos y registros históricos para reconstruir la historia de una familia y conocer el origen de sus antepasados.",
+    "additionalInfo": "A partir de la información disponible, la investigación puede implicar la localización de registros civiles, religiosos, históricos y otros documentos que ayuden a identificar relaciones familiares, lugares de origen y diferentes generaciones.",
+    "important": {
+      "title": "Importante",
+      "text": "Cada investigación es única. La disponibilidad de documentos e información puede variar en función del período histórico, el país, la región y las fuentes existentes."
+    }
   }
 }
