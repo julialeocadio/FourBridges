@@ -16,11 +16,11 @@ export default function Team() {
   const members = [
     {
       id: "member1",
-      image: "/images/team/Paula.jpeg",
+      image: "/images/team/Paula.jpg",
     },
     {
       id: "member2",
-      image: "/images/team/Julia.jpeg",
+      image: "/images/team/Julia.jpg",
     },
     {
       id: "member3",
